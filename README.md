@@ -1,6 +1,6 @@
 # lrfasd.github.io
 
-*ampedZ
+*[ampedZ](https://lrfasd.github.io/ampedZ)
 >DataSearch for Getamped
 
 *rmstZ
