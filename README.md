@@ -1,16 +1,17 @@
 # lrfasd.github.io
-
-## [ampedZ](https://lrfasd.github.io/ampedZ)
->DataSearch for [Getamped](http://bfo.sdo.com)
-
-## [rmstZ](https://lrfasd.github.io/rmstZ)
->TransCode for Music Game
-### 工具特点
-本工具基于html5+javascript开发，具有如下特点：
+>以下工具基于html5+javascript开发，具有如下特点：
 >1. 支持Windows、Mac、Linux、iOS、Android等系统；
 >2. 使用时仅需支持html5的浏览器，绿色、轻量、便携；
 >3. 代码开源，避免后门，保证使用安全；
 >4. 纯客户端操作，无需任何流量。
+
+## [ampedZ](https://lrfasd.github.io/ampedZ)
+>DataSearch for [Getamped](http://bfo.sdo.com)
+
+---
+
+## [rmstZ](https://lrfasd.github.io/rmstZ)
+>TransCode for Music Game
 
 ### 功能简介
 当前具备对谱面文件、音频文件、图片文件、包文件、编码文件和其他文件进行相关操作的功能。
