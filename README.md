@@ -1,4 +1,5 @@
 # lrfasd.github.io
+>## [ampedZ](https://lrfasd.github.io/ampedZ/)
 >以下工具基于html5+javascript开发，具有如下特点：
 >1. 支持Windows、Mac、Linux、iOS、Android等系统；
 >2. 使用时仅需支持html5的浏览器，绿色、轻量、便携；
