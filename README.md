@@ -8,16 +8,16 @@
 >---
 >
 >## [ampedZ](https://lrfasd.github.io/ampedZ)
->>DataSearch for [Getamped](http://bfo.sdo.com)
+>>*DataSearch for [Getamped](http://bfo.sdo.com)*
 >
 >---
 >
 >## [rmstZ](https://lrfasd.github.io/rmstZ)
->>TransCode for Music Game
+>>*TransCode for Music Game*
 >>
 >>当前具备对谱面文件、音频文件、图片文件、包文件、编码文件和其他文件进行相关操作的功能。
 >>
->>* *谱面文件*
+>>* **谱面文件**
 >>
 >>　支持以下文件的读取，部分支持附选项的相互转换，支持多风格谱面及数据的图片绘制：
 >>1. bms、bme、bml（BM系列谱面文件）；
@@ -33,7 +33,7 @@
 >>11. mc（「[Malody](http://m.mugzone.net)」谱面文件）；
 >>12. aff（「[Arcaea](https://arcaea.lowiro.com)」谱面文件）。
 >>
->>* 音频文件
+>>* **音频文件**
 >>
 >>支持以下文件的进阶操作（保留功能）：
 >>1. wav；
@@ -43,7 +43,7 @@
 >>5. m4a；
 >>6. m4r。
 >>
->>* 图片文件
+>>* **图片文件**
 >>
 >>支持以下文件指定尺寸缩放：
 >>1. bmp；
@@ -51,20 +51,20 @@
 >>3. gif；
 >>4. png。
 >>
->>* 包文件
+>>* **包文件**
 >>
 >>支持以下文件的文件提取：
 >>1. zip、apk、ipa、osz、mcz等Deflate压缩文件；
 >>2. 2dx（「BeatmaniaIIDX」资源文件）；
 >>3. ojm（「O2Jam」资源文件）。
 >>
->>* 编码文件
+>>* **编码文件**
 >>
 >>支持以下文件的编码转换：
 >1. hex（十六进制文本文件）；
 >2. base64（base64编码文件）。
 >>
->>* 其他文件
+>>* **其他文件**
 >>
 >>支持以下文件的数据转换：
 >>1. bin（「节奏大师」配置文件）；
