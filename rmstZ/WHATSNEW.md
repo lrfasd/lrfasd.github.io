@@ -10,6 +10,7 @@
 >* “保存”标签的工具提示显示文件相关信息；
 >* 其他细节调整。
 >
+>
 >　【[rmstZ_20170416.html](rmstZ_20170416.html)】
 >* 增强“无叉键”功能，支持去除滑键的交叉；
 >* 增强“无叠键”功能，支持去除重叠的斜键；
@@ -22,6 +23,7 @@
 >* 增加支持vox（「Sound Voltex」谱面）的读取；
 >* 增加支持ksh（「K-Shoot Mania」谱面）的读取；
 >* 选项布局调整。
+>
 >
 >　【[rmstZ_20170404.html](rmstZ_20170404.html)】
 >* 去除“蓝转绿”、“绿转蓝”功能；
@@ -42,6 +44,7 @@
 >* 功能选项位置调整；
 >* 增加支持aff（「Arcara」谱面）的互转。
 >
+>
 >　【[rmstZ_20170325.html](rmstZ_20170325.html)】
 >* 修复变速时不改变BPM的问题；
 >* 修复“自修复”功能的一处bug；
@@ -61,7 +64,7 @@
 >* 扩展url参数，支持功能检测、配置更改、数据输入、数值显示、默认值变更等，详情请参阅?help=all；
 >* 增加作品与作者的跳转链接；
 >* 「节奏大师」官方谱面批量下载功能优化，可独立下载音乐资源；
->* 　（注：TableCom.zip当前最新链接为http://game.ds.qq.com/Com_TableCom_Android_Bin/TableComBin.zip）
+>* 　（注：TableCom.zip当前最新链接为<http://game.ds.qq.com/Com_TableCom_Android_Bin/TableComBin.zip>）
 >* 增加支持tja（「太鼓次郎」谱面）taiko模式、jube模式的互转；
 >* 　（注：双人谱面分为两个谱面，谱面分歧只取最高难度）
 >* 增加支持mc（「Malody」谱面）key模式、step模式、dj模式的互转；
@@ -97,6 +100,7 @@
 >* 增加支持osu（「osu!」谱面）osu模式的互转；
 >* 完善osu（「osu!」谱面）mania模式的互转。
 >
+>
 >　【[rmstZ_20161119.html](rmstZ_20161119.html)】
 >* 修复图片相关功能失效的问题；
 >* 修正乐动达人谱面长条持续时间错误；
@@ -119,6 +123,7 @@
 >* 支持将谱面转为mde；
 >* 键位支持转换3K至18K。
 >
+>
 >　【[rmstZ_20160915.html](rmstZ_20160915.html)】
 >* 修复读取txt失败的问题；
 >* 修复imd长条排序错误的问题；
@@ -128,11 +133,13 @@
 >* 支持谱面2、3倍变速；
 >* 支持键位的简单扩增和收缩（3K至7K）。
 >
+>
 >　【[rmstZ_20160624.html](rmstZ_20160624.html)】
 >* 支持osu全模式转下落式；
 >* 转谱osu时AudioFilename标签默认为.mp3的扩展名，如有其他需要再自行更改；
 >* 修复长键相关计算引起的无限循环bug；
 >* 支持节奏大师星动模式转下落式，可选3至8K。
+>
 >
 >　【[rmstZ_20160408.html](rmstZ_20160408.html)】
 >* 增加对osu的Mode不为3（mania模式）的提示；
@@ -142,6 +149,7 @@
 >* 修正格式列表的显示逻辑；
 >* 对滑键的轨道重合适当兼容（有滑键轨道重合时转谱有损耗）；
 >* 优化滑键的相关连击判定顺序。
+>
 >
 >　【[rmstZ_20151028.html](rmstZ_20151028.html)】
 >* 完善字节序的兼容性；
@@ -165,6 +173,7 @@
 >* 选项“去除Bug”更名“自修复”，增加对重合单、长键的去除，增加对滑、长键衔接的修复；
 >* 键位限制的选项改为自定义选择谱面键位（使用该功能应同时勾选“自修复”选项）。
 >
+>
 >　【[rmstZ_20150716.html](rmstZ_20150716.html)】
 >* 修复转bms的BPM大于255时的标记错误；
 >* 改善xml（「乐动时代」）转谱的性能；
@@ -177,6 +186,7 @@
 >* 　（注：osu!mania下落速度的改变采用BPM变速）
 >* 通过变速和时间戳偏移取消负数时间戳；
 >* 修复转bms的键位比例判定bug。
+>
 >
 >　【[rmstZ_20150707.html](rmstZ_20150707.html)】
 >* ImdToImg：
@@ -197,7 +207,8 @@
 >* 　②使用rmstZ分别打开mrock_song_client_android和mrock_papasong_client并保存对应的.list文件和.bat文件到RM文件夹内；
 >* 　③运行★res_all.bat后，将生成的★res_new.txt全部链接复制到IDM等下载工具并下载到RM文件夹；
 >* 　④批量下载到RM文件夹完毕后执行谱面移动，移动结束后步骤完成，全部谱面文件位于res/song/文件夹内。
->* 　注：上述步骤请操作于Windows操作系统，TableCom.zip当前最新链接为http://game.ds.qq.com/Com_TableCom_Android/TableCom.zip。
+>* 　注：上述步骤请操作于Windows操作系统，TableCom.zip当前最新链接为<http://game.ds.qq.com/Com_TableCom_Android/TableCom.zip>。
+>
 >
 >　【[rmstZ_20150619.html](rmstZ_20150619.html)】
 >* ImdToImg：
@@ -235,6 +246,7 @@
 >*  (21)A2  F8±05 长
 >* 　符合上述条件则使用减损转换）。
 >
+>
 >* 【[rmstZ_20150602.html](rmstZ_20150602.html)】
 >* 代码重构，优化性能；
 >* 增加bms转imd：
@@ -248,6 +260,7 @@
 >* 　优化长键判定；
 >* 其他细节改进。
 >
+>
 >　【[rmstZ_20150511.html](rmstZ_20150511.html)】
 >* 细节优化；
 >* 实现图片的居中裁剪缩放（未实现官方png编码）
@@ -256,6 +269,7 @@
 >* 　→*_title_ipad.png（140×60）
 >* 　→*_ipad.png（1024×768）
 >* 　→*_title_140_90.png（140×90）
+>
 >
 >　【[rmstZ_20150505.html](rmstZ_20150505.html)】
 >* 修复txt转imd的扩展名错误；
@@ -282,12 +296,14 @@
 >* 　→html(img)
 >* 　→imd
 >
+>
 >　【[rmstZ_20150415.html](rmstZ_20150415.html)】
 >* 代码优化；
 >* 标准化时间显示格式；
 >* imd转img增加满分与速率两项；
 >* 增加imd转html，可选4档宽度与4档速率（请注意考虑你设备的处理能力）；
 >* 轻微bug修复。
+>
 >
 >　【[rmstZ_20150407.html](rmstZ_20150407.html)】
 >* 修复导出表格html的中文乱码；
@@ -296,10 +312,12 @@
 >* 轨道线颜色加深；
 >* imd转出的txt可以导回为imd。
 >
+>
 >　【[rmstZ_20150331.html](rmstZ_20150331.html)】
 >* 优化代码；
 >* 改进错误提示；
 >* .xml与.bin文件可以转化并保存为html表格。
+>
 >
 >　【[rmstZ_20150329.html](rmstZ_20150329.html)】
 >* 修复mrock_song_client_android.bin的读取错误；
@@ -338,6 +356,7 @@
 >* 　mrock_txt_client.xml
 >* bin转xml与xml转bin改进类型识别
 >
+>
 >　【[rmstZ_20150328.html](rmstZ_20150328.html)】
 >* 文件的打开增加类型限定；
 >* 文件的保存改为使用File API，支持大文件的保存；
@@ -346,20 +365,25 @@
 >* 针对UC浏览器取消其不支持的保存功能；
 >* 安卓系统推荐使用火狐浏览器
 >
+>
 >　【[rmstZ_20150326.html](rmstZ_20150326.html)】
 >* 实现内存的优化与速度的提升；
 >* 兼容文本文件的打开（虽然没什么用）；
 >
+>
 >　【[rmstZ_20150325.html](rmstZ_20150325.html)】
 >* 初始版本
+>
 >
 >　【[BinToXml_20150324.html](BinToXml_20150324.html)】
 >* 代码聚合；
 >* 支持的格式增加；
 >* 暂不支持的格式进行提示
 >
+>
 >　【[MdeToXml_20150322.html](MdeToXml_20150322.html)】
 >* 代码改进
+>
 >
 >　【[BinToXml_20150322.html](BinToXml_20150322.html)】
 >* 新增支持：
@@ -375,10 +399,12 @@
 >* 　mrock.scoreexchange_client.bin
 >* 　mrock.surviveact_client.bin
 >
+>
 >　【[ImdToImg_20150320.html](ImdToImg_20150320.html)】
 >* 多项功能更新；
 >* 对非标准imd的适当容错；
 >* 注：当图片过大过于复杂时，使用“保存”会使页面崩溃，这时要保存图片请自行“右键——复制图片”
+>
 >
 >　【[BinToXml_20150318.html](BinToXml_20150318.html)】
 >* 函数的优化和改进；
@@ -386,12 +412,14 @@
 >* 　errno_main_client.bin
 >* 　mrock.active_client.bin
 >
+>
 >　【[MdeToXml_20150317.html](MdeToXml_20150317.html)】
 >* 初始版本
+>
 >
 >　【[BinToXml_20150315.html](BinToXml_20150315.html)】
 >* 初始版本
 >
+>
 >　【[ImdToImg_20150307.html](ImdToImg_20150307.html)】
 >* 初始版本
->
