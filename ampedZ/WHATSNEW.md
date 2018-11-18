@@ -1,3 +1,3 @@
-# ¸üÐÂÀúÊ·
->¡¡¡¾[ampedZ_20181118.html](ampedZ_20181118.html)¡¿
->* ³õÊ¼°æ±¾
+# æ›´æ–°åŽ†å²
+>ã€€ã€[ampedZ_20181118.html](ampedZ_20181118.html)ã€‘
+>* åˆå§‹ç‰ˆæœ¬
