@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type"content="text/html;charset=utf-8"/><meta name="viewport"content="width=device-width,initial-scale=1,user-scalable=yes"/>
+<style type="text/css">
+#divRoot{text-align:center;}
+#divTitle{clear:both;margin:16px;}
+#divFile{margin:16px}
+#divInfo{display:none}
+#divList{display:none}
+#divOperate{margin:3px;}
+#divCopyright{clear:both;margin:16px;}
+table{color:#FFFFFF;background-color:#454E5A;border-collapse:collapse;font-family:"FZDaHei-B02S","HYGothic-Extra","Lucida Bright","Lucida Sans","Lucida Sans Typewriter";}
+th,td{border:2px solid#585858}</style></head>
+<body onload="Initialize()">
+<div id="divRoot">
+	<div id="divTitle">ampedZ</div>
+	<div id="divFile"><input id="inputFile"type="file"onchange="ReadFile(event)"/></div>
+	<div id="divInfo"></div>
+	<div id="divList">
+		<select id="selectList"title="List"onchange="ListChanged(event)">
+		</select>
+	</div>
+	<div id="divOperate">
+	</div>
+	<div id="divTable"></div>
+	<div id="divCopyright">Copyright © 心のsky Group</div>
+</div>
+<script type="text/javascript"src="Global.js"></script>
+<script type="text/javascript"src="Table.js"></script>
+<script type="text/javascript"src="ampedZ.js"></script>
+</body></html>
