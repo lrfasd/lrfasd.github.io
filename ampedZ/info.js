@@ -1,0 +1,1 @@
+﻿(function(){window.Info={"file":["ampedZ.zar","ampedZ_r.zar"],"length":["643.35 KB","737.85 KB"],"intro":["设定包","设定包 + 资源包"],"operate":["",""]};})();
