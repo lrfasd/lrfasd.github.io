@@ -86,8 +86,7 @@ function LoadFile(e) {
 	var s = 0;
 	var onProgress = function(e) {
 		if (e.lengthComputable && e.total) {
-			var percent = (e.loaded / e.total / 100).toFixed(2) + " %";
-			console.log([e.lengthComputable,e.loaded,e.total,percent])
+			var percent = (e.loaded / e.total * 100).toFixed(2) + " %";
 			SetInfo(percent);
 		}
 	};
@@ -99,10 +98,7 @@ function LoadFile(e) {
 	r.onreadystatechange = function() {
 		switch(r.readyState) {
 		case 4:
-			if (r.readyState - s == 1) {
-				SetInfo("100 %");
-			}
-			else {
+			if (r.readyState - s > 1) {
 				SetInfo("failed");
 			}
 			break;
