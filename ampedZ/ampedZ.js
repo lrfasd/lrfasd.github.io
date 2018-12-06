@@ -87,7 +87,7 @@ function LoadFile(e) {
 	var onProgress = function(e) {
 		if (e.lengthComputable && e.total) {
 			var percent = (e.loaded / e.total / 100).toFixed(2) + " %";
-			console.log(percent)
+			console.log([e.lengthComputable,e.loaded,e.total,percent])
 			SetInfo(percent);
 		}
 	};
