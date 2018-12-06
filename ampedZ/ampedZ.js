@@ -85,10 +85,11 @@ function LoadFile(e) {
 	var r = new XMLHttpRequest();
 	var s = 0;
 	var onProgress = function(e) {
+		var p = 100;
 		if (e.lengthComputable && e.total) {
-			var percent = (e.loaded / e.total * 100).toFixed(2) + " %";
-			SetInfo(percent);
+			p = e.loaded / e.total * 100;
 		}
+		SetInfo(p.toFixed(2) + " %");
 	};
 	r.addEventListener("progress", onProgress);
 	r.onload = function() {
