@@ -80,16 +80,14 @@ function ReadFile(e) {
   }
 }
 function LoadFile(e) {
-	document.getElementById("divInfo").style.display = "none";
+	SetInfo("100.00 %");
 	var n = e.target.name;
 	var r = new XMLHttpRequest();
 	var s = 0;
 	var onProgress = function(e) {
-		var p = 100;
 		if (e.lengthComputable && e.total) {
-			p = e.loaded / e.total * 100;
+			SetInfo((e.loaded / e.total * 100).toFixed(2) + " %");
 		}
-		SetInfo(p.toFixed(2) + " %");
 	};
 	r.addEventListener("progress", onProgress);
 	r.onload = function() {
