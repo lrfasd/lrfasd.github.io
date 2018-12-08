@@ -126,7 +126,7 @@ return d;})();r["Emblem"]=(function(){var d=[];var k="emblems";if(ser[k]){for(va
 return 1;};d.push({"id":v["id"],"name":v["name"],"icon":v["icon"],"desc":v["desc"],"msg":v["msg"],"pts":getOdds("pts"),"gm":getOdds("gm"),"sex":v["sex"],"iconmax":v["iconmax"],"conditions":br(v["conditions"]),"get_type":br(v["get_type"])});}}}
 return d;})();r["Emotion"]=(function(){var d=[];var k="emotions";if(ser[k]){for(var n in ser[k]){var v=ser[k][n];if(v["id"]){d.push({"id":v["id"],"name":v["name"],"grade":v["grade"]});}}}
 return d;})();r["Emoticon"]=(function(){var d=[];var k="emoticons";if(ser[k]){for(var n in ser[k]){var v=ser[k][n];if(v["id"]){d.push({"id":v["id"],"name":v["name"],"icon":v["icon"],"grade":v["grade"],"time":v["time"],"loop":v["loop"]});}}}
-return d;})();console.log(ser)}
+return d;})();}
 return r;})();Icon=(function(){var r={};if(File["resource.tab"]){var tab=File["resource.tab"].extractFlieList();for(var i=0;i<tab.length;i++){if(tab[i]["name"]&&tab[i]["buffer"]){r[tab[i]["name"].replace(/-/g,"/").replace(/(.*).bmp/,'$1.tex')]=URL.createObjectURL(new Blob([tab[i]["buffer"]],{"type":"image/bmp"}));}}}
 return r;})();isValid=true;};var getTable=function(c){if(Catagory.indexOf(c)!=-1){var t=Data[c];var r=document.createElement("table");r.name=c;var th=r.createTHead();if(t.length){var header=th.insertRow();for(var n in t[0]){var h=document.createElement("th");h.innerHTML=n;header.appendChild(h);}}
 var tb=r.createTBody();for(var i=0;i<t.length;i++){var row=tb.insertRow();for(var n in t[i]){switch(n){case"icon":if(Icon[t[i][n]]){var img=new Image();img.src=Icon[t[i][n]];row.insertCell().appendChild(img);}
