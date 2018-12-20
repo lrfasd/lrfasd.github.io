@@ -106,6 +106,7 @@ function LoadFile(e) {
 	r.addEventListener("progress", onProgress);
 	r.onload = function() {
 		r.removeEventListener("progress", onProgress);
+		SetInfo("reading");
 		ReadBlob(n, r.response);
 	};
 	r.onreadystatechange = function() {
