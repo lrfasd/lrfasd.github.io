@@ -97,7 +97,7 @@ function LoadFile(e) {
 		if (e.lengthComputable && e.total) {
 			var n = new Date();
 			var v = (e.loaded - l) / (n - t);
-			SetInfo(e.loaded.toByteLength(2) + " / " + e.total.toByteLength(2) + " - " + (e.loaded / e.total * 100).toFixed(2) + " %" + "/r/n" + (v * 1000).toByteLength(2) + "/s" + "　　　　" + new Date((e.total - e.loaded) / v - 8 * 3600 * 1000).format("time"));
+			SetInfo(e.loaded.toByteLength(2) + " / " + e.total.toByteLength(2) + " - " + (e.loaded / e.total * 100).toFixed(2) + " %" + "/r/n" + (v * 1000).toByteLength(2) + "/s" + "　　" + new Date((e.total - e.loaded) / v - 8 * 3600 * 1000).format("time"));
 			t = n;
 			l = e.loaded;
 		}
