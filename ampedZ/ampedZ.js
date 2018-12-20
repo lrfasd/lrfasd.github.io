@@ -96,12 +96,13 @@ function LoadFile(e) {
 	var onProgress = function(e) {
 		if (e.lengthComputable && e.total) {
 			var n = new Date();
-			var v = (e.loaded - l) / (n - t);
-			var d = (e.total - e.loaded) / v;
-			console.log([e.loaded - l,n - t,(d ? v * 1000 : 0).toByteLength(2) + "/s"])
-			SetInfo(e.loaded.toByteLength(2) + " / " + e.total.toByteLength(2) + " - " + (e.loaded / e.total * 100).toFixed(2) + " %" + "/r/n" + (d ? v * 1000 : 0).toByteLength(2) + "/s" + "　　" + new Date(d - 8 * 3600 * 1000).format("time"));
-			t = n;
-			l = e.loaded;
+			if (n - t >= 1000) {
+				var v = (e.loaded - l) / (n - t);
+				var d = (e.total - e.loaded) / v;
+				SetInfo(e.loaded.toByteLength(2) + " / " + e.total.toByteLength(2) + " - " + (e.loaded / e.total * 100).toFixed(2) + " %" + "/r/n" + (d ? v * 1000 : 0).toByteLength(2) + "/s" + "　　" + new Date(d - 8 * 3600 * 1000).format("time"));
+				t = n;
+				l = e.loaded;
+			}
 		}
 	};
 	r.addEventListener("progress", onProgress);
