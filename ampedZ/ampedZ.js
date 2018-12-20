@@ -95,12 +95,11 @@ function LoadFile(e) {
 	var s = 0;
 	var onProgress = function(e) {
 		if (e.lengthComputable && e.total) {
-			console.log(e.lengthComputable + " " + typeof e.lengthComputable)
 			var n = new Date();
-			var v = (e.lengthComputable - l) / (n - t);
-			SetInfo(e.lengthComputable.toByteLength +" / " + e.total.toByteLength + " - " + (e.loaded / e.total * 100).toFixed(2) + " %" + "/r/n" + (v * 1000).toByteLength + "KB/s" + " " + new Date((e.total - e.lengthComputable) / v).format("time"));
+			var v = (e.loaded - l) / (n - t);
+			SetInfo(e.loaded.toByteLength + " / " + e.total.toByteLength + " - " + (e.loaded / e.total * 100).toFixed(2) + " %" + "/r/n" + (v * 1000).toByteLength + "KB/s" + " " + new Date((e.total - e.loaded) / v).format("time"));
 			t = n;
-			l = e.lengthComputable;
+			l = e.loaded;
 		}
 	};
 	r.addEventListener("progress", onProgress);
