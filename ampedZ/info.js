@@ -1,1 +1,1 @@
-(function(){window.Info={"file":["ampedZ.zar","ampedZ_d.zar","ampedZ_r.zar","ampedZ_dr.zar"],"length":["655.33 KB","938.93KB","6.02MB","6.29MB"],"intro":["设定","设定、字典","设定、资源","设定、字典、资源"],"operate":["","","",""]};})();
+(function(){window.Info={"file":["ampedZ.zar","ampedZ_d.zar","ampedZ_r.zar","ampedZ_dr.zar"],"length":["659.50KB","943.10KB","6.05MB","6.33MB"],"intro":["设定","设定、字典","设定、资源","设定、字典、资源"],"operate":["","","",""]};})();
