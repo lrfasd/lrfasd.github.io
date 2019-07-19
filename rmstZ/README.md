@@ -22,6 +22,7 @@
 >11. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
 >12. mc（「[Malody](http://m.mugzone.net/)」谱面文件）；
 >13. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>
 >　支持以下风格谱面数据的绘制：
 >1. bms（「Beat Mania」风格）；
 >2. tja（「太鼓次郎」风格）；
