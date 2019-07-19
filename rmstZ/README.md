@@ -22,7 +22,8 @@
 >11. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
 >12. mc（「[Malody](http://m.mugzone.net/)」谱面文件）；
 >
-> 按摩时
+> key模式
+>
 >13. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
 >
 >　支持以下风格的谱面数据绘制：
