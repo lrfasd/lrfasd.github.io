@@ -17,8 +17,11 @@
 >6. osu（「[osu!](https://osu.ppy.sh/)」谱面文件）；
 >
 > 　　osu模式
+>
 > 　　taiko模式
+>
 > 　　ctb模式
+>
 > 　　mania模式
 >
 >7. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
@@ -29,12 +32,19 @@
 >12. mc（「[Malody](http://m.mugzone.net/)」谱面文件）；
 >
 > 　　key模式
+>
 > 　　step模式
+>
 > 　　dj模式
+>
 > 　　catch模式
+>
 > 　　pad模式
+>
 > 　　taiko模式
+>
 > 　　ring模式
+>
 > 　　slide模式
 >
 >13. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
