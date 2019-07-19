@@ -8,10 +8,10 @@
 >
 >* **谱面文件**
 >
->　支持以下文件的读取，部分支持附选项的相互转换，支持多风格谱面及数据的图片绘制：
->1. bms、bme、bml（BM系列谱面文件）；
+>　支持以下文件的读取，部分支持附选项的相互转换：
+>1. bms、bme、bml（「Beat Mania」系列谱面文件）；
 >2. pms（「pop'n music」谱面文件）；
->3. sm、sma、ssc（SM系列谱面文件）；
+>3. sm、sma、ssc（「Step Mania」系列谱面文件）；
 >4. tja（「太鼓次郎」谱面文件）；
 >5. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
 >6. osu（「[osu!](https://osu.ppy.sh/)」谱面文件）；
@@ -21,7 +21,14 @@
 >10. imd（「[节奏大师](http://da.qq.com/)」普通模式谱面文件）；
 >11. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
 >12. mc（「[Malody](http://m.mugzone.net/)」谱面文件）；
->13. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）。
+>13. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>　支持以下风格谱面数据的绘制：
+>1. bms（「Beat Mania」风格）；
+>2. tja（「太鼓次郎」风格）；
+>3. osu（「[osu!](https://osu.ppy.sh/)」风格）；
+>4. imd（「[节奏大师](http://da.qq.com/)」风格）；
+>5. mc（「[Malody](http://m.mugzone.net/)」风格）；
+>6. aff（「[Arcaea](https://arcaea.lowiro.com/)」风格）。
 >
 >* **音频文件**
 >
