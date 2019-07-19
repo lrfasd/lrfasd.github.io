@@ -12,7 +12,9 @@
 >1. bms、bme、bml（「Beat Mania」系列谱面文件）；
 >2. pms（「pop'n music」谱面文件）；
 >3. sm、sma、ssc（「Step Mania」系列谱面文件）；
->4. tja（「太鼓次郎」谱面文件）；
+>4. tja（「太鼓次郎」谱面文件）；  
+├ taiko  
+└ jube 
 >5. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
 >6. osu（「[osu!](https://osu.ppy.sh/)」谱面文件）；  
 ├ osu  
