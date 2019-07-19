@@ -12,27 +12,15 @@
 >1. bms、bme、bml（「Beat Mania」系列谱面文件）；
 >2. pms（「pop'n music」谱面文件）；
 >3. sm、sma、ssc（「Step Mania」系列谱面文件）；
->4. tja（「太鼓次郎」谱面文件→taiko/jube）；
+>4. tja（「太鼓次郎」谱面文件 taiko/jube）；
 >5. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
->6. osu（「[osu!](https://osu.ppy.sh/)」谱面文件）；  
-├ osu  
-├ taiko  
-├ ctb  
-└ mania  
+>6. osu（「[osu!](https://osu.ppy.sh/)」谱面文件 osu/taiko/ctb/mania）；
 >7. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
 >8. vox（「SOUND VOLTEX」谱面文件）；
 >9. ksh（「K-Shoot Mania」谱面文件）；
 >10. imd（「[节奏大师](http://da.qq.com/)」普通模式谱面文件）；
 >11. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
->12. mc（「[Malody](http://m.mugzone.net/)」谱面文件）；  
-├ key  
-├ step  
-├ dj  
-├ catch  
-├ pad  
-├ taiko  
-├ ring  
-└ slide  
+>12. mc（「[Malody](http://m.mugzone.net/)」谱面文件 key/step/dj/catch/pad/taiko/ring/slide）；
 >13. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
 >
 >　支持以下风格的谱面数据绘制：
