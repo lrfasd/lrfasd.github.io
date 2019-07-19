@@ -23,7 +23,7 @@
 >12. mc（「[Malody](http://m.mugzone.net/)」谱面文件）；
 >13. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
 >
->　支持以下风格谱面数据的绘制：
+>　支持以下风格的谱面数据绘制：
 >1. bms（「Beat Mania」风格）；
 >2. tja（「太鼓次郎」风格）；
 >3. osu（「[osu!](https://osu.ppy.sh/)」风格）；
