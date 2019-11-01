@@ -11,8 +11,8 @@
 >　支持以下文件的读取，部分支持附选项的相互转换：
 >1. bms、bme、bml（「Beat Mania」系列谱面文件）；
 >2. pms（「pop'n music」谱面文件）；
->3. sm、sma、ssc（「Step Mania」系列谱面文件）；
->4. msd（「DanceDanceRevolution」谱面文件）；
+>3. msd（「DanceDanceRevolution」谱面文件）；
+>4. sm、sma、ssc（「Step Mania」系列谱面文件）；
 >5. sdf（「Pocket DDR」谱面文件）；
 >6. dwi（「Dance With Intensity」谱面文件）；
 >7. ksf（「Kick It Up」谱面文件）；
