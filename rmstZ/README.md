@@ -9,9 +9,9 @@
 >* **谱面文件**
 >
 >　支持以下文件的读取，部分支持附选项的相互转换：
->1. bms、bme、bml（「Beat Mania」系列谱面文件）；
->2. pms（「pop'n music」谱面文件）；
->3. vos（「Virtual Orchestra Studio」、「CanMusic」谱面文件）；
+>1. vos（「Virtual Orchestra Studio」、「CanMusic」谱面文件）；
+>2. bms、bme、bml（「Beat Mania」系列谱面文件）；
+>3. pms（「pop'n music」谱面文件）；
 >4. msd（「Dance Dance Revolution」谱面文件）；
 >5. sm、sma、ssc（「Step Mania」系列谱面文件）；
 >6. sdf（「Pocket DDR」谱面文件）；
