@@ -11,23 +11,24 @@
 >　支持以下文件的读取，部分支持附选项的相互转换：
 >1. bms、bme、bml（「Beat Mania」系列谱面文件）；
 >2. pms（「pop'n music」谱面文件）；
->3. msd（「DanceDanceRevolution」谱面文件）；
->4. sm、sma、ssc（「Step Mania」系列谱面文件）；
->5. sdf（「Pocket DDR」谱面文件）；
->6. dwi（「Dance With Intensity」谱面文件）；
->7. ksf（「Kick It Up」谱面文件）；
->8. ucs（「Pump It Up」谱面文件）；
->9. dance（「pydance」谱面文件）；
->10. tja（「太鼓次郎」谱面文件，包含taiko、jube模式）；
->11. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
->12. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包含osu、taiko、ctb、mania模式）；
->13. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
->14. vox（「SOUND VOLTEX」谱面文件）；
->15. ksh（「K-Shoot Mania」谱面文件）；
->16. imd（「[节奏大师](http://da.qq.com/)」普通模式谱面文件）；
->17. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
->18. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包含key、step、dj、catch、pad、taiko、ring、slide模式）；
->19. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>3. vos（「Virtual Orchestra Studio」、「CanMusic」谱面文件）；
+>4. msd（「Dance Dance Revolution」谱面文件）；
+>5. sm、sma、ssc（「Step Mania」系列谱面文件）；
+>6. sdf（「Pocket DDR」谱面文件）；
+>7. dwi（「Dance With Intensity」谱面文件）；
+>8. ksf（「Kick It Up」谱面文件）；
+>9. ucs（「Pump It Up」谱面文件）；
+>10. dance（「pydance」谱面文件）；
+>11. tja（「太鼓次郎」谱面文件，包含taiko、jube模式）；
+>12. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
+>13. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包含osu、taiko、ctb、mania模式）；
+>14. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
+>15. vox（「SOUND VOLTEX」谱面文件）；
+>16. ksh（「K-Shoot Mania」谱面文件）；
+>17. imd（「[节奏大师](http://da.qq.com/)」普通模式谱面文件）；
+>18. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
+>19. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包含key、step、dj、catch、pad、taiko、ring、slide模式）；
+>20. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
 >
 >　支持以下风格的谱面数据绘制：
 >1. bms（「Beat Mania」风格）；
@@ -36,6 +37,11 @@
 >4. imd（「[节奏大师](http://da.qq.com/)」风格）；
 >5. mc（「[Malody](http://m.mugzone.net/)」风格）；
 >6. aff（「[Arcaea](https://arcaea.lowiro.com/)」风格）。
+>
+>* **曲谱文件**
+>
+>　支持以下文件的谱面转换：
+>1. mid。
 >
 >* **音频文件**
 >
@@ -59,9 +65,8 @@
 >
 >　支持以下文件的文件提取：
 >1. zip、apk、ipa、osz、mcz等Deflate压缩文件；
->2. ifs（「Beatmania」资源文件）；
->3. 2dx（「BeatmaniaIIDX」资源文件）；
->4. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件）。
+>2. 2dx（「BeatmaniaIIDX」资源文件）；
+>3. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件）。
 >
 >* **编码文件**
 >
