@@ -16,19 +16,20 @@
 >5. sm、sma、ssc（「Step Mania」系列谱面文件）；
 >6. sdf（「Pocket DDR」谱面文件）；
 >7. dwi（「Dance With Intensity」谱面文件）；
->8. ksf（「Kick It Up」谱面文件）；
->9. ucs（「Pump It Up」谱面文件）；
->10. dance（「pydance」谱面文件）；
->11. tja（「太鼓次郎」谱面文件，包含taiko、jube模式）；
->12. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
->13. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包含osu、taiko、ctb、mania模式）；
->14. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
->15. vox（「SOUND VOLTEX」谱面文件）；
+>8. pt（「「DJMax」谱面文件）；
+>9. ksf（「Kick It Up」谱面文件）；
+>10. ucs（「Pump It Up」谱面文件）；
+>11. dance（「pydance」谱面文件）；
+>12. tja（「太鼓次郎」谱面文件，包含taiko、jube模式）；
+>13. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
+>14. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包含osu、taiko、ctb、mania模式）；
+>15. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
+>16. vox（「SOUND VOLTEX」谱面文件）；
 >16. ksh（「K-Shoot Mania」谱面文件）；
->17. imd（「[节奏大师](http://da.qq.com/)」普通模式谱面文件）；
->18. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
->19. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包含key、step、dj、catch、pad、taiko、ring、slide模式）；
->20. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>18. imd（「[节奏大师](http://da.qq.com/)」普通模式谱面文件）；
+>19. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
+>20. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包含key、step、dj、catch、pad、taiko、ring、slide模式）；
+>21. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
 >
 >　支持以下风格的谱面数据绘制：
 >1. bms（「Beat Mania」风格）；
