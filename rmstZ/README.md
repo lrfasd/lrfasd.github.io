@@ -16,7 +16,7 @@
 >5. sm、sma、ssc（「Step Mania」系列谱面文件）；
 >6. sdf（「Pocket DDR」谱面文件）；
 >7. dwi（「Dance With Intensity」谱面文件）；
->8. pt（「「DJMax」谱面文件）；
+>8. pt（「DJMax」谱面文件）；
 >9. ksf（「Kick It Up」谱面文件）；
 >10. ucs（「Pump It Up」谱面文件）；
 >11. dance（「pydance」谱面文件）；
