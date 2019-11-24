@@ -1,5 +1,20 @@
 # rmstZ
 ## 更新历史
+>　【[rmstZ_20191124.html](rmstZ_20191124.html)】
+>* 优化写入sm系谱面元数据默认值;
+>* 重构bms系谱面02通道的读写;
+>* 写入osu时支持时停；
+>* 修复谱面绘图bms风格节拍数据缺失的问题；
+>* 优化对谱面长度的计算；
+>* 完善与虚键相关的配置；
+>* 读取imd时限制bpm最小为1；
+>* 增加支持msd（「Dance Dance Revolution」谱面）的读写；
+>* 增加支持dwi（「Dance With Intensity」谱面）的读写；
+>* 增加支持pt（「DJMax」谱面）的读入；
+>* 增加支持vos（「Virtual Orchestra Studio」、「CanMusic」谱面）的读入；
+>* 增加支持mid的读入并生成谱面；
+>* 增强轨道计算时中点的交叉计算。
+---
 >　【[rmstZ_20191101.html](rmstZ_20191101.html)】
 >* 修复写入sm、sma、ssc谱面的一些问题；
 >* 修复“锁键”无效的问题；
