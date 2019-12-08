@@ -1,7 +1,7 @@
 # rmstZ
 ## 功能介绍
 >
->*TransCode for Music Game*
+>*TransData for Music Game*
 >
 >[先行代码](EARLYCODE.md)
 >
