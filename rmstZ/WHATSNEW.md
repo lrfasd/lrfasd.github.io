@@ -1,9 +1,9 @@
 # rmstZ
->*TransData for Music Games*
->
->[先行代码](EARLYCODE.md)
->
->[功能介绍](README.md)
+*TransData for Music Games*
+
+[先行代码](EARLYCODE.md)
+
+[功能介绍](README.md)
 ## 更新历史
 >　【[rmstZ_20191124.html](rmstZ_20191124.html)】
 >* 优化写入sm系谱面元数据默认值;
