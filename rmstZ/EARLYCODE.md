@@ -1,7 +1,10 @@
 # rmstZ
 *TransData for Music Games*
+
 [功能介绍](README.md)
+
 [更新历史](WHATSNEW.md)
+
 ## 先行代码
 >现对rmstZ项目予以捐赠赠送先行代码体验特权：
 >***先行代码：指版本更新前的代码，分为阶段代码和即时代码。***
