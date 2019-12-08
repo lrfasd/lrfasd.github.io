@@ -1,5 +1,5 @@
 # rmstZ
->*TransData for Music Game*
+>*TransData for Music Games*
 >
 >[先行代码](EARLYCODE.md)
 >
