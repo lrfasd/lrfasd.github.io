@@ -1,11 +1,10 @@
 # ampedZ
->
 >*DataSearch for [Getamped](http://bfo.sdo.com/)*
 >
 >[更新历史](WHATSNEW.md)
 >
 >[推荐字体](FONTS.md)
->
+## 功能介绍
 >当前具备对下列数据进行相关查询的功能：
 >
 >* 职业
