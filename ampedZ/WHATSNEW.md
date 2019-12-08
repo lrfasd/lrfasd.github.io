@@ -1,4 +1,9 @@
 # ampedZ
+>*DataSearch for [Getamped](http://bfo.sdo.com/)*
+>
+>[功能介绍](README.md)
+>
+>[推荐字体](FONTS.md)
 ## 更新历史
 >　【[ampedZ_20190515.html](ampedZ_20190515.html)】
 >* 添加图集收藏工具；
