@@ -1,4 +1,9 @@
 # ampedZ
+>*DataSearch for [Getamped](http://bfo.sdo.com/)*
+>
+>[功能介绍](README.md)
+>
+>[更新历史](WHATSNEW.md)
 ## 推荐字体
 >
 >为保证显示效果，推荐安装[字体包](fonts.zip)。
