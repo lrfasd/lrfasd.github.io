@@ -87,6 +87,7 @@
 >* 修复读取osu节拍数据出错的问题；
 >* 读写osu支持StoryBoard；
 >* 增加支持mc（「Malody」谱面）slide模式的互转。
+>
 > ---
 >　【[rmstZ_20181230.html](rmstZ_20181230.html)】
 >* 多谱面格式支持复数选择；
