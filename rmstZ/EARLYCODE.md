@@ -13,8 +13,8 @@
 >
 > 捐赠金额|阶段代码|即时代码|特权人数|特权链接
 > --:|:-:|:-:|--:|:--
-> 98.06|√|×|0|
-> 198.06|√|√|0|
+> 98.06|√|×|0|[链接](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+> 198.06|√|√|0|[链接](https://www.jianguoyun.com/p/Dbfot6gQitn5BxjmpbAC)
 >
 > ---
 >* **捐赠方式**
