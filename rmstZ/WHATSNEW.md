@@ -4,6 +4,8 @@
 >[先行代码](EARLYCODE.md)
 >
 >[功能介绍](README.md)
+>
+>[测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　【[rmstZ_20191124.html](rmstZ_20191124.html)】
 >* 优化写入sm系谱面元数据默认值;
