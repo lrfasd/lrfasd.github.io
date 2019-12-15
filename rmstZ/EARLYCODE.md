@@ -4,6 +4,8 @@
 >[功能介绍](README.md)
 >
 >[更新历史](WHATSNEW.md)
+>
+>[测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 先行代码
 >*先行代码：版本更新前的代码，分为阶段代码和即时代码。*  
 >*阶段代码：子功能完成后的阶段性代码，可用于先行测试。*  
