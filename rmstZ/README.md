@@ -5,7 +5,7 @@
 >
 >[更新历史](WHATSNEW.md)
 >
->[★测试资源★](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
+>[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 功能介绍
 >当前具备对谱面文件、曲谱文件、音频文件、图片文件、包文件、编码文件和其他文件进行相关操作的功能。
 >
