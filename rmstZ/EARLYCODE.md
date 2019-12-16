@@ -5,7 +5,7 @@
 >
 >[更新历史](WHATSNEW.md)
 >
->[★测试资源★](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
+>[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 先行代码
 >*先行代码：版本更新前的代码，分为阶段代码和即时代码。*  
 >*阶段代码：子功能完成后的阶段性代码，可用于先行测试。*  
@@ -15,8 +15,8 @@
 >
 > 捐赠金额|阶段代码|即时代码|特权人数|特权链接
 > --:|:-:|:-:|--:|:--:
-> 98.06|√|×|0|[★链接★](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
-> 198.06|√|√|0|[★链接★](https://www.jianguoyun.com/p/Dbfot6gQitn5BxjmpbAC)
+> 98.06|√|×|0|[[N]链接](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+> 198.06|√|√|0|[[N]链接](https://www.jianguoyun.com/p/Dbfot6gQitn5BxjmpbAC)
 >
 > ---
 >* **捐赠方式**
