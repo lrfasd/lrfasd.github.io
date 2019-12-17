@@ -7,6 +7,13 @@
 >
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
+>　【[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)】
+>* 增加支持Criware资源格式cpk、acb、acf、awb的读取；
+>* 谱面绘图绘制谱面标题限制宽度；
+>* 优化谱面绘图默认风格的判断逻辑；
+>* 优化写aff时虹弧的同时同色冲突；。
+>
+> ---
 >　【[rmstZ_20191124.html](rmstZ_20191124.html)】
 >* 优化写入sm系谱面元数据默认值;
 >* 重构bms系谱面02通道的读写;
