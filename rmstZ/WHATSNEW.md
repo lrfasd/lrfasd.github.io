@@ -7,7 +7,7 @@
 >
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
->　【[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)】
+>　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
 >* 增加支持Criware资源格式cpk、acb、acf、awb的读取；
 >* 谱面绘图绘制谱面标题限制宽度；
 >* 优化谱面绘图默认风格的判断逻辑；
