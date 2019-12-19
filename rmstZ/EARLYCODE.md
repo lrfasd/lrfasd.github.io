@@ -13,10 +13,10 @@
 >
 >**现对rmstZ项目予以捐赠者，如捐赠金额恰好为下述金额，经申请赠送对应先行代码尝鲜特权！**
 >
-> 捐赠金额|阶段代码|即时代码|特权人数|特权链接
+> 捐赠金额|阶段代码|即时代码|特权链接
 > --:|:-:|:-:|--:|:--:
-> 98.06|√|×|0|[[N]链接](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
-> 198.06|√|√|0|[[N]链接](https://www.jianguoyun.com/p/Dbfot6gQitn5BxjmpbAC)
+> 98.06|√|×|[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+> 198.06|√|√|[[N]即时代码](https://www.jianguoyun.com/p/Dbfot6gQitn5BxjmpbAC)
 >
 > ---
 >* **捐赠方式**
