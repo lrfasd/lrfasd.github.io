@@ -8,13 +8,13 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
->* 增加支持Criware资源格式cpk、acb、acf、awb的读取；
+>* 增加支持Criware资源文件cpk、acb、acf、awb的读取；
 >* 谱面绘图绘制谱面标题限制宽度；
 >* 优化谱面绘图默认风格的判断逻辑；
 >* 优化写aff时虹弧的同时同色冲突；
 >* 增强对文件名的智能识别；
 >* 包文件提取增加以非压缩zip保存全部文件的功能；
->* 增加支持musync（「同步音律」谱面）的读写（需指定扩展名）。
+>* 增加支持musync（「同步音律」谱面，包含明文和加密，需指定扩展名）的读写。
 >
 > ---
 >　【[rmstZ_20191124.html](rmstZ_20191124.html)】
