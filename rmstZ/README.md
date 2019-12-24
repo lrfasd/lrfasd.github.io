@@ -33,7 +33,7 @@
 >19. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
 >20. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包含key、step、dj、catch、pad、taiko、ring、slide模式）；
 >21. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
->22. musync（「同步音律」谱面文件）～需指定扩展名。
+>22. musync（「同步音律」谱面文件）*需指定扩展名*。
 >
 >　支持以下风格的谱面数据绘制：
 >1. bms（「Beat Mania」风格）；
