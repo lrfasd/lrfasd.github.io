@@ -12,9 +12,9 @@
 >* **谱面文件**
 >
 >　支持以下文件的读取，部分支持附选项的相互转换：
->1. vos（「Virtual Orchestra Studio」、「CanMusic」谱面文件）；
->2. bms、bme、bml（「Beat Mania」系列谱面文件）；
->3. pms（「pop'n music」谱面文件）；
+>1. vos（「Virtual Orchestra Studio」、「CanMusic」谱面文件，包括000、001、006、022版本）；
+>2. bms、bme、bml（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
+>3. pms（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
 >4. msd（「Dance Dance Revolution」谱面文件）；
 >5. sm、sma、ssc（「Step Mania」系列谱面文件）；
 >6. sdf（「Pocket DDR」谱面文件）；
@@ -23,17 +23,18 @@
 >9. ksf（「Kick It Up」谱面文件）；
 >10. ucs（「Pump It Up」谱面文件）；
 >11. dance（「pydance」谱面文件）；
->12. tja（「太鼓次郎」谱面文件，包含taiko、jube模式）；
+>12. tja（「太鼓次郎」谱面文件，包括taiko、jube模式）；
 >13. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
->14. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包含osu、taiko、ctb、mania模式）；
->15. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
->16. vox（「SOUND VOLTEX」谱面文件）；
->16. ksh（「K-Shoot Mania」谱面文件）；
->18. imd（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
->19. mde（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
->20. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包含key、step、dj、catch、pad、taiko、ring、slide模式）；
->21. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
->22. musync（「同步音律」谱面文件，包含明文和加密，需指定扩展名）。
+>14. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包括osu、taiko、ctb、mania模式）；
+>15. xml（「[乐动达人](http://yd2012.redatoms.com/)」谱面文件）；
+>16. xml（「[乐动时代](http://www.ydsd.com/)」谱面文件）；
+>17. vox（「SOUND VOLTEX」谱面文件）；
+>18. ksh（「K-Shoot Mania」谱面文件）；
+>19. imd（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
+>20. mde（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
+>21. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
+>22. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>23. txt（「同步音律」谱面文件，包括明文和加密）。
 >
 >　支持以下风格的谱面数据绘制：
 >1. bms（「Beat Mania」风格）；
@@ -72,7 +73,7 @@
 >1. zip、apk、ipa、osz、mcz（Deflate压缩文件）；
 >2. cpk、acb、acf、awb（Criware资源文件）；
 >3. 2dx（「BeatmaniaIIDX」资源文件）；
->4. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件）。
+>4. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件，包括OJM、OMC编码）。
 >
 >* **编码文件**
 >
