@@ -29,8 +29,8 @@
 >15. xml（「[乐动达人](http://yd2012.redatoms.com/)」「[乐动时代](http://www.ydsd.com/)」等谱面文件）；
 >16. vox（「SOUND VOLTEX」谱面文件）；
 >16. ksh（「K-Shoot Mania」谱面文件）；
->18. imd（「[节奏大师](http://da.qq.com/)」普通模式谱面文件）；
->19. mde（「[节奏大师](http://da.qq.com/)」星动模式谱面文件）；
+>18. imd（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
+>19. mde（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
 >20. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包含key、step、dj、catch、pad、taiko、ring、slide模式）；
 >21. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
 >22. musync（「同步音律」谱面文件，包含明文和加密，需指定扩展名）。
