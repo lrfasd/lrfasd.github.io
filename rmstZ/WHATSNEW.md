@@ -8,6 +8,10 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+>* 。。
+>
+> ---
+>　【[rmstZ_20191231.html](rmstZ_20191231.html)】
 >* 增加支持Criware资源格式cpk、acb、acf、awb的读取；
 >* 谱面绘图绘制谱面标题限制宽度；
 >* 优化谱面绘图默认风格的判断逻辑；
@@ -16,7 +20,9 @@
 >* 包文件提取增加以非压缩zip保存全部文件的功能；
 >* 增加支持txt（「音乐世界」谱面，包含原版和Version2）的读写；
 >* 增加支持txt（「音乐世界2」谱面）的读写；
->* 增加支持txt（「同步音律」谱面，包含明文和加密）的读写。
+>* 增加支持txt（「同步音律」谱面，包含明文和加密）的读写；
+>* 增加支持json（「古树旋律」谱面）的读写；
+>* 优化根据时间戳计算变速BPM的功能。
 >
 > ---
 >　【[rmstZ_20191124.html](rmstZ_20191124.html)】
