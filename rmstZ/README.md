@@ -34,7 +34,10 @@
 >20. mde（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
 >21. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
 >22. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
->23. txt（「同步音律」谱面文件，包括明文和加密）。
+>23. txt（「音乐世界」谱面，包含原版和Version2）；
+>24. txt（「音乐世界2」谱面）；
+>25. txt（「同步音律」谱面文件，包括明文和加密）；
+>26. json（「古树旋律」谱面）。
 >
 >　支持以下风格的谱面数据绘制：
 >1. bms（「Beat Mania」风格）；
