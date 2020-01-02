@@ -11,12 +11,13 @@
 >*阶段代码：子功能完成后的阶段性代码，可用于先行测试。*  
 >*即时代码：每次修改后保存的代码，即时同步，先行性更强。*
 >
->**现对rmstZ项目予以捐赠者，如捐赠金额恰好为下述金额，经申请赠送对应先行代码尝鲜特权！**
+>**对于rmstZ的[QQ交流群](http://shang.qq.com/wpa/qunwpa?idkey=73a1de166e06a6c8a9a3856ef18bec30bfe9036ca3b7cee2fa537edd5ebf2d20)贡献卓越者，依贡献度予以对应先行代码尝鲜特权！**
+>**另外对rmstZ项目予以捐赠者，如捐赠金额恰好为指定金额，经申请赠送对应先行代码尝鲜特权！**
 >
-> 捐赠金额|阶段代码|即时代码|特权链接
-> --:|:-:|:-:|:--:
-> 98.06|√|×|[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
-> 198.06|√|√|[[N]即时代码](https://www.jianguoyun.com/p/Dbfot6gQitn5BxjmpbAC)
+> Q群贡献|捐赠金额|阶段代码|即时代码|特权链接
+> --:|--:|:-:|:-:|:--:
+> 10|98.06|√|×|[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+> 20|198.06|√|√|[[N]即时代码](https://www.jianguoyun.com/p/Dbfot6gQitn5BxjmpbAC)
 >
 > ---
 >* **捐赠方式**
