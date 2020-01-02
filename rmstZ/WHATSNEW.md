@@ -8,7 +8,9 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
->* 。
+>* 修正aff变速和高速BPM判定计算；
+>* 优化谱面绘图尾部节拍线的绘制；
+>* 增加支持json（「节奏大师微信小程序」谱面）的读写。
 >
 > ---
 >　【rmstZ_20191231.html】
@@ -545,6 +547,7 @@
 >* 增加支持读取mrock_song_client.bin；
 >* 增加支持读取mrock_scoreexchange_client.bin；
 >* 增加支持读取mrock_songlevel_client.bin；
+>* bin转xml与xml转bin改进类型识别；
 >* 增加功能xml转bin，实现计数校验和Hsah校验（改bin如果严格按照格式可以任意增加条数了），支持以下文件：
 >* 　errno_main_client.xml
 >* 　mrock.active_client.xml
@@ -572,8 +575,7 @@
 >* 　mrock_songlevel_client.xml
 >* 　mrock_SongPkg_client.xml
 >* 　mrock_SysParam_client.xml
->* 　mrock_txt_client.xml
->* bin转xml与xml转bin改进类型识别
+>* 　mrock_txt_client.xml。
 >
 > ---
 >　【[rmstZ_20150328.html](rmstZ_20150328.html)】
