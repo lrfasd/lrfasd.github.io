@@ -77,7 +77,8 @@
 >1. zip、apk、ipa、osz、mcz（Deflate压缩文件）；
 >2. cpk、acb、acf、awb（Criware资源文件）；
 >3. 2dx（「BeatmaniaIIDX」资源文件）；
->4. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件，包括OJM、OMC编码）。
+>4. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件，包括OJM、OMC编码）；
+>5. bin（「节奏大师微信小程序」」配置文件集）。
 >
 >* **编码文件**
 >
