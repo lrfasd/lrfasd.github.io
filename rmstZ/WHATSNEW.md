@@ -11,7 +11,7 @@
 >* 修正aff变速和高速BPM判定计算；
 >* 优化谱面绘图尾部节拍线的绘制；
 >* 增加支持json（「节奏大师微信小程序」谱面）的读写；
->* 支持bin（「节奏大师微信小程序」配置文件）的读入，包括以下29种；
+>* 支持bin（「节奏大师微信小程序」配置文件）的数据转换，包括以下29种；
 >* 　activityconvertitem_info_c.bin
 >* 　ad_info_c.bin
 >* 　assistantitem_info_c.bin
