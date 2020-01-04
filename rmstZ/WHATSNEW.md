@@ -8,6 +8,10 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+>* 。
+>
+> ---
+>　【rmstZ_20200104.html】
 >* 修正aff变速和高速BPM判定计算；
 >* 优化谱面绘图尾部节拍线的绘制；
 >* 增加支持json（「节奏大师微信小程序」谱面）的读写；
@@ -36,11 +40,12 @@
 >* 　soundeffect_info_c.bin
 >* 　stagepassdesc_info_c.bin
 >* 　stagerm_info_c.bin
->* 　stageskip_info_c.bin
+>* >* 　stageskip_info_c.bin
 >* 　story_info_c.bin
 >* 　strings_info_c.bin
 >* 　systemtiprm_info_c.bin
->* 　tabledatas.bin。
+>* 　tabledatas.bin；
+>* 优化bin导出list、bat的「节奏大师」资源增量下载功能，并改为谱面、音频、图像三部分独立进行，同时增加支持「节奏大师微信小程序」，通过读取songlistrm_info_c.bin实现。。
 >
 > ---
 >　【rmstZ_20191231.html】
