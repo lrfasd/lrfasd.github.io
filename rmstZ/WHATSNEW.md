@@ -40,7 +40,7 @@
 >* 　soundeffect_info_c.bin
 >* 　stagepassdesc_info_c.bin
 >* 　stagerm_info_c.bin
->* >* 　stageskip_info_c.bin
+>* 　stageskip_info_c.bin
 >* 　story_info_c.bin
 >* 　strings_info_c.bin
 >* 　systemtiprm_info_c.bin
