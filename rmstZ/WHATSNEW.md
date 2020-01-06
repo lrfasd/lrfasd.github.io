@@ -8,7 +8,8 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
->* 。
+>* 优化对读取不支持文件的容错处理；
+>* 增加支持dz（Marmalade资源包）的读取。
 >
 > ---
 >　【rmstZ_20200104.html】
@@ -110,7 +111,7 @@
 >* 修复读写tja双人谱面错误的问题；
 >* 修复读取sm、sma、ssc谱面的一些错误；
 >* 增加读取sm、sma、ssc谱面时的单双人识别；
->* 支持sm、sma、ssc谱面的写入。
+>* 支持sm、sma、ssc谱面的写出。
 >
 > ---
 >　【[rmstZ_20190726.html](rmstZ_20190726.html)】
