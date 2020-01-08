@@ -10,7 +10,7 @@
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
 >* 优化对读取不支持文件的容错处理；
 >* 读取32位bmp时支持保留透明度；
->* >* 增加支持dz（Marmalade资源包）的读取；
+>* 增加支持dz（Marmalade资源包）的读取；
 >* 增加支持wsb（XACT声音包）的读取；
 >* 增加支持wxb（XACT波形包）的读取；
 >* 增加支持adx（Criware波形文件）的读取。
