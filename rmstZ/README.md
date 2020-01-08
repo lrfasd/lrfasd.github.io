@@ -66,19 +66,27 @@
 >* **图片文件**
 >
 >　支持以下文件指定尺寸缩放：
->1. bmp；
+>1. bmp（支持32位透明通道）；
 >2. jpg；
 >3. gif；
 >4. png。
 >
 >* **包文件**
 >
->　支持以下文件的文件提取：
+>　支持以下文件的资源提取：
 >1. zip、apk、ipa、osz、mcz（Deflate压缩文件）；
->2. cpk、acb、acf、awb（Criware资源文件）；
->3. 2dx（「BeatmaniaIIDX」资源文件）；
->4. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件，包括OJM、OMC编码）；
->5. bin（「节奏大师微信小程序」」配置文件集）。
+>2. dz（Marmalade资源包）；
+>3. cpk（Criware资源包）；
+>4. acb（Criware音频包）；
+>5. acf（Criware信息包）；
+>6. awb（Criware波形包）；
+>7. adx（Criware波形文件）；
+>8. hca（Criware音频文件）；
+>9. wsb（XACT声音包）；
+>10. xwb（XACT波形包）；
+>11. 2dx（「BeatmaniaIIDX」资源文件）；
+>12. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件，包括OJM、OMC编码）；
+>13. bin（「节奏大师微信小程序」」配置文件集）。
 >
 >* **编码文件**
 >
