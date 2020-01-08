@@ -9,7 +9,11 @@
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
 >* 优化对读取不支持文件的容错处理；
->* 增加支持dz（Marmalade资源包）的读取。
+>* 读取32位bmp时支持保留透明度；
+>* >* 增加支持dz（Marmalade资源包）的读取；
+>* 增加支持wsb（XACT声音包）的读取；
+>* 增加支持wxb（XACT波形包）的读取；
+>* 增加支持adx（Criware波形文件）的读取。
 >
 > ---
 >　【rmstZ_20200104.html】
@@ -50,7 +54,10 @@
 >
 > ---
 >　【rmstZ_20191231.html】
->* 增加支持Criware资源格式cpk、acb、acf、awb的读取；
+>* 增加支持cpk（Criware资源包）的读取；
+>* 增加支持acb（Criware音频包）的读取；
+>* 增加支持acf（Criware信息包）的读取；
+>* 增加支持awb（Criware波形包）的读取；
 >* 谱面绘图绘制谱面标题限制宽度；
 >* 优化谱面绘图默认风格的判断逻辑；
 >* 优化写aff时虹弧的同时同色冲突；
