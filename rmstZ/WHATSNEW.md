@@ -13,7 +13,9 @@
 >* 增加支持dz（Marmalade资源包）的读取；
 >* 增加支持wsb（XACT声音包）的读取；
 >* 增加支持wxb（XACT波形包）的读取；
->* 增加支持adx（Criware波形文件）的读取。
+>* 增加支持adx（Criware Atom音频）的读取；
+>* 增加支持hca（Criware Atom音频）的读取；
+>* 读取awb时如含有awbKey则予以显示。
 >
 > ---
 >　【rmstZ_20200104.html】
@@ -55,9 +57,9 @@
 > ---
 >　【rmstZ_20191231.html】
 >* 增加支持cpk（Criware资源包）的读取；
->* 增加支持acb（Criware音频包）的读取；
->* 增加支持acf（Criware信息包）的读取；
->* 增加支持awb（Criware波形包）的读取；
+>* 增加支持acb（Criware Atom分轨库）的读取；
+>* 增加支持acf（Criware Atom配置包）的读取；
+>* 增加支持awb（Criware Atom波形库）的读取；
 >* 谱面绘图绘制谱面标题限制宽度；
 >* 优化谱面绘图默认风格的判断逻辑；
 >* 优化写aff时虹弧的同时同色冲突；
