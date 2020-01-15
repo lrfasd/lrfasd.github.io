@@ -77,13 +77,13 @@
 >1. zip、apk、ipa、osz、mcz（Deflate压缩文件）；
 >2. dz（Marmalade资源包）；
 >3. cpk（Criware资源包）；
->4. acb（Criware音频包）；
->5. acf（Criware信息包）；
->6. awb（Criware波形包）；
->7. adx（Criware波形文件）；
->8. hca（Criware音频文件）；
->9. wsb（XACT声音包）；
->10. xwb（XACT波形包）；
+>4. acb（Criware Atom分轨库）；
+>5. acf（Criware Atom配置包）；
+>6. awb（Criware Atom波形库）；
+>7. adx（Criware Atom音频）；
+>8. hca（Criware Atom音频）；
+>9. wsb（XACT声音库）；
+>10. xwb（XACT波形库）；
 >11. 2dx（「BeatmaniaIIDX」资源文件）；
 >12. ojm（「[O2Jam](http://www.o2jam.com/)」资源文件，包括OJM、OMC编码）；
 >13. bin（「节奏大师微信小程序」配置文件集）。
