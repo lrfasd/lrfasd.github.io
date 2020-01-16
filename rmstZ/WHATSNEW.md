@@ -8,6 +8,10 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+>* 。
+>
+> ---
+>　【rmstZ_20200116.html】
 >* 优化对读取不支持文件的容错处理；
 >* 读取32位bmp时支持保留透明度；
 >* 增加支持dz（Marmalade资源包）的读取；
@@ -15,7 +19,9 @@
 >* 增加支持wxb（XACT波形包）的读取；
 >* 增加支持adx（Criware Atom音频）的读取；
 >* 增加支持hca（Criware Atom音频）的读取；
->* 读取awb时如含有awbKey则予以显示。
+>* 读取awb时如有awbKey则予以显示；
+>* 增加支持ssq（「Dance Dance Revolution 4th Mix」谱面）的读入；
+>* 增加加载外部插件功能。
 >
 > ---
 >　【rmstZ_20200104.html】
