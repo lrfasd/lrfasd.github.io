@@ -61,7 +61,7 @@
 >* 优化bin导出list、bat的「节奏大师」资源增量下载功能，并改为谱面、音频、图像三部分独立进行，同时增加支持「节奏大师微信小程序」，通过读取songlistrm_info_c.bin实现。
 >
 > ---
->　【rmstZ_20191231.html】
+>　【[rmstZ_20191231.html](rmstZ_20191231.html)】
 >* 增加支持cpk（Criware资源包）的读取；
 >* 增加支持acb（Criware Atom分轨库）的读取；
 >* 增加支持acf（Criware Atom配置包）的读取；
