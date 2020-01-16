@@ -16,29 +16,30 @@
 >2. bms、bme、bml（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
 >3. pms（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
 >4. msd（「Dance Dance Revolution」谱面文件）；
->5. sm、sma、ssc（「Step Mania」系列谱面文件）；
->6. sdf（「Pocket DDR」谱面文件）；
->7. dwi（「Dance With Intensity」谱面文件）；
->8. pt（「DJMax」谱面文件）；
->9. ksf（「Kick It Up」谱面文件）；
->10. ucs（「Pump It Up」谱面文件）；
->11. dance（「pydance」谱面文件）；
->12. tja（「太鼓次郎」谱面文件，包括taiko、jube模式）；
->13. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
->14. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包括osu、taiko、ctb、mania模式）；
->15. xml（「[乐动达人](http://yd2012.redatoms.com/)」谱面文件）；
->16. xml（「[乐动时代](http://www.ydsd.com/)」谱面文件）；
->17. vox（「SOUND VOLTEX」谱面文件）；
->18. ksh（「K-Shoot Mania」谱面文件）；
->19. imd（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
->20. mde（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
->21. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
->22. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
->23. txt（「音乐世界」谱面，包含原版和Version2）；
->24. txt（「音乐世界2」谱面）；
->25. txt（「同步音律」谱面文件，包括明文和加密）；
->26. json（「古树旋律」谱面）；
->27. json（「节奏大师微信小程序」谱面）。
+>5. ssq（「Dance Dance Revolution 4th Mix」谱面文件）；
+>6. sm、sma、ssc（「Step Mania」系列谱面文件）；
+>7. sdf（「Pocket DDR」谱面文件）；
+>8. dwi（「Dance With Intensity」谱面文件）；
+>9. pt（「DJMax」谱面文件）；
+>10. ksf（「Kick It Up」谱面文件）；
+>11. ucs（「Pump It Up」谱面文件）；
+>12. dance（「pydance」谱面文件）；
+>13. tja（「太鼓次郎」谱面文件，包括taiko、jube模式）；
+>14. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
+>15. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包括osu、taiko、ctb、mania模式）；
+>16. xml（「[乐动达人](http://yd2012.redatoms.com/)」谱面文件）；
+>17. xml（「[乐动时代](http://www.ydsd.com/)」谱面文件）；
+>18. vox（「SOUND VOLTEX」谱面文件）；
+>19. ksh（「K-Shoot Mania」谱面文件）；
+>20. imd（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
+>21. mde（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
+>22. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
+>23. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>24. txt（「音乐世界」谱面，包含原版和Version2）；
+>25. txt（「音乐世界2」谱面）；
+>26. txt（「同步音律」谱面文件，包括明文和加密）；
+>27. json（「古树旋律」谱面）；
+>28. json（「节奏大师微信小程序」谱面）。
 >
 >　支持以下风格的谱面数据绘制：
 >1. bms（「Beat Mania」风格）；
