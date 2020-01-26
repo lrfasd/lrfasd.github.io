@@ -12,11 +12,11 @@
 >* **谱面文件**
 >
 >　支持以下文件的读入，部分支持附选项的写出：
->1. vos（「Virtual Orchestra Studio」、「CanMusic」谱面文件，包括000、001、006、022版本）；
->2. bms、bme、bml（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
->3. pms（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
->4. msd（「Dance Dance Revolution」谱面文件）；
->5. ssq（「Dance Dance Revolution 4th Mix」谱面文件）；
+>1. **vos**（「Virtual Orchestra Studio」、「CanMusic」谱面文件，包括000、001、006、022版本）；
+>2. **bms**、**bme**、**bml**（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
+>3. **pms**（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
+>4. **msd**（「Dance Dance Revolution」谱面文件）；
+>5. **ssq**（「Dance Dance Revolution 4th Mix」谱面文件）；
 >6. sm、sma、ssc（「Step Mania」系列谱面文件）；
 >7. sdf（「Pocket DDR」谱面文件）；
 >8. dwi（「Dance With Intensity」谱面文件）；
