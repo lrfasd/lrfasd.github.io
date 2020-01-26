@@ -11,7 +11,7 @@
 >
 >* **谱面文件**
 >
->　支持以下文件的读取，部分支持附选项的相互转换：
+>　支持以下文件的读入，部分支持附选项的写出：
 >1. vos（「Virtual Orchestra Studio」、「CanMusic」谱面文件，包括000、001、006、022版本）；
 >2. bms、bme、bml（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
 >3. pms（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
