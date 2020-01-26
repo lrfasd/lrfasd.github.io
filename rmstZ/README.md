@@ -17,60 +17,60 @@
 >3. **pms**（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
 >4. **msd**（「Dance Dance Revolution」谱面文件）；
 >5. **ssq**（「Dance Dance Revolution 4th Mix」谱面文件）；
->6. sm、sma、ssc（「Step Mania」系列谱面文件）；
->7. sdf（「Pocket DDR」谱面文件）；
->8. dwi（「Dance With Intensity」谱面文件）；
->9. pt（「DJMax」谱面文件）；
->10. ksf（「Kick It Up」谱面文件）；
->11. ucs（「Pump It Up」谱面文件）；
->12. dance（「pydance」谱面文件）；
->13. tja（「太鼓次郎」谱面文件，包括taiko、jube模式）；
->14. ojn（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
->15. osu（「[osu!](https://osu.ppy.sh/)」谱面文件，包括osu、taiko、ctb、mania模式）；
->16. xml（「[乐动达人](http://yd2012.redatoms.com/)」谱面文件）；
->17. xml（「[乐动时代](http://www.ydsd.com/)」谱面文件）；
->18. vox（「SOUND VOLTEX」谱面文件）；
->19. ksh（「K-Shoot Mania」谱面文件）；
->20. imd（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
->21. mde（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
->22. mc（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
->23. aff（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
->24. txt（「音乐世界」谱面，包含原版和Version2）；
->25. txt（「音乐世界2」谱面）；
->26. txt（「同步音律」谱面文件，包括明文和加密）；
->27. json（「古树旋律」谱面）；
->28. json（「节奏大师微信小程序」谱面）。
+>6. **sm**、**sma**、**ssc**（「Step Mania」系列谱面文件）；
+>7. **sdf**（「Pocket DDR」谱面文件）；
+>8. **dwi**（「Dance With Intensity」谱面文件）；
+>9. **pt**（「DJMax」谱面文件）；
+>10. **ksf**（「Kick It Up」谱面文件）；
+>11. **ucs**（「Pump It Up」谱面文件）；
+>12. **dance**（「pydance」谱面文件）；
+>13. **tja**（「太鼓次郎」谱面文件，包括taiko、jube模式）；
+>14. **ojn**（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
+>15. **osu**（「[osu!](https://osu.ppy.sh/)」谱面文件，包括osu、taiko、ctb、mania模式）；
+>16. **xml**（「[乐动达人](http://yd2012.redatoms.com/)」谱面文件）；
+>17. **xml**（「[乐动时代](http://www.ydsd.com/)」谱面文件）；
+>18. **vox**（「SOUND VOLTEX」谱面文件）；
+>19. **ksh**（「K-Shoot Mania」谱面文件）；
+>20. **imd**（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
+>21. **mde**（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
+>22. **mc**（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
+>23. **aff**（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>24. **txt**（「音乐世界」谱面，包含原版和Version2）；
+>25. **txt**（「音乐世界2」谱面）；
+>26. **txt**（「同步音律」谱面文件，包括明文和加密）；
+>27. **json**（「古树旋律」谱面）；
+>28. **json**（「节奏大师微信小程序」谱面）。
 >
 >　支持以下风格的谱面数据绘制：
->1. bms（「Beat Mania」风格）；
->2. tja（「太鼓次郎」风格）；
->3. osu（「[osu!](https://osu.ppy.sh/)」风格）；
->4. imd（「[节奏大师](http://da.qq.com/)」风格）；
->5. mc（「[Malody](http://m.mugzone.net/)」风格）；
->6. aff（「[Arcaea](https://arcaea.lowiro.com/)」风格）。
+>1. **bms**（「Beat Mania」风格）；
+>2. **tja**（「太鼓次郎」风格）；
+>3. **osu**（「[osu!](https://osu.ppy.sh/)」风格）；
+>4. **imd**（「[节奏大师](http://da.qq.com/)」风格）；
+>5. **mc**（「[Malody](http://m.mugzone.net/)」风格）；
+>6. **aff**（「[Arcaea](https://arcaea.lowiro.com/)」风格）。
 >
 >* **曲谱文件**
 >
 >　支持以下文件的谱面转换：
->1. mid。
+>1. **mid**。
 >
 >* **音频文件**
 >
 >　支持以下文件的进阶操作（保留功能）：
->1. wav；
->2. ogg；
->3. mp3；
->4. aac；
->5. m4a；
->6. m4r。
+>1. **wav**；
+>2. **ogg**；
+>3. **mp3**；
+>4. **aac**；
+>5. **m4a**；
+>6. **m4r**。
 >
 >* **图片文件**
 >
 >　支持以下文件指定尺寸缩放：
->1. bmp（支持32位透明通道）；
->2. jpg；
->3. gif；
->4. png。
+>1. **bmp**（支持32位透明通道）；
+>2. **jpg**；
+>3. **gif**；
+>4. **png**。
 >
 >* **包文件**
 >
