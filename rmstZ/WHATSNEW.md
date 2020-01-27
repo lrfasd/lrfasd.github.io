@@ -8,7 +8,8 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
->* 。
+>* 优化对xml格式的读入；
+>* 增加支持xml（「Dynamix」谱面）的读写。
 >
 > ---
 >　【[rmstZ_20200116.html](rmstZ_20200116.html)】
