@@ -34,12 +34,13 @@
 >20. **imd**（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
 >21. **mde**（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
 >22. **mc**（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
->23. **aff**（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
->24. **txt**（「音乐世界」谱面，包含原版和Version2）；
->25. **txt**（「音乐世界2」谱面）；
->26. **txt**（「同步音律」谱面文件，包括明文和加密）；
->27. **json**（「古树旋律」谱面）；
->28. **json**（「节奏大师微信小程序」谱面）。
+>23. **xml**（「[炫光动感（Dynamix）](http://dynamix.c4-cat.com/)」谱面）；
+>24. **aff**（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>25. **txt**（「音乐世界（Cytus）」谱面，包含原版和Version2）；
+>26. **txt**（「音乐世界2（Cytus2）」谱面）；
+>27. **txt**（「同步音律（Musync）」谱面文件，包括明文和加密）；
+>28. **json**（「古树旋律（Deemo）」谱面）；
+>29. **json**（「节奏大师微信小程序」谱面）。
 >
 >　支持以下风格的谱面数据绘制：
 >1. **bms**（「Beat Mania」风格）；
