@@ -157,7 +157,7 @@ return d;})();r["RandomEntry"]=(function(){var d=[];var k="randomEntrys";if(ser[
 return d;})();}
 return r;})();Icon=(function(){var r={};if(File["resource.tab"]){var tab=File["resource.tab"].extractTab();for(var i=0;i<tab.length;i++){if(tab[i]["name"]&&tab[i]["buffer"]){r[tab[i]["name"].replace(/-/g,"/").replace(/(.*).bmp/,'$1.tex')]=(function(){var u=tab[i]["buffer"];var bit=new DataView(u.buffer,28,2).getInt16(0,LittleEndian);switch(bit){case 24:return URL.createObjectURL(new Blob([u],{"type":"image/bmp"}));break;case 32:var offset=new DataView(u.buffer,10,4).getInt32(0,LittleEndian);var width=new DataView(u.buffer,18,4).getInt32(0,LittleEndian);var height=new DataView(u.buffer,22,4).getInt32(0,LittleEndian);var cvs=document.createElement("canvas");cvs.width=width;cvs.height=height;var ctx=cvs.getContext("2d");var d=ctx.getImageData(0,0,cvs.width,cvs.height);var p=offset;for(var y=height-1;y>-1;y--){for(var x=0;x<width;x++){var n=(y*height+x)*4;d.data[n+2]=u[p];d.data[n+1]=u[p+1];d.data[n]=u[p+2];d.data[n+3]=u[p+3];p+=4;}}
 ctx.putImageData(d,0,0);return cvs.toDataURL("image/png");break;}})();}}}
-return r;})();Dict=(function(){var r={};if(File["dict.ser"]){var ser=File["dict.ser"].unserializeJava()[0];console.log(ser)
+return r;})();Dict=(function(){var r={};if(File["dict.ser"]){var ser=File["dict.ser"].unserializeJava()[0];
 r["Contract"]=(function(){var d=[];if(ser["map"]){var m=ser["map"];d.push(m["contract.text.message"]);}
 return d;})();r["Chatfilter"]=(function(){var d=[];if(ser["map"]){var c=ser["chatfilter"];for(var i=0;i<c.length;i++){d.push(c[i]);}}
 return d;})();r["Tips"]=(function(){var d=[];if(ser["map"]){var m=ser["map"];var c=parseInt(m["tips.num"])||0;for(var i=0;i<c;i++){if(m["tips"+(i+1)]){d.push(m["tips"+(i+1)]);}}}
