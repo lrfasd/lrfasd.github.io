@@ -8,6 +8,8 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+>* 修复写bms节拍数据遗失的问题；
+>* 修复写bms标签数据起始索引错误的问题；
 >* 谱面绘图虚键不计“动作”数；
 >* 优化对xml格式的读入；
 >* 增加支持xml（「Dynamix」谱面）的读写；
@@ -15,7 +17,11 @@
 >* 增加支持xml（「QQ炫舞手游」谱面，弦月模式）的读写；
 >* 增加支持xml（「QQ炫舞手游」谱面，弹珠模式）的读写；
 >* 增加支持xml（「QQ炫舞手游」谱面，传统模式）的读写；
->* 增加支持xml（「QQ炫舞手游」谱面，泡泡模式）的读写。
+>* 增加支持xml（「QQ炫舞手游」谱面，泡泡模式）的读写；
+>* 增加支持drb（「DanceRail」谱面）的读写；
+>* 增加支持UCS-2编码文本的读写；
+>* 增加支持UTF-16编码文本的读写；
+>* 增加支持dtx（「DTXMania」谱面，包括6键、9键鼓和5键、7键吉他、贝斯键位）的读写。
 >
 > ---
 >　【[rmstZ_20200116.html](rmstZ_20200116.html)】
