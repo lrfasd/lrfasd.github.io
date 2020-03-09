@@ -8,7 +8,11 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
->* 。
+>* 修复键数选择无效的问题；
+>* 修复写aff时的几处错误；
+>* 谱面绘图绘制aff风格虹弧增加透明度；
+>* 谱面绘图绘制音频频谱时辅以颜色优化；
+>* 谱面绘图导出html时如有相应音频则附带简易的谱面播放功能。
 >
 > ---
 >　【rmstZ_20200227.html】
