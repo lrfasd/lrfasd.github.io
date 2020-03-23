@@ -8,7 +8,10 @@
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
->* 。
+>* 修复写sm系谱面默认METER值为空的问题；
+>* 优化附带音频时谱面绘图绘制频谱的性能；
+>* 优化谱面写出时拍速和流速的计算；
+>* 谱面绘图选项增加“时间域”、“频率域”、“方差域”，输出为html时显示。
 >
 > ---
 >　【rmstZ_20200313.html】
