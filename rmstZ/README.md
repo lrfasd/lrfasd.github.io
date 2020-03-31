@@ -6,6 +6,8 @@
 >[更新历史](WHATSNEW.md)
 >
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
+>
+>[[N]播放示例](https://www.jianguoyun.com/p/DYDEAR4Qitn5BxjwtYMD)
 > 
 > 类别|简介
 > :-:|:-:
