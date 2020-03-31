@@ -6,6 +6,8 @@
 >[更新历史](WHATSNEW.md)
 >
 >[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
+>
+>[[N]播放示例](https://www.jianguoyun.com/p/DYDEAR4Qitn5BxjwtYMD)
 ## 先行代码
 >*先行代码：未公开而先行测试的代码，分为测试版本、阶段代码。*  
 >*测试版本：已发布测试未公开的版本，用于功能先行使用*  
