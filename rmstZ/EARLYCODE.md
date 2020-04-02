@@ -20,7 +20,7 @@
 >
 > Q群贡献|捐赠额度|特权链接
 > --:|--:|:-:
-> 10|不低于98.06|[[N]测试版本](https://www.jianguoyun.com/p/DRZImSsQitn5BxjH4f4C)
+> 10|不低于98.06|[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 > 20|不低于198.06|[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
 >
 > ---
