@@ -25,7 +25,7 @@
 >* 切换显示预览开关时增加标题颜色区分。
 >
 > ---
->　【rmstZ_20200403.html】
+>　【rmstZ_20200403.html】[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 >* 修复写sm系谱面默认METER值为空的问题；
 >* 修复aff音频偏移计算错误的问题；
 >* 修复连续流速变换出错的问题；
@@ -39,7 +39,7 @@
 >* 统一文件路径斜杠的转换。
 >
 > ---
->　【rmstZ_20200313.html】
+>　【rmstZ_20200313.html】[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 >* 修复键数选择无效的问题；
 >* 修复写aff时的几处错误；
 >* 调整读取谱面时拍速至流速的转化；
