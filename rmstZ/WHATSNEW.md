@@ -11,6 +11,10 @@
 > 
 ## 更新历史
 >　[[N]阶段代码](https://www.jianguoyun.com/p/DaETRlEQitn5Bxi_nLAC)
+>* 。
+>
+> ---
+>　【rmstZ_20200505.html】[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 >* 修复写出xml（qqx5）时部分整数值可能为小数导致谱面出错的问题；
 >* 修复写出mde时BPM为0的问题；
 >* 修复写出aff时空点转化错误的问题；
@@ -22,7 +26,8 @@
 >* 谱面绘图绘制背景音限制宽度；
 >* 谱面绘图绘制时间域、频率域时加成音量；
 >* 谱面绘图选项增加“效果音”、“状态值”、“变换值”；
->* 切换显示预览开关时增加标题颜色区分。
+>* 切换显示预览开关时增加标题颜色区分；
+>* 增加支持txt（「BanG Dream!」谱面）的读写。
 >
 > ---
 >　【rmstZ_20200403.html】[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
