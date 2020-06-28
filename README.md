@@ -8,7 +8,7 @@
 >---
 >
 >## [ampedH](https://lrfasd.github.io/ampedH/)
->>*H*** for [Getamped](http://bfo.sdo.com/)*
+>>*H**** for [Getamped](http://bfo.sdo.com/)*
 >>
 >--
 >
