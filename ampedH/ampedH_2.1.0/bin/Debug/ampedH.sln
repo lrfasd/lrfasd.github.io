@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "ampedH", "ampedH.exe", "{6FC10E99-3011-4A94-B498-38EAB5A0CE23}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = E:\Usbdisk\英豪终焉\ampedH\ampedH_2.1.0\bin\Debug\ampedH.exe
+		RemoteMachine = VXPAGHAUYBFW91M
+		StartingDirectory = E:\Usbdisk\英豪终焉\ampedH\ampedH_2.1.0\bin\Debug
+		Environment = 默认值
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC10E99-3011-4A94-B498-38EAB5A0CE23}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
