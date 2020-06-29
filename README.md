@@ -7,11 +7,6 @@
 >
 >---
 >
->## [ampedH](https://lrfasd.github.io/ampedH/)
->>*H\*\*\* for [Getamped](http://bfo.sdo.com/)*
->>
->--
->
 >## [ampedZ](https://lrfasd.github.io/ampedZ/)
 >>*DataSearch for [Getamped](http://bfo.sdo.com/)*
 >>
@@ -19,4 +14,11 @@
 >
 >## [rmstZ](https://lrfasd.github.io/rmstZ/)
 >>*TransCode for Music Game*
+>>
+>---
+>
+>以下工具基于Visual Basic开发：
+>
+>## [ampedH](https://lrfasd.github.io/ampedH/)
+>>*H\*\*\* for [Getamped](http://bfo.sdo.com/)*
 >>
