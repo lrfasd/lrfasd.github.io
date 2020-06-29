@@ -5,13 +5,9 @@
 >3. 代码开源，避免后门，保证使用安全；
 >4. 可纯客户端操作，无需任何流量。
 >
->---
->
 >## [ampedZ](https://lrfasd.github.io/ampedZ/)
 >>*DataSearch for [Getamped](http://bfo.sdo.com/)*
 >>
->---
->
 >## [rmstZ](https://lrfasd.github.io/rmstZ/)
 >>*TransCode for Music Game*
 >>
