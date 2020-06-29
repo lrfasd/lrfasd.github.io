@@ -32,9 +32,9 @@
 >
 ## 便捷下载
 >
-> 1.0.0 [ampedH.exe](ampedH_1.0.0/ampedH.exe)、[ampedH.exe](ampedH_1.0.0/ampedH.ini)
+> 版本1.0.0 [ampedH.exe](ampedH_1.0.0/ampedH.exe)、[ampedH.exe](ampedH_1.0.0/ampedH.ini)
 >
-> 2.0.0 [ampedH.exe](ampedH_2.0.0/ampedH.exe)、[ampedH.exe](ampedH_2.0.0/ampedH.ini)
+> 版本2.0.0 [ampedH.exe](ampedH_2.0.0/ampedH.exe)、[ampedH.exe](ampedH_2.0.0/ampedH.ini)
 >
-> 2.1.0 [ampedH.exe](ampedH_2.1.0/ampedH.exe)、[ampedH.exe](ampedH_2.1.0/ampedH.ini)
+> 版本2.1.0 [ampedH.exe](ampedH_2.1.0/ampedH.exe)、[ampedH.exe](ampedH_2.1.0/ampedH.ini)
 >
