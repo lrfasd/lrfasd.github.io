@@ -2,7 +2,7 @@
 >>*H\*\*\* for [Getamped](http://bfo.sdo.com/)*
 >
 >[更新历史](WHATSNEW.md)
-## 功能介绍
+## 说明预览
 > 
 > 开发者的话（版本1.0.0）
 > ![开发者的话](ampedH_1.0.0/ampedH_readme.png "ampedH说明")
@@ -10,6 +10,8 @@
 > 界面预览（版本2.0.0）
 > ![界面预览](ampedH_2.0.0/ampedH_preview.gif "ampedH预览")
 > 
+## 功能介绍
+>
 >启动后自动监测窗体变动
 >
 >支持多个窗体各自实现功能
@@ -27,3 +29,12 @@
 >　预览浮窗通过同时按住鼠标左右键实现拖动
 >
 >　浮预览窗内进行部分键盘及鼠标操作同步作用于相应窗体
+>
+## 便捷下载
+>
+> 1.0.0 [ampedH.exe](ampedH_1.0.0/ampedH.exe)、[ampedH.exe](ampedH_1.0.0/ampedH.ini)
+>
+> 2.0.0 [ampedH.exe](ampedH_2.0.0/ampedH.exe)、[ampedH.exe](ampedH_2.0.0/ampedH.ini)
+>
+> 2.1.0 [ampedH.exe](ampedH_2.1.0/ampedH.exe)、[ampedH.exe](ampedH_2.1.0/ampedH.ini)
+>
