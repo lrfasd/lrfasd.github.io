@@ -4,6 +4,8 @@
 >[更新历史](WHATSNEW.md)
 ## 功能介绍
 > 
+> ![开发者的话](ampedH_1.0.0/ampedH_readme.png "ampedH说明")
+> 
 > ![界面预览](ampedH_2.0.0/ampedH_preview.gif "ampedH预览")
 > 
 >启动后自动监测窗体变动
