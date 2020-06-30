@@ -1,7 +1,0 @@
-E:\Usbdisk\英豪终焉\ampedH\bin\Release\ampedH.exe
-E:\Usbdisk\英豪终焉\ampedH\obj\Release\Application.g.vb
-E:\Usbdisk\英豪终焉\ampedH\obj\Release\ampedH_MarkupCompile.cache
-E:\Usbdisk\英豪终焉\ampedH\obj\Release\ampedH.g.resources
-E:\Usbdisk\英豪终焉\ampedH\obj\Release\ampedH.Resources.resources
-E:\Usbdisk\英豪终焉\ampedH\obj\Release\ampedH.vbproj.GenerateResource.Cache
-E:\Usbdisk\英豪终焉\ampedH\obj\Release\ampedH.exe
