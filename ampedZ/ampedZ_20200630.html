@@ -219,7 +219,7 @@ return"";};var other={"miss":"无","NULL":"空"};var fromOther=function(s){for(v
 return"";};var fromId=function(s){if(Data){for(var i=0;i<Catagory.length;i++){if(Data[Catagory[i]]){for(var j=0;j<Data[Catagory[i]].length;j++){if((Data[Catagory[i]][j]["id"]==s)&&Data[Catagory[i]][j]["name"]){return Data[Catagory[i]][j]["name"];}}}}}
 return"";};var list=id.split("+");for(var i=0;i<list.length;i++){var q=(function(){var v="";var l=list[i].lastIndexOf(":");if(l!=-1){v=fromQuantity(list[i].slice(l));if(v){list[i]=list[i].slice(0,l);}}
 return v;})();var p=(function(){var v="";var l=list[i].lastIndexOf("_");if(l!=-1){v=fromPeriod(list[i].slice(l));if(v){list[i]=list[i].slice(0,l);}}
-return v;})();var s=fromSuffix(list[i]);if(!s){s=fromOther(list[i])||fromId(list[i]);}
+return (v=="（990000天）"?"":v);})();var s=fromSuffix(list[i]);if(!s){s=fromOther(list[i])||fromId(list[i]);}
 s+=p+q;v.push(s);}
 return v.join("、");};var getTable=function(c){if(Catagory.indexOf(c)!=-1){var t=Data[c];var r=document.createElement("table");r.name=c;var th=r.createTHead();if(t&&t.length){var header=th.insertRow();for(var n in t[0]){var h=document.createElement("th");h.innerHTML=n;var i=getInputFilter(n);h.appendChild(i);header.appendChild(h);}}
 var tb=r.createTBody();for(var i=0;i<t.length;i++){var row=tb.insertRow();for(var n in t[i]){insertCellContent(c,row,t[i],n);}}
