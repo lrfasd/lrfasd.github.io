@@ -1,1 +1,1 @@
-(function(){window.Info={"file":["ampedZ.zar","ampedZ_d.zar","ampedZ_r.zar","ampedZ_dr.zar"],"length":["712.58KB","1.01MB","6.36MB","6.68MB"],"intro":["设定","设定、字典","设定、资源","设定、字典、资源"],"operate":["","","",""]};window.Intro="数据更新：2020.04.10 14:19:36"})();
+(function(){window.Info={"file":["ampedZ_d.zar","ampedZ_dr.zar"],"length":["1.04MB","6.74MB"],"intro":["数据","数据、资源"],"operate":["","https://www.jianguoyun.com/p/DYeB5HQQitn5BxiJgZ0D"]};window.Intro="数据更新：2020.06.29 21:16:11"})();
