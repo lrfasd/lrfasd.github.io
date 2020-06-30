@@ -5,10 +5,10 @@
 ## 说明预览
 > 
 > 开发者的话（版本1.0.0）
-> ![开发者的话](ampedH_1.0.0/ampedH_readme.png "ampedH说明")
+> ![开发者的话](ampedH_1.0.0_readme.png "ampedH说明")
 > 
 > 界面预览（版本2.0.0）
-> ![界面预览](ampedH_2.0.0/ampedH_preview.gif "ampedH预览")
+> ![界面预览](ampedH_2.0.0_preview.gif "ampedH预览")
 > 
 ## 功能介绍
 > 
