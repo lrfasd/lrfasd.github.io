@@ -17,5 +17,5 @@
 >以下工具基于Visual Basic开发：
 >
 >## [ampedH](https://lrfasd.github.io/ampedH/)
->>*H\*\*\* for [Getamped](http://bfo.sdo.com/)*
+>>*Hang for [Getamped](http://bfo.sdo.com/)*
 >>
