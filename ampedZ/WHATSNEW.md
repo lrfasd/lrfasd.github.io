@@ -1,5 +1,5 @@
 # ampedZ
->*DataSearch for [Getamped](http://bfo.sdo.com/)*
+>*DataTool for [Getamped](http://bfo.sdo.com/)*
 >
 >[功能介绍](README.md)
 >
