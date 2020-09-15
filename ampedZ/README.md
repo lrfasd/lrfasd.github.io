@@ -6,7 +6,9 @@
 >[推荐字体](FONTS.md)
 ## 功能介绍
 >【工具】NewSettingViewer
+>
 >〖必需〗NewSetting.ser
+>
 >〖可选〗Resource.tab
 >
 >* 职业
@@ -47,7 +49,9 @@
 >* 随机进房
 >
 >【工具】DictViewer
+>
 >〖必需〗NewSetting.ser
+>
 >〖必需〗Dict.ser
 >
 >* 用户协议
@@ -63,43 +67,53 @@
 >* 答题
 >
 >【工具】HostInfoViewer
+>
 >〖必需〗HostInfo.ser
 >
->* 
+>* 主机信息
 >
 >【工具】UserDataViewer
+>
 >〖必需〗UserData.ser
+>
 >「备注」可同时读入三种类型的数据
 >
->* 
+>* 用户数据
 >
 >【工具】UserListViewer
+>
 >〖必需〗UserList.ser
 >
->* 
+>* 用户列表
 >
 >【工具】ChatMessageViewer
+>
 >〖必需〗ChatMessage.ser
 >
->* 
+>* 聊天消息
 >
 >【工具】ShopItemViewer
+>
 >〖必需〗ShopItem.ser
 >
->* 
+>* 商店项目
 >
 >【工具】QuizSimulator
+>
 >〖必需〗Dict.ser
 >
->* 
+>* 答题模拟
 >
 >【工具】IconCover
+>
 >〖必需〗Resource.tab
 >
->* 
+>* 图标收藏
 >
 >【工具】SetCollector
+>
 >〖必需〗NewSetting.ser
+>
 >〖必需〗Resource.tab
 >
 >* 装备
