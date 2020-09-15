@@ -108,7 +108,7 @@
 >
 >〖必需〗Resource.tab
 >
->* 图标收藏
+>* 图标盖换
 >
 >【工具】SetCollector
 >
