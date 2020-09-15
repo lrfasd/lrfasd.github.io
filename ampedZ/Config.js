@@ -1,0 +1,1 @@
+(function(){window.Config={"file":["ampedZ_nd.zar","ampedZ_r.zar","ampedZ_e.zar"],"length":["1.07MB","5.86MB","unknown"],"intro":["设定、字典","资源","其他"],"operate":["","https://www.jianguoyun.com/p/DUpiWhQQitn5Bxj1ma4D","https://qm.qq.com/cgi-bin/qm/qr?k=okHzUdm6Qwg5RVHD00fOywR6ao3Wdp2U"]};window.Intro="数据更新：2020.09.13 22:58:53"})();
