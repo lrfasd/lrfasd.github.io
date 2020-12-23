@@ -1,4 +1,4 @@
-# ampedZ
+# ampedT
 >*InnerTool for [Getamped](http://bfo.sdo.com/)*
 >
 >[功能介绍](README.md)
