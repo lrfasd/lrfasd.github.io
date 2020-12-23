@@ -9,6 +9,10 @@
 >>*DataTool for [Getamped](http://bfo.sdo.com/)*
 >>
 >
+>## [ampedT](https://lrfasd.github.io/ampedZ/)
+>>*InnerTool for [Getamped](http://bfo.sdo.com/)*
+>>
+>
 >## [rmstZ](https://lrfasd.github.io/rmstZ/)
 >>*TransCode for Music Game*
 >>
