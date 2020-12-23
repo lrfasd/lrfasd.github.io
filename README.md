@@ -9,7 +9,7 @@
 >>*DataTool for [Getamped](http://bfo.sdo.com/)*
 >>
 >
->## [ampedT](https://lrfasd.github.io/ampedZ/)
+>## [ampedT](https://lrfasd.github.io/ampedT/)
 >>*InnerTool for [Getamped](http://bfo.sdo.com/)*
 >>
 >
