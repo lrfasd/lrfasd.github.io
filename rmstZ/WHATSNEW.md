@@ -5,7 +5,7 @@
 >
 >[功能介绍](README.md)
 >
->[[N]测试资源](https://www.jianguoyun.com/p/DXXQGv4Qitn5BxiNtLIC)
+>[[N]测试资源](https://www.jianguoyun.com/p/DctV8o4Qitn5Bxi2x-AD)
 >
 >[[N]播放示例](https://www.jianguoyun.com/p/DYDEAR4Qitn5BxjwtYMD)
 > 
