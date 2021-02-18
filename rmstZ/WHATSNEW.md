@@ -15,6 +15,7 @@
 >
 > ---
 > [[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
+>
 >　【[rmstZ_20200505.html](rmstZ_20200505.html)】
 >* 修复写出xml（qqx5）时部分整数值可能为小数导致谱面出错的问题；
 >* 修复写出mde时BPM为0的问题；
