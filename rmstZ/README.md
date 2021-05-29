@@ -61,7 +61,8 @@
 >3. **osu**（「[osu!](https://osu.ppy.sh/)」风格）；
 >4. **imd**（「[节奏大师](http://da.qq.com/)」风格）；
 >5. **mc**（「[Malody](http://m.mugzone.net/)」风格）；
->6. **aff**（「[Arcaea](https://arcaea.lowiro.com/)」风格）。
+>6. **aff**（「[Arcaea](https://arcaea.lowiro.com/)」风格）；
+>7. **txt**（「[BanG Dream!](https://bang-dream.com/)」风格）。
 >
 >* **曲谱文件**
 >
