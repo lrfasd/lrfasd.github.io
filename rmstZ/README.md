@@ -50,10 +50,11 @@
 >27. **txt**（「Cytus2」谱面）；
 >28. **txt**（「Musync」谱面文件，包括明文和加密）；
 >29. **txt**（「[BanG Dream!](https://bang-dream.com/)」谱面）；
->30. **json**（「Deemo」谱面）；
->31. **json**（「节奏大师微信小程序」谱面、「Project FX」谱面）；
->32. **xml**（「[QQ炫舞手游](https://x5m.qq.com/)」谱面，包括星动模式、弦月模式、弹珠模式、传统模式、泡泡模式）;
->33. **drb**（「DanceRail」谱面）。
+>30. **txt**（「O2Jam - Music & Game」谱面）；
+>31. **json**（「Deemo」谱面）；
+>32. **json**（「节奏大师微信小程序」谱面、「Project FX」谱面）；
+>33. **xml**（「[QQ炫舞手游](https://x5m.qq.com/)」谱面，包括星动模式、弦月模式、弹珠模式、传统模式、泡泡模式）;
+>34. **drb**（「DanceRail」谱面）。
 >
 >　支持以下风格的谱面绘制，含有音频可实现简易的谱面播放：
 >1. **bms**（「Beat Mania」风格）；
