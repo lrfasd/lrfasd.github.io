@@ -16,6 +16,13 @@
 > ---
 >　[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 >
+>　【[rmstZ_20210717.html](rmstZ_20210717.html)】
+>* 修复读入某些谱面将分谱面读为子谱面的问题；
+>* 修复读入txt（「O2Jam - Music & Game」谱面）空值导致错误的问题；
+>* 读入谱面后可通过添加资源功能追加谱面；
+>* 增加支持txt（「O2Jam - Music & Game」谱面）的写出。
+>
+> ---
 >　【[rmstZ_20210701.html](rmstZ_20210701.html)】
 >* 读入imd、mde、aff增加封面、背景图信息；
 >* 修复url参数对多谱面转谱选项无效的问题；
