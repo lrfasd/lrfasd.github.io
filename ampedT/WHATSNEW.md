@@ -3,6 +3,11 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20210720.html](ampedT_20210720.html)】
+>* 优化写出wav、bmp、zip文件的性能；
+>* 读取dmp功能增加支持cem格式。
+>
+---
 >　【[ampedT_20201223.html](ampedT_20201223.html)】
 >* 提升从包读取文件进行筛选的性能；
 >* 增加支持读取tex的模式；
