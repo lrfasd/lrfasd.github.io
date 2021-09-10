@@ -457,15 +457,8 @@ function ReadBlob(fs){if(!SupportAPI("File")){alert("当前浏览器内核不支
 SetInfo("reading");var v=[];var r=new FileReader();var n=0;var read=function(i){if(i<fs.length){r.readAsArrayBuffer(fs[i]);}
 else{ReadInput(v);}};r.onload=function(){v.push({"name":fs[n]["name"],"buffer":new Uint8Array(this.result)});read(++n);};read(n);}
 function ReadFile(e){if(e.target.files.length){ReadBlob(e.target.files);}}
-function LoadFile(e){SetInfo("loading");var n=e.target.name;var r=new XMLHttpRequest();var t=new Date();var l=0;var s=0;var onProgress=function(e){if(e.lengthComputable&&e.total){var n=new Date();if(n-t>=1000){var v=(e.loaded-l)/(n-t);var d=(e.total-e.loaded)/v;SetInfo(e.loaded.toByteLength(2)+" / "+e.total.toByteLength(2)+" - "+(e.loaded/e.total*100).toFixed(2)+" %"+"\r\n"+(d?v*1000:0).toByteLength(2)+"/s"+"　　"+new Date(d-8*3600*1000).format("time"));t=n;l=e.loaded;}}};r.addEventListener("progress",onProgress);r.onload=function(){r.removeEventListener("progress",onProgress);ReadBlob(n,r.response);};r.onreadystatechange=function(){switch(r.readyState){case 4:if(r.readyState-s>1){SetInfo("failed");}
-break;default:s=r.readyState;break;}};r.open("GET",n,true);r.responseType="blob";
-		     try{
-		r.send();
-	}
-	catch (e) {
-			console.log(e);
-		}
-		    }
+function LoadFile(e){SetInfo("loading");var n=e.target.name;var r=new XMLHttpRequest();var t=new Date();var l=0;var s=0;var onProgress=function(e){if(e.lengthComputable&&e.total){var n=new Date();if(n-t>=1000){var v=(e.loaded-l)/(n-t);var d=(e.total-e.loaded)/v;SetInfo(e.loaded.toByteLength(2)+" / "+e.total.toByteLength(2)+" - "+(e.loaded/e.total*100).toFixed(2)+" %"+"\r\n"+(d?v*1000:0).toByteLength(2)+"/s"+"　　"+new Date(d-8*3600*1000).format("time"));t=n;l=e.loaded;}}};r.addEventListener("progress",onProgress);r.onload=function(){r.removeEventListener("progress",onProgress);console.log(r, typeof r.response)ReadBlob(n,r.response);};r.onreadystatechange=function(){switch(r.readyState){case 4:if(r.readyState-s>1){SetInfo("failed");}
+break;default:s=r.readyState;break;}};r.open("GET",n,true);r.responseType="blob";r.send();}
 function LoadFileInfo(){var script=document.createElement("script");script.src="Config.js";script.type="text/javascript";script.async=false;script.onload=function(){var t=document.createElement("table");if(Config){var th=t.createTHead();var header=th.insertRow();for(var n in Config){var h=document.createElement("th");h.innerHTML=n;header.appendChild(h);}
 var tb=t.createTBody();for(var i=0;i<Config[n].length;i++){var row=tb.insertRow();for(var n in Config){var c=row.insertCell();switch(n){case"operate":if(!IncludeAgent("Chrome")||(location.protocol!="file:")){var aa=document.createElement("a");aa.innerText="Load";aa.href="javascript:void(0)";aa.name=Config["file"][i];aa.onclick=LoadFile;var da=document.createElement("div");da.appendChild(aa);c.appendChild(da);}
 var am=document.createElement("a");am.innerText="Download";am.href=Config["file"][i];am.type="application/zip";am.download="";var dm=document.createElement("div");dm.appendChild(am);c.appendChild(dm);if(Config[n][i]){var a=document.createElement("a");a.innerText=(function(){switch(true){case Config[n][i].startsWith("https://www.jianguoyun.com/p/")||Config[n][i].startsWith("https://pan.baidu.com/s/"):return"NetDisk";break;case Config[n][i].startsWith("https://qm.qq.com/cgi-bin/qm/"):return"QQGroup";break;default:return"Other";break;}})();a.href=Config[n][i];a.target="_blank";var d=document.createElement("div");d.appendChild(a);c.appendChild(d);}
