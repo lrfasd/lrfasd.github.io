@@ -461,10 +461,10 @@ function LoadFile(e){SetInfo("loading");var n=e.target.name;var r=new XMLHttpReq
 break;default:s=r.readyState;break;}};r.open("GET",n,true);r.responseType="blob";
 		     try{
 		r.send();
+	}
 	catch (e) {
 			console.log(e);
 		}
-	}
 		    }
 function LoadFileInfo(){var script=document.createElement("script");script.src="Config.js";script.type="text/javascript";script.async=false;script.onload=function(){var t=document.createElement("table");if(Config){var th=t.createTHead();var header=th.insertRow();for(var n in Config){var h=document.createElement("th");h.innerHTML=n;header.appendChild(h);}
 var tb=t.createTBody();for(var i=0;i<Config[n].length;i++){var row=tb.insertRow();for(var n in Config){var c=row.insertCell();switch(n){case"operate":if(!IncludeAgent("Chrome")||(location.protocol!="file:")){var aa=document.createElement("a");aa.innerText="Load";aa.href="javascript:void(0)";aa.name=Config["file"][i];aa.onclick=LoadFile;var da=document.createElement("div");da.appendChild(aa);c.appendChild(da);}
