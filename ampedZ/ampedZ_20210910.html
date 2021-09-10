@@ -409,9 +409,9 @@ else{document.getElementById("divTool").style.display="none";SetInfo("invalid");
 function SetInfo(e){if(isString(e)){var s=e.split("\r\n");var d=document.createElement("div");for(var i=0;i<s.length;i++){var span=document.createElement("span");span.innerText=s[i];var div=document.createElement("div");div.appendChild(span);d.appendChild(div);}
 e=d;}
 var div=document.getElementById("divInfo");div.innerHTML="";div.appendChild(e);div.style.display="block";}
-function SetFileList(){var list=Data.GetFileList();var title=[];var details=document.createElement("details");details.open=(function(){var v=false;if(document.getElementById("divFileList").childNodes.length){return document.getElementById("divFileList").childNodes[0].open;}
+function SetFileList(){var list=Data.GetFileList();if(list.length){var title=[];var details=document.createElement("details");details.open=(function(){var v=false;if(document.getElementById("divFileList").childNodes.length){return document.getElementById("divFileList").childNodes[0].open;}
 return v;})();var summary=document.createElement("summary");summary.innerHTML=list.length+" 个文件";details.appendChild(summary);for(var i=0;i<list.length;i++){var p=document.createElement("p");p.innerHTML=list[i]["name"];p.title=list[i]["title"];p.style.margin="0px";details.appendChild(p);title.push(list[i]["name"]);}
-summary.title=title.join("\r\n");document.getElementById("divFileList").innerHTML="";document.getElementById("divFileList").appendChild(details);}
+summary.title=title.join("\r\n");document.getElementById("divFileList").innerHTML="";document.getElementById("divFileList").appendChild(details);}}
 function SetTableList(){if(Data.IsValid){var list=Data.GetList("NewSetting");document.getElementById("selectNewSettingViewerList").onchange=null;document.getElementById("selectNewSettingViewerList").innerHTML="";for(var i=0;i<list.length;i++){var o=document.createElement("option");o.value=list[i]["name"];o.innerHTML=list[i]["name"]+"（"+list[i]["count"]+"）";o.title=list[i]["name"];document.getElementById("selectNewSettingViewerList").appendChild(o);}
 var n="NewSettingViewerList";if(Status[n]["value"]){setSelected(Status[n]["type"]+n,Status[n]["value"]);}
 document.getElementById("selectNewSettingViewerList").onchange=NewSettingChanged;}}
