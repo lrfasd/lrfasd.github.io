@@ -453,7 +453,7 @@ if(change["ShopItemViewer"]){ReadShopItem(true);}
 HideTool();ToolChanged({"target":document.getElementById("selectTool")});}}
 function ReadInput(fl){var a=[];for(var k=0;k<fl.length;k++){a.push(fl[k]["name"]+":"+(fl[k]["buffer"].length<=Status["Input"]["maxSize"]?fl[k]["buffer"].getBase64():""));}
 SetStatus("Input",a);ReadBuffer(fl);}
-function ReadBlob(l){if(!SupportAPI("File")){alert("当前浏览器内核不支持File API。");return;}
+function ReadBlob(l){if(!SupportAPI("File")){alert("No support File API with this browser !");return;}
 SetInfo("reading");var v=[];var r=new FileReader();var n=0;var read=function(i){if(i<l.length){r.readAsArrayBuffer(l[i]["blob"]);}
 else{ReadInput(v);}};r.onload=function(){v.push({"name":l[n]["name"],"buffer":new Uint8Array(this.result)});read(++n);};read(n);}
 function ReadFile(e){if(e.target.files.length){ReadBlob(e.target.files.map(function(a){return{"name":a["name"],"blob":a};}));}}
