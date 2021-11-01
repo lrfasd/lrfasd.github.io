@@ -26,7 +26,7 @@
 > ---
 >* **捐赠方式**
 > 
-> ![使用支付宝app扫一扫](donation_alipay.png "rmstZ捐赠")
+> ![使用支付宝app扫一扫](../donation_alipay.png "rmstZ捐赠")
 > 
 > ---
 >* **申请方式**
