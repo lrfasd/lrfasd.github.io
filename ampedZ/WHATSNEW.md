@@ -1,6 +1,8 @@
 # ampedZ
 >*DataTool for [Getamped](http://bfo.sdo.com/)*
 >
+>[数据资源](DATARESOURCE.md)
+>
 >[功能介绍](README.md)
 >
 >[推荐字体](FONTS.md)
