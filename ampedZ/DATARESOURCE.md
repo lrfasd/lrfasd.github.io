@@ -14,7 +14,7 @@
 >
 > 捐赠额度|服务链接
 > --:|:-:
-> 不低于30|[[N]数据资源](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
+> 不低于30.06|[[N]数据资源](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 > 
 > ---
 >* **捐赠方式**
