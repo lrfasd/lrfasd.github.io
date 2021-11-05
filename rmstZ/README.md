@@ -102,9 +102,11 @@
 >8. **hca**（Criware Atom音频）；
 >9. **wsb**（XACT声音库）；
 >10. **xwb**（XACT波形库）；
->11. **2dx**（「BeatmaniaIIDX」资源文件）；
+>11. **2dx**（「BeatmaniaIIDX」资源包）；
 >12. **ojm**（「[O2Jam](http://www.o2jam.com/)」资源文件，包括OJM、OMC编码）；
->13. **bin**（「节奏大师微信小程序」配置文件集）。
+>13. **pak**（「[R2Beat]」音频包）；
+>14. **r2n**（「[R2Beat]」谱面包）；
+>15. **bin**（「节奏大师微信小程序」配置文件集）。
 >
 >* **编码文件**
 >
