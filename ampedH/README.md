@@ -76,3 +76,6 @@
 >
 > 版本3.2.0 [ampedH_3.2.0.zip](ampedH_3.2.0.zip)
 >
+## 贴心提示
+>
+> exe及ini文件位于bin\Release\文件夹中
