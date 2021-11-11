@@ -1,9 +1,9 @@
 # ampedZ
 >*DataTool for [Getamped](http://bfo.sdo.com/)*
 >
->[数据资源](DATARESOURCE.md)
->
 >[功能介绍](README.md)
+>
+>[数据资源](DATARESOURCE.md)
 >
 >[更新历史](WHATSNEW.md)
 >
