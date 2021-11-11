@@ -70,3 +70,9 @@
 >
 > 版本2.1.0 [ampedH_2.1.0.zip](ampedH_2.1.0.zip)
 >
+> 版本3.0.0 [ampedH_3.0.0.zip](ampedH_3.0.0.zip)
+>
+> 版本3.1.0 [ampedH_3.1.0.zip](ampedH_3.1.0.zip)
+>
+> 版本3.2.0 [ampedH_3.2.0.zip](ampedH_3.2.0.zip)
+>
