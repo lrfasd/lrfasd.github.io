@@ -20,42 +20,42 @@
 >
 >* **谱面文件**
 >
->　支持以下文件的读入，部分支持附选项的写出：
->1. **vos**（「Virtual Orchestra Studio」、「CanMusic」谱面文件，包括000、001、006、022版本）；
->2. **bms**、**bme**、**bml**（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
->3. **pms**（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
->4. **dtx**（「DTXMania」谱面文件，包括6键、9键鼓和5键、7键吉他、贝斯键位）；
->5. **msd**（「Dance Dance Revolution」谱面文件）；
->6. **ssq**（「Dance Dance Revolution 4th Mix」谱面文件）；
->7. **sm**、**sma**、**ssc**（「Step Mania」系列谱面文件）；
->8. **sdf**（「Pocket DDR」谱面文件）；
->9. **dwi**（「Dance With Intensity」谱面文件）；
->10. **pt**（「DJMax」谱面文件）；
->11. **ksf**（「Kick It Up」谱面文件）；
->12. **ucs**（「Pump It Up」谱面文件）；
->13. **dance**（「pydance」谱面文件）；
->14. **tja**（「太鼓次郎」谱面文件，包括taiko、jube模式）；
->15. **ojn**（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
->16. **osu**（「[osu!](https://osu.ppy.sh/)」谱面文件，包括osu、taiko、ctb、mania模式）；
->17. **xml**（「[乐动达人](http://yd2012.redatoms.com/)」谱面文件）；
->18. **xml**（「[乐动时代](http://www.ydsd.com/)」谱面文件）；
->19. **xml**（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
->20. **xml**（「[Dynamix](http://dynamix.c4-cat.com/)」谱面）；
->21. **xml**（「[QQ炫舞手游](https://x5m.qq.com/)」谱面，包括星动模式、弦月模式、弹珠模式、传统模式、泡泡模式）;
->22. **vox**（「SOUND VOLTEX」谱面文件）；
->23. **ksh**（「K-Shoot Mania」谱面文件）；
->24. **imd**（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
->25. **mde**（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
->26. **txt**（「Cytus」谱面，包含原版和Version2）；
->27. **txt**（「Cytus2」谱面）；
->28. **txt**（「Musync」谱面文件，包括明文和加密）；
->29. **txt**（「[BanG Dream!](https://bang-dream.com/)」谱面）；
->30. **txt**（「O2Jam - Music & Game」谱面）；
->31. **json**（「Deemo」谱面）；
->32. **json**（「节奏大师微信小程序」谱面、「Project FX」谱面）；
->33. **mc**（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
->34. **aff**（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
->35. **drb**（「DanceRail」谱面）。
+>　支持以下文件的☆读入，部分支持附选项的★写出：
+>1. ☆**vos**（「Virtual Orchestra Studio」、「CanMusic」谱面文件，包括000、001、006、022版本）；
+>2. ★**bms**、**bme**、**bml**（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
+>3. ★**pms**（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
+>4. ★**dtx**（「DTXMania」谱面文件，包括6键、9键鼓和5键、7键吉他、贝斯键位）；
+>5. ★**msd**（「Dance Dance Revolution」谱面文件）；
+>6. ☆**ssq**（「Dance Dance Revolution 4th Mix」谱面文件）；
+>7. ★**sm**、**sma**、**ssc**（「Step Mania」系列谱面文件）；
+>8. ☆**sdf**（「Pocket DDR」谱面文件）；
+>9. ★**dwi**（「Dance With Intensity」谱面文件）；
+>10. ☆**pt**（「DJMax」谱面文件）；
+>11. ★**ksf**（「Kick It Up」谱面文件）；
+>12. ★**ucs**（「Pump It Up」谱面文件）；
+>13. ★**dance**（「pydance」谱面文件）；
+>14. ★**tja**（「太鼓次郎」谱面文件，包括taiko、jube模式）；
+>15. ☆**ojn**（「[O2Jam](http://www.o2jam.com/)」谱面文件）；
+>16. ★**osu**（「[osu!](https://osu.ppy.sh/)」谱面文件，包括osu、taiko、ctb、mania模式）；
+>17. ★**xml**（「[乐动达人](http://yd2012.redatoms.com/)」谱面文件）；
+>18. ★**xml**（「[乐动时代](http://www.ydsd.com/)」谱面文件）；
+>19. ★**xml**（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
+>20. ★**xml**（「[Dynamix](http://dynamix.c4-cat.com/)」谱面）；
+>21. ★**xml**（「[QQ炫舞手游](https://x5m.qq.com/)」谱面，包括星动模式、弦月模式、弹珠模式、传统模式、泡泡模式）;
+>22. ★**vox**（「SOUND VOLTEX」谱面文件）；
+>23. ★**ksh**（「K-Shoot Mania」谱面文件）；
+>24. ★**imd**（「[节奏大师](http://da.qq.com/)」谱面文件，经典模式）；
+>25. ★**mde**（「[节奏大师](http://da.qq.com/)」谱面文件，星动模式）；
+>26. ★**txt**（「Cytus」谱面，包含原版和Version2）；
+>27. ★**txt**（「Cytus2」谱面）；
+>28. ★**txt**（「Musync」谱面文件，包括明文和加密）；
+>29. ★**txt**（「[BanG Dream!](https://bang-dream.com/)」谱面）；
+>30. ★**txt**（「O2Jam - Music & Game」谱面）；
+>31. ★**json**（「Deemo」谱面）；
+>32. ★**json**（「节奏大师微信小程序」谱面、「Project FX」谱面）；
+>33. ★**mc**（「[Malody](http://m.mugzone.net/)」谱面文件，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
+>34. ★**aff**（「[Arcaea](https://arcaea.lowiro.com/)」谱面文件）；
+>35. ★**drb**（「DanceRail」谱面）。
 >
 >　支持以下风格的谱面绘制，含有音频可实现简易的谱面播放：
 >1. **bms**（「Beat Mania」风格）；
