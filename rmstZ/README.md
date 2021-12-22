@@ -22,7 +22,7 @@
 >
 >　支持以下文件的☆读入，部分支持附选项的★写出：
 >1. ☆**vos**（「Virtual Orchestra Studio」、「CanMusic」谱面文件，包括000、001、006、022版本）；
->2. ★**bms**、**bme**、**bml**（「Beat Mania」系列谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
+>2. ★**bms**、**bme**、**bml**（「Beat Mania」系列模拟谱面文件，包括bm98、bms、ddr4、ddr6、bme、bme3、bme5、bme7、2dx键位）；
 >3. ★**pms**（「pop'n music」谱面文件，包括pms、pms3、pms5、pmse键位）；
 >4. ★**dtx**（「DTXMania」谱面文件，包括6键、9键鼓和5键、7键吉他、贝斯键位）；
 >5. ★**msd**（「Dance Dance Revolution」谱面文件）；
