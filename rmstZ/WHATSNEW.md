@@ -16,6 +16,16 @@
 > ---
 >　[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 >
+>　【[rmstZ_20211225.html](rmstZ_20211225.html)】
+>* 修复读入文件后索引选项值不实际保留的问题；
+>* 修复写出wav标识错误的问题；
+>* 写出bms系、dtx、bangdream谱面WAV数超过1295上限时不予写入；
+>* 增加支持s3p（「Sound Voltex」音频包）的读入；
+>* 增加支持s3v（「Sound Voltex」音频）的读入；
+>* 增加支持1（「Beatmania IIDX」谱面）的读入；
+>* 从包读取文件支持筛选格式进行数据转换。
+>
+> ---
 >　【[rmstZ_20211222.html](rmstZ_20211222.html)】
 >* 修复读取zip文件名乱码的问题；
 >* 修复单长键谱面对长折线键型转换遗漏的问题；
