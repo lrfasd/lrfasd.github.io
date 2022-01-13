@@ -5,16 +5,16 @@
 >3. 代码开源，避免后门，保证使用安全；
 >4. 可纯客户端操作，无需任何流量。
 >
+>## [rmstZ](https://lrfasd.github.io/rmstZ/)
+>>*TransCode for Music Game*
+>>
+>
 >## [ampedZ](https://lrfasd.github.io/ampedZ/)
 >>*DataTool for [Getamped](http://bfo.sdo.com/)*
 >>
 >
 >## [ampedT](https://lrfasd.github.io/ampedT/)
 >>*InnerTool for [Getamped](http://bfo.sdo.com/)*
->>
->
->## [rmstZ](https://lrfasd.github.io/rmstZ/)
->>*TransCode for Music Game*
 >>
 >---
 >
