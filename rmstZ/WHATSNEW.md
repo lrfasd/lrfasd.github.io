@@ -16,6 +16,14 @@
 > ---
 >　[[N]测试版本](https://www.jianguoyun.com/p/DcRuoCEQitn5BxiunYYD)
 >
+>　【[rmstZ_20220113.html](rmstZ_20220113.html)】
+>* 修复更改流速时节拍数据出错的问题；
+>* 增加支持（「K-Shoot Mania」谱面）的写出；
+>* 读入ksh时如有负BPM识别为时停；
+>* 优化读入ksh的按键坐标；
+>* 写出aff时虹弧优先取色蓝、红，有同时虹弧才取色绿。
+>
+> ---
 >　【[rmstZ_20211225.html](rmstZ_20211225.html)】
 >* 修复读入文件后索引选项值不实际保留的问题；
 >* 修复写出wav标识错误的问题；
