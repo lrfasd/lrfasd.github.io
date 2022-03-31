@@ -54,10 +54,11 @@
 >31. ★**txt**（「[BanG Dream!](https://bang-dream.com/)」谱面）；
 >32. ★**txt**（「O2Jam - Music & Game」谱面）；
 >33. ★**json**（「Deemo」谱面）；
->34. ★**json**（「节奏大师微信小程序」、「Project FX」谱面）；
+>34. ★**json**（「节奏大师微信小程序」、「Project FX」、「不休的音符」谱面）；
 >35. ★**mc**（「[Malody](http://m.mugzone.net/)」谱面，包括key、step、dj、catch、pad、taiko、ring、slide模式）；
 >36. ★**aff**（「[Arcaea](https://arcaea.lowiro.com/)」谱面）；
->37. ★**drb**（「DanceRail」谱面）。
+>37. ★**drb**（「DanceRail」谱面）；
+>38. ★**mmg**（「不休的音符」官方自制谱面工具谱面）。
 >
 >　支持以下风格的谱面绘制，含有音频可实现简易的谱面播放，包括背景音和按键音：
 >1. **bms**（「Beat Mania」风格）；
