@@ -8,6 +8,11 @@
 >[推荐字体](FONTS.md)
 >
 ## 更新历史
+>　【[ampedZ_20220502.html](ampedZ_20220502.html)】
+>* DictViewer新增Map；
+>* IconCover新增rank11至15及get。
+>
+---
 >　【[ampedZ_20210910.html](ampedZ_20210910.html)】
 >* 优化最初加载时的显示逻辑；
 >* 优化url参数显示、检查文本的显示方式；
