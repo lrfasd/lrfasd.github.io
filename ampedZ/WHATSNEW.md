@@ -8,6 +8,8 @@
 >[推荐字体](FONTS.md)
 >
 ## 更新历史
+>　资源整合版[ampedZ_20220502_ndr.html](ampedZ_20220502_ndr.html)(11.0 MB)
+>
 >　【[ampedZ_20220502.html](ampedZ_20220502.html)】
 >* DictViewer新增Map；
 >* IconCover新增rank11至15及get。
