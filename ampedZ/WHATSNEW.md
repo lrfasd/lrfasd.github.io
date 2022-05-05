@@ -8,7 +8,7 @@
 >[推荐字体](FONTS.md)
 >
 ## 更新历史
->　【[ampedZ_20220502_ndr.html](ampedZ_20220502_ndr.html)(11.0 MB)】
+>　【[ampedZ_20220502_ndr.html](ampedZ_20220502_ndr.html)】(11.0 MB)
 >* 资源整合版
 >
 > ---
