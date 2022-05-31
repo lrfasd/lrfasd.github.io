@@ -29,7 +29,7 @@
 >* 　fp；
 >* 　face；
 >* 　body；
->* 　skn；
 >* 　accs；
->* 　rep。
+>* 　skin；
+>* 　replay。
 >
