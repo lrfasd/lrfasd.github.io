@@ -8,10 +8,22 @@
 >[推荐字体](FONTS.md)
 >
 ## 更新历史
->　【[ampedZ_20220502_ndr.html](ampedZ_20220502_ndr.html)】(11.0 MB)
->* 资源整合版
+>　【[ampedZ_20220617_ndr.html](ampedZ_20220617_ndr.html)】(10.7 MB)
+>* 全资源整合版
 >
 > ---
+>　【[ampedZ_20220617.html](ampedZ_20220617.html)】
+>* 改进数据的读写；
+>* 完善数值型列数据；
+>* 增加支持状态字段和标志字段的字段值的工具提示；
+>* 字段值有工具提示时予以颜色标注；
+>* 对DictViewer的Map进行改进，键以名称排序，值对ID类数据以工具提示显示对应名称；
+>* 改进支持GameRoomEntryInfoBag；
+>* 新增支持EntryID、ChatRoomID、TotalRank，并增加相应的查看工具；
+>* 不存在NewSetting数据时，DictViewer部分不依赖NewSetting数据的工具予以显示；
+>* 推荐的字体不存在时在页面顶部予以链接提示。
+>
+---
 >　【[ampedZ_20220502.html](ampedZ_20220502.html)】
 >* DictViewer新增Map；
 >* IconCover新增rank11至15及get。
