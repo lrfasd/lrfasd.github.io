@@ -53,9 +53,9 @@
 >
 >【工具】DictViewer
 >
->〖必需〗NewSetting.ser
->
 >〖必需〗Dict.ser
+>
+>〖部分可选〗NewSetting.ser
 >
 >* 用户协议
 >* 过滤词
@@ -80,7 +80,7 @@
 >
 >〖必需〗UserData.ser
 >
->「备注」可同时读入三种类型的数据
+>「备注」可累加读入三种类型的数据
 >
 >* 用户数据
 >
@@ -95,6 +95,30 @@
 >〖必需〗ChatMessage.ser
 >
 >* 聊天消息
+>
+>【工具】GameRoomEntryInfoBagViewer
+>
+>〖必需〗GameRoomEntryInfoBag.ser
+>
+>* 游戏房间入口信息包
+>
+>【工具】EntryIDViewer
+>
+>〖必需〗EntryID.ser
+>
+>* 入口标识
+>
+>【工具】ChatRoomIDViewer
+>
+>〖必需〗ChatRoomID.ser
+>
+>* 聊天房间标识
+>
+>【工具】TotalRankViewer
+>
+>〖必需〗TotalRank.ser
+>
+>* 总等级
 >
 >【工具】ShopItemViewer
 >
