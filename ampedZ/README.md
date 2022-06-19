@@ -70,11 +70,35 @@
 >* 答题
 >* 键值
 >
+>【工具】ShopItemViewer
+>
+>〖必需〗ShopItem.ser
+>
+>* 商店项目
+>
+>【工具】ChatMessageViewer
+>
+>〖必需〗ChatMessage.ser
+>
+>* 聊天消息
+>
 >【工具】HostInfoViewer
 >
 >〖必需〗HostInfo.ser
 >
 >* 主机信息
+>
+>【工具】GuildData$SummaryViewer
+>
+>〖必需〗GuildData$Summary.ser
+>
+>* 行会数据概要
+>
+>【工具】CommunityUserDataViewer
+>
+>〖必需〗CommunityUserData.ser
+>
+>* 社群用户数据
 >
 >【工具】UserDataViewer
 >
@@ -89,12 +113,6 @@
 >〖必需〗UserList.ser
 >
 >* 用户列表
->
->【工具】ChatMessageViewer
->
->〖必需〗ChatMessage.ser
->
->* 聊天消息
 >
 >【工具】GameRoomEntryInfoBagViewer
 >
@@ -119,12 +137,6 @@
 >〖必需〗TotalRank.ser
 >
 >* 总等级
->
->【工具】ShopItemViewer
->
->〖必需〗ShopItem.ser
->
->* 商店项目
 >
 >【工具】QuizSimulator
 >
