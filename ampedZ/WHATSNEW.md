@@ -16,7 +16,8 @@
 >* 新增支持GuildData$Summary、CommunityUserData，并增加相应的查看工具；
 >* 日期类数据以工具提示显示对应格式化日期；
 >* 导入文件无扩展名时默认为ser；
->* 读入NewSetting后刷新其他已初始化的有ID类数据的查看工具。
+>* 读入NewSetting后刷新其他已初始化的有ID类数据的查看工具；
+>* 部分数据可以累加多文件读入。
 >
 ---
 >　【[ampedZ_20220617.html](ampedZ_20220617.html)】
