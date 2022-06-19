@@ -12,6 +12,13 @@
 >* 全资源整合版
 >
 > ---
+>　【[ampedZ_20220619.html](ampedZ_20220619.html)】
+>* 新增支持GuildData$Summary、CommunityUserData，并增加相应的查看工具；
+>* 日期类数据以工具提示显示对应格式化日期；
+>* 导入文件无扩展名时默认为ser；
+>* 读入NewSetting后刷新其他已初始化的有ID类数据的查看工具。
+>
+---
 >　【[ampedZ_20220617.html](ampedZ_20220617.html)】
 >* 改进数据的读写；
 >* 完善数值型列数据；
