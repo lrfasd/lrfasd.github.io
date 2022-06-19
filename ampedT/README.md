@@ -33,3 +33,10 @@
 >* 　skin；
 >* 　replay。
 >
+# tab插件
+>
+>支持tab文件的解包、打包。
+>
+# kar插件
+>
+>支持kar、dat、repkar、skin、hskin文件的解包、打包。
