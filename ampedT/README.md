@@ -39,13 +39,13 @@
 >
 >**kar插件**
 >
->支持kar、dat、repkar、skin、hskin、hhskin文件的解包、打包。
+>　支持kar、dat、repkar、skin、hskin、hhskin文件的解包、打包。
 >
 >**settingPatcher插件**
 >
->支持修改setting.kar的键值数据（须先加载kar插件）。
+>　支持修改setting.kar的键值数据（须先加载kar插件）。
 >
 >**skinUsurper插件**
 >
->支持修改.skin、.hskin、.hhskin文件的编辑者ID（须先加载kar插件）。
+>　支持修改.skin、.hskin、.hhskin文件的编辑者ID（须先加载kar插件）。
 >
