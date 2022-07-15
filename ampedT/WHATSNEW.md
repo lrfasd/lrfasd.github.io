@@ -12,7 +12,7 @@
 >* 导出全部文件支持zip包以外的类型；
 >* 统一导出包的接口代码；
 >* 新增tab插件，支持tab文件的解包、打包；
->* 新增kar插件，支持kar、dat、repkar、skin、hskin文件的解包、打包；
+>* 新增kar插件，支持kar、dat、repkar、skin、hskin、hshkin文件的解包、打包；
 >* 默认读入同目录下的tab和kar插件。
 >
 ---
