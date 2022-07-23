@@ -43,7 +43,7 @@
 >
 >**skinProtector插件**
 >
->　增强型插件，支持批量转换myskin为skin、hskin、hhskin（须先加载kar插件）。
+>　增强型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）。
 >
 >**settingPatcher插件**
 >
