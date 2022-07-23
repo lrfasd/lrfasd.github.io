@@ -35,17 +35,21 @@
 >
 >**tab插件**
 >
->　支持tab文件的解包、打包。
+>　基础型插件，支持tab文件的解包、打包。
 >
 >**kar插件**
 >
->　支持kar、dat、repkar、skin、hskin、hhskin文件的解包、打包。
+>　基础型插件，支持.kar、.dat、.repkar、.skin、.hskin、.hhskin文件的解包、打包。
+>
+>**skinProtector插件**
+>
+>　增强型插件，支持批量转换myskin为.skin、.hskin、.hhskin（须先加载kar插件）。
 >
 >**settingPatcher插件**
 >
->　支持修改setting.kar的键值数据（须先加载kar插件）。
+>　进阶型插件，支持修改setting.kar的键值数据（须先加载kar插件）。
 >
 >**skinUsurper插件**
 >
->　支持修改.skin、.hskin、.hhskin文件的编辑者ID（须先加载kar插件）。
+>　进阶型插件，支持修改.skin、.hskin、.hhskin文件的编辑者ID（须先加载kar插件）。
 >
