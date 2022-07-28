@@ -30,7 +30,7 @@
 >* 　face；
 >* 　body；
 >* 　accs；
->* 　skin；
+>* 　myskin；
 >* 　replay。
 >
 >**tab插件**
@@ -47,13 +47,13 @@
 >
 >**skinUsurper插件**
 >
->　进阶型插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）。
+>　专用型插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）。
 >
 >**settingPatcher插件**
 >
->　进阶型插件，支持修改setting.kar的键值数据（须先加载kar插件）。
+>　专用型插件，支持修改setting.kar的键值数据（须先加载kar插件）。
 >
 >**settingExporter插件**
 >
->　进阶型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
+>　专用型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
 >
