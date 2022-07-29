@@ -3,6 +3,19 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20220729.html](ampedT_20220729.html)】
+>* Control键和Shift键的开关操作在使用组合键时不予相应；
+>* unicode支持以文本域形式预览；
+>* 文本域预览为只读；
+>* 读入无扩展名文件尝试分析文件扩展名；
+>* 支持插件自定义选项；
+>* 新增skinProtector插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）；
+>* 新增skinUsurper插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）；
+>* 新增settingPatcher插件，支持修改setting.kar的键值数据（须先加载kar插件）；
+>* 新增settingExporter插件，支持从setting.kar导出unicode文件（须先加载kar插件）；
+>* 默认读入同目录下的skinProtector插件。
+>
+---
 >　【[ampedT_20220619.html](ampedT_20220619.html)】
 >* 修复写出wav标识错误的问题；
 >* 修复文件筛选器重新读入文件后出错的问题；
