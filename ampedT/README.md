@@ -33,11 +33,11 @@
 >* 　myskin；
 >* 　replay。
 >
->**[tab插件](https://www.bilibili.com/read/cv17416453)**
+>[**tab插件**](https://www.bilibili.com/read/cv17416453)
 >
 >　基础型插件，支持tab文件的解包、打包。
 >
->**[kar插件](https://www.bilibili.com/read/cv17416453)**
+>[**kar插件**](https://www.bilibili.com/read/cv17416453)
 >
 >　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin文件的解包、打包。
 >
