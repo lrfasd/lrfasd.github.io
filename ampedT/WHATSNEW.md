@@ -15,7 +15,7 @@
 >* 文本域预览为只读；
 >* 读入无扩展名文件尝试分析文件扩展名；
 >* 支持插件自定义选项；
->* 新增skinProtector插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）；
+>* 新增myskinProtector插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）；
 >* 新增skinUsurper插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）；
 >* 新增settingPatcher插件，支持修改setting.kar的键值数据（须先加载kar插件）；
 >* 新增settingExporter插件，支持从setting.kar导出unicode文件（须先加载kar插件）；
