@@ -3,7 +3,16 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
->　【[ampedT_20220806.html](ampedT_20220806.html)】
+>　【[ampedT_20220813.html](ampedT_20220813.html)】
+>* 重构pt2和mop数据读入；
+>* myskin和replay的cc数据增加对应lang的工具提示；
+>* myskin对头饰、身体的节点数据进行解密；
+>* 通过插件修改文件后立即同步文件信息；
+>* 插件不支持当前文件相关功能时选项变为无效；
+>* 新增skinTranslator插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
+>
+---
+>　【【[ampedT_20220806.html](ampedT_20220806.html)】
 >* 可一次加载多个插件；
 >* 加载插件后显示已加载插件列表；
 >* 加载插件不影响当前操作。
