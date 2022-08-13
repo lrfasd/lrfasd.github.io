@@ -49,9 +49,9 @@
 >
 >　专用型插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）。
 >
->[**skinTranslator插件**](https://www.bilibili.com/read/cv17865446)
+>[**skinTranslator插件**](https://www.bilibili.com/read/cv18082144)
 >
->　专用型插件，支持将skin、hskin、hhskin文件转换为其他服务器支持的数据（须先加载kar插件）。
+>　专用型插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
 >
 >[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)
 >
