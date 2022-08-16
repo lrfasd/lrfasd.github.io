@@ -3,6 +3,11 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20220816.html](ampedT_20220816.html)】
+>* 从dmp提取文件时提取DatabaseResourceSource$DataPack包中数据；
+>* 可从插件列表快捷加载当前路径下的插件。
+>
+---
 >　【[ampedT_20220813.html](ampedT_20220813.html)】
 >* 重构pt2和mop数据读入；
 >* myskin和replay的cc数据增加对应lang的工具提示；
@@ -12,7 +17,7 @@
 >* 新增skinTranslator插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
 >
 ---
->　【【[ampedT_20220806.html](ampedT_20220806.html)】
+>　【[ampedT_20220806.html](ampedT_20220806.html)】
 >* 可一次加载多个插件；
 >* 加载插件后显示已加载插件列表；
 >* 加载插件不影响当前操作。
