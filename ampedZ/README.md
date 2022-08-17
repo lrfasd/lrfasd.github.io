@@ -70,6 +70,12 @@
 >* 答题
 >* 键值
 >
+>【工具】ServerListViewer
+>
+>〖必需〗ServerList.ser
+>
+>* 键值
+>
 >【工具】ShopItemViewer
 >
 >〖必需〗ShopItem.ser
