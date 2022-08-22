@@ -72,54 +72,54 @@
 >
 >〖部分可选〗NewSetting.ser
 >
->* 用户协议
->* 过滤词
->* 小提示
->* 乐开怀
->* 登录签到
->* 礼物盒
->* 钓竿
->* 鱼
->* 工具
->* 矿石
->* 答题
->* 键值
+>* 用户协议（Contract）
+>* 过滤词（Chatfilter）
+>* 小提示（Tips）
+>* 乐开怀（Oracle）
+>* 登录签到（Loginstamp）
+>* 礼物盒（Presentbox）
+>* 钓竿（Rod）
+>* 鱼（Fish）
+>* 工具（Tool）
+>* 矿石（Mineral）
+>* 答题（Quiz）
+>* 键值（Map）
 >
 >【工具】ServerListViewer
 >
 >〖必需〗ServerList.ser
 >
->* 键值
+>* 服务器列表（ServerList）
 >
 >【工具】ShopItemViewer
 >
 >〖必需〗ShopItem.ser
 >
->* 商店项目
+>* 商店项目（ShopItem）
 >
 >【工具】ChatMessageViewer
 >
 >〖必需〗ChatMessage.ser
 >
->* 聊天消息
+>* 聊天消息（ChatMessage）
 >
 >【工具】HostInfoViewer
 >
 >〖必需〗HostInfo.ser
 >
->* 主机信息
+>* 主机信息（HostInfo）
 >
 >【工具】GuildData$SummaryViewer
 >
 >〖必需〗GuildData$Summary.ser
 >
->* 行会数据概要
+>* 行会数据概要（GuildDataSummary）
 >
 >【工具】CommunityUserDataViewer
 >
 >〖必需〗CommunityUserData.ser
 >
->* 社群用户数据
+>* 社群用户数据（CommunityUserData）
 >
 >【工具】UserDataViewer
 >
@@ -127,49 +127,49 @@
 >
 >「备注」可累加读入三种类型的数据
 >
->* 用户数据
+>* 用户数据（UserData）
 >
 >【工具】UserListViewer
 >
 >〖必需〗UserList.ser
 >
->* 用户列表
+>* 用户列表（UserList）
 >
 >【工具】GameRoomEntryInfoBagViewer
 >
 >〖必需〗GameRoomEntryInfoBag.ser
 >
->* 游戏房间入口信息包
+>* 游戏房间入口信息包（GameRoomEntryInfoBag）
 >
 >【工具】EntryIDViewer
 >
 >〖必需〗EntryID.ser
 >
->* 入口标识
+>* 入口标识（EntryID）
 >
 >【工具】ChatRoomIDViewer
 >
 >〖必需〗ChatRoomID.ser
 >
->* 聊天房间标识
+>* 聊天房间标识（ChatRoomID）
 >
 >【工具】TotalRankViewer
 >
 >〖必需〗TotalRank.ser
 >
->* 总等级
+>* 总等级（TotalRank）
 >
 >【工具】QuizSimulator
 >
 >〖必需〗Dict.ser
 >
->* 答题模拟
+>* 答题模拟（QuizSimulator）
 >
 >【工具】IconCover
 >
 >〖必需〗Resource.tab
 >
->* 图标盖换
+>* 图标盖换（IconCover）
 >
 >【工具】SetCollector
 >
@@ -177,6 +177,6 @@
 >
 >〖必需〗Resource.tab
 >
->* 装备
->* 小玩意
+>* 装备（Accessory）
+>* 小玩意（SubAccessory）
 >
