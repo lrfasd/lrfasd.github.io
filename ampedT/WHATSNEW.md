@@ -3,6 +3,12 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20220826.html](ampedT_20220826.html)】
+>* 从包文件提取文件时均提取DatabaseResourceSource$DataPack中数据；
+>* 修复拖拽结果读入文件出错的问题；
+>* 插件选项生效后同步选项值。
+>
+---
 >　【[ampedT_20220816.html](ampedT_20220816.html)】
 >* 从dmp提取文件时提取DatabaseResourceSource$DataPack包中数据；
 >* 可从插件列表快捷加载当前路径下的插件。
