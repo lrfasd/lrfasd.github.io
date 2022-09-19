@@ -33,11 +33,11 @@
 >* 　myskin；
 >* 　replay。
 >
->[**tab插件**](https://www.bilibili.com/read/cv17416453)
+>[**tab插件**](https://www.bilibili.com/read/cv17416453)公开
 >
 >　基础型插件，支持tab文件的解包、打包。
 >
->[**kar插件**](https://www.bilibili.com/read/cv17416453)
+>[**kar插件**](https://www.bilibili.com/read/cv17416453)未公开
 >
 >　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin文件的解包、打包。
 >
@@ -45,19 +45,19 @@
 >
 >　增强型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）。
 >
->[**skinUsurper插件**](https://www.bilibili.com/read/cv17865446)
+>[**skinUsurper插件**](https://www.bilibili.com/read/cv17865446)内部公开
 >
 >　专用型插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）。
 >
->[**skinTranslator插件**](https://www.bilibili.com/read/cv18082144)
+>[**skinTranslator插件**](https://www.bilibili.com/read/cv18082144)内部公开
 >
 >　专用型插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
 >
->[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)
+>[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)内部公开
 >
 >　专用型插件，支持修改setting.kar的键值数据（须先加载kar插件）。
 >
->[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)
+>[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)内部公开
 >
 >　专用型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
 >
