@@ -41,23 +41,23 @@
 >
 >　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin文件的解包、打包。
 >
->[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)
+>[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[内部公开](http://t.fenchuan8.com/qLqq12RF)）
 >
 >　增强型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）。
 >
->[**skinUsurper插件**](https://www.bilibili.com/read/cv17865446)内部公开
+>[**skinUsurper插件**](https://www.bilibili.com/read/cv17865446)（[内部公开](http://t.fenchuan8.com/GPUJY1xr)）
 >
 >　专用型插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）。
 >
->[**skinTranslator插件**](https://www.bilibili.com/read/cv18082144)内部公开
+>[**skinTranslator插件**](https://www.bilibili.com/read/cv18082144)（[内部公开](http://t.fenchuan8.com/Jfqwd2KT)）
 >
 >　专用型插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
 >
->[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)内部公开
+>[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)（[内部公开](http://t.fenchuan8.com/duoPa3Mn)）
 >
 >　专用型插件，支持修改setting.kar的键值数据（须先加载kar插件）。
 >
->[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)内部公开
+>[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)（[内部公开](http://t.fenchuan8.com/YViAW3Oz)）
 >
 >　专用型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
 >
