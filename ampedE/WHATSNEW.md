@@ -1,5 +1,5 @@
-# ampedH
->>*Extract KarSource Tool for [Getamped](http://bfo.sdo.com/)*
+# ampedE
+>*Extract KarSource Tool for [Getamped](http://bfo.sdo.com/)*
 >
 >[功能介绍](README.md)
 ## 更新历史
