@@ -3,7 +3,7 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
->　【1.0发布】2022928（[[F]内部公开](http://t.fenchuan8.com/HmDWZZb)）
+>　【1.0发布】20220928（[[F]内部公开](http://t.fenchuan8.com/HmDWZZb)）
 >* 实现预设多个配置
 >* 运行后全自动运行
 >* Windows7系统支持Aero界面和任务栏进度条
