@@ -33,7 +33,7 @@
 >* 　myskin；
 >* 　replay。
 >
->[**tab插件**](https://www.bilibili.com/read/cv17416453)（[内部公开](http://t.fenchuan8.com/wurus1hr)）
+>[**tab插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开](http://t.fenchuan8.com/wurus1hr)）
 >
 >　基础型插件，支持tab文件的解包、打包。
 >
