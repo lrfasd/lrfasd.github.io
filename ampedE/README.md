@@ -4,7 +4,7 @@
 >[更新历史](WHATSNEW.md)
 ## 界面预览
 > 
-> ![预览](ampedZ_preview.png "ampedZ界面")
+> ![预览](ampedE_preview.png "ampedE界面")
 > 
 ## 功能介绍
 >支持通过修改附带的ini文件，实现从预设的kar、dat、repkar、skin、hskin、hhskin中全自动提取文件。
