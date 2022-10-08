@@ -28,3 +28,7 @@
 >## [ampedE](https://lrfasd.github.io/ampedE/)
 >>*Extract KarSource Tool for [Getamped](http://bfo.sdo.com/)*
 >>
+>
+>## [ampedP](https://lrfasd.github.io/ampedP/)
+>>*Package KarSource Tool for [Getamped](http://bfo.sdo.com/)*
+>>
