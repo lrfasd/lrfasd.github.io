@@ -39,7 +39,7 @@
 >
 >[**kar插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开](http://t.fenchuan8.com/T1U2K3Sf)）
 >
->　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin文件的解包、打包。
+>　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin、omd、ssoa文件的解包、打包。
 >
 >[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[[F]内部公开](http://t.fenchuan8.com/qLqq12RF)）
 >
