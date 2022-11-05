@@ -65,3 +65,7 @@
 >
 >　专用型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
 >
+>[**settingAnalyzer_mission插件**](https://www.bilibili.com/read/cv19552864)（[[F]内部公开](http://t.fenchuan8.com/M3ktH3Cq)）
+>
+>　专用型插件，支持从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
+>
