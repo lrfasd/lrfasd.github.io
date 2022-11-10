@@ -41,7 +41,7 @@
 >
 >　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin、omd、ssoa文件的解包、打包。
 >
->[**kar_guess插件**]（[[F]内部公开](http://t.fenchuan8.com/xWyzV3XN)）
+>**kar_guess插件**（[[F]内部公开](http://t.fenchuan8.com/xWyzV3XN)）
 >
 >　增强型插件，支持动态密码的cache系列kar文件的解包（须先加载kar插件）。
 >
