@@ -3,6 +3,15 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20221126.html](ampedT_20221126.html)】
+>* 支持批量转换bmp、png为tex；
+>* 修复settingPatcher插件、skinUsurper插件、skinTranslator插件不适配新版本的问题；
+>* skinUsurper插件、skinTranslator插件、settingPatcher插件支持计算生成文件用时；
+>* settingAnalyzer_mission插件支持计算携带不同装备道具增加成功率全部探索任务的平均值；
+>* 新增skinUnprotector插件，支持批量转换skin、hskin、hhskin文件为myskin文件（须先加载kar插件）；
+>* 默认读入同目录下的skinUnprotector插件。
+>
+---
 >　【[ampedT_20221115.html](ampedT_20221115.html)】
 >* 改进分析无扩展名文件类型的性能问题；
 >* 提升MD5、SHA1、CRC32、deflate、inflate的性能；
