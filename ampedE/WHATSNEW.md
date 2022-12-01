@@ -5,7 +5,7 @@
 ## 更新历史
 >　【1.1更新】2022XXXX
 >* 增加支持omd、ssoa；
->* 解包文件时提取DatabaseResourceSource$DataPack；
+>* 解包cache系列kar文件时提取DatabaseResourceSource$DataPack；
 >* 密码匹配失败后不作解包操作；
 >* 可通过ini设置在密码匹配失败后猜测密码；
 >* 可通过ini设置解包后保存为jar、zip。
