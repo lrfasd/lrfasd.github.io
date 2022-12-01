@@ -31,7 +31,9 @@
 >* 　body；
 >* 　accs；
 >* 　myskin；
->* 　replay。
+>* 　replay；
+>* 　mymap；
+>* 　mysoa。
 >
 >[**tab插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开](http://t.fenchuan8.com/wurus1hr)）
 >
