@@ -4,7 +4,7 @@
 >[功能介绍](README.md)
 ## 更新历史
 >　【1.1更新】2022XXXX
->* 增加支持omd、ssoa；
+>* 增加解包支持omd、ssoa；
 >* 解包cache系列kar文件时提取DatabaseResourceSource$DataPack；
 >* 密码匹配失败后不作解包操作；
 >* 可通过ini设置在密码匹配失败后猜测密码；
