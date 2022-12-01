@@ -8,7 +8,7 @@
 >* 解包cache系列kar文件时提取DatabaseResourceSource$DataPack；
 >* 密码匹配失败后不作解包操作；
 >* 可通过ini设置在密码匹配失败后猜测密码；
->* 可通过ini设置解包后保存为jar、zip。
+>* 可通过ini设置解包为jar、zip。
 >
 ---
 >　【1.0发布】20220928（[[F]内部公开](http://t.fenchuan8.com/HmDWZZb)）
