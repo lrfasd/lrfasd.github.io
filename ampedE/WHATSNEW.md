@@ -3,12 +3,12 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
->　【1.1更新】2022XXXX
+>　【1.1更新】20221202（[[F]内部公开](http://t.fenchuan8.com/HmDWZZb)）
 >* 增加解包支持omd、ssoa；
->* 解包cache系列kar文件时提取DatabaseResourceSource$DataPack；
->* 密码匹配失败后不作解包操作；
+>* 可通过ini设置解包为zip、jar；
 >* 可通过ini设置在密码匹配失败后猜测密码；
->* 可通过ini设置解包为jar、zip。
+>* 密码匹配失败后不作解包操作；
+>* 解包cache系列kar及skin、hskin、hhskin文件时额外执行UnDataPack和CheckSkin。
 >
 ---
 >　【1.0发布】20220928（[[F]内部公开](http://t.fenchuan8.com/HmDWZZb)）
