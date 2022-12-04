@@ -45,7 +45,11 @@
 >
 >**kar_guess插件**（[[F]内部公开](http://t.fenchuan8.com/xWyzV3XN)）
 >
->　增强型插件，支持动态密码的cache系列kar文件的解包（须先加载kar插件）。
+>　辅助型插件，支持在解析kar文件密码失败后猜测密码（须先加载kar插件）。
+>
+>[**myskin_check插件**]
+>
+>　辅助型插件，支持在识别myskin文件数字验证错误后重新验证（须先加载kar插件）。
 >
 >[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[[F]内部公开](http://t.fenchuan8.com/qLqq12RF)）
 >
