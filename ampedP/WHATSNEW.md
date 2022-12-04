@@ -5,8 +5,7 @@
 ## 更新历史
 >　【1.1更新】20221204（[[F]内部公开](http://t.fenchuan8.com/XnS3eAS)）
 >* 增加支持打包omd、ssoa；
->* 可直接从jar、zip打包；
->* 可直接指定单文件打包。
+>* 可直接从jar、zip打包。
 >
 ---
 >　【1.0发布】20221013（[[F]内部公开](http://t.fenchuan8.com/XnS3eAS)）
