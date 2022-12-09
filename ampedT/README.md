@@ -31,6 +31,7 @@
 >* 　body；
 >* 　accs；
 >* 　myskin；
+>* 　myaccs；
 >* 　replay；
 >* 　mymap；
 >* 　mysoa。
