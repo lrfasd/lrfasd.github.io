@@ -3,7 +3,7 @@
 >
 >[更新历史](WHATSNEW.md)
 ## 功能介绍
->支持从Windows转储文件dmp中提取或从压缩文档zip中读取class文件或以下文件并进行保存、转化格式、以html预览数据，支持批量操作：
+>支持从Windows转储文件dmp中提取或从压缩文档zip中读取class文件或以下文件并进行保存、转换格式、以html预览数据，支持批量操作：
 >
 >* 　tex；
 >* 　sr；
@@ -47,7 +47,7 @@
 >
 >　辅助型插件，支持在解析kar文件密码失败后猜测密码（须先加载kar插件）。
 >
->**myskin_check插件**
+>**myskin_check插件**（[[F]内部公开](http://t.fenchuan8.com/3sd1B2pf)）
 >
 >　辅助型插件，支持在识别myskin文件数字验证错误后重新验证。
 >
