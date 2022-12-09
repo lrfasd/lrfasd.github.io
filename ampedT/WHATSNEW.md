@@ -3,6 +3,16 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20221209.html](ampedT_20221209.html)】
+>* 修复读取32位bmp不显示透明度的问题；
+>* 支持读入jar和导出jar；
+>* 支持读取myaccs、mymap和mysoa呈现数据预览并保存为html；
+>* kar插件优化代码匹配；
+>* myskinProtector插件支持读取myskin文件的userID值更新到文件中；
+>* skinUsurper插件支持同步修改myskin文件的userID值；
+>* 新增myskin_check插件，支持在识别myskin文件数字验证错误后重新验证。
+>
+---
 >　【[ampedT_20221126.html](ampedT_20221126.html)】
 >* 支持批量转换bmp、png为tex；
 >* 修复settingPatcher插件、skinUsurper插件、skinTranslator插件不适配新版本的问题；
