@@ -44,9 +44,9 @@
 >
 >　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin、omd、ssoa文件的解包、打包。
 >
->**kar_guess插件**（[[F]内部公开](http://t.fenchuan8.com/xWyzV3XN)）
+>[**kar_guess插件**](https://www.bilibili.com/read/cv20602933)（[[F]内部公开](http://t.fenchuan8.com/xWyzV3XN)）
 >
->　辅助型插件，支持在解析kar文件密码失败后猜测密码（须先加载kar插件）。
+>　辅助型插件，支持在解析kar系列文件密码失败后猜测密码（须先加载kar插件）。
 >
 >**myskin_check插件**（[[F]内部公开](http://t.fenchuan8.com/3sd1B2pf)）
 >
