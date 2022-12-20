@@ -48,7 +48,7 @@
 >
 >　辅助型插件，支持在解析kar系列文件密码失败后猜测密码（须先加载kar插件）。
 >
->**myskin_check插件**（[[F]内部公开](http://t.fenchuan8.com/3sd1B2pf)）
+>[**myskin_check插件**](https://www.bilibili.com/read/cv20636645)（[[F]内部公开](http://t.fenchuan8.com/3sd1B2pf)）
 >
 >　辅助型插件，支持在识别myskin文件数字验证错误后重新验证。
 >
