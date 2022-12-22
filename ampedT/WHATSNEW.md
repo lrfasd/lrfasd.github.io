@@ -5,7 +5,7 @@
 ## 更新历史
 >　【[ampedT_20221209.html](ampedT_20221209.html)】
 >* 修复读取32位bmp不显示透明度的问题；
->* 支持bmp、png、tex间的相互转换；
+>* 支持bmp、png、tex间的批量相互转换；
 >* 支持读入jar和导出jar；
 >* 支持读取myaccs、mymap和mysoa呈现数据预览并保存为html；
 >* kar插件优化代码匹配；
