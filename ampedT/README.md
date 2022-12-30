@@ -3,7 +3,7 @@
 >
 >[更新历史](WHATSNEW.md)
 ## 功能介绍
->支持从Windows转储文件dmp中提取或从压缩文档zip中读取class文件或以下文件并进行保存、转换格式、以html预览数据，支持批量操作：
+>支持从Windows转储文件dmp中提取或从压缩文档zip、jar中读取class文件或以下文件并进行保存、转换格式、以html预览数据，支持批量操作：
 >
 >* 　tex；
 >* 　sr；
