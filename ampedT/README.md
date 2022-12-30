@@ -62,15 +62,15 @@
 >
 >[**skinUsurper插件**](https://www.bilibili.com/read/cv17865446)（[[F]内部公开](http://t.fenchuan8.com/GPUJY1xr)）
 >
->　专用型插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）。
+>　专用型插件，支持批量修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）。
 >
 >[**skinTranslator插件**](https://www.bilibili.com/read/cv18082144)（[[F]内部公开](http://t.fenchuan8.com/Jfqwd2KT)）
 >
->　专用型插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
+>　专用型插件，支持批量修改skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
 >
 >[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)（[[F]内部公开](http://t.fenchuan8.com/duoPa3Mn)）
 >
->　专用型插件，支持修改setting.kar的键值数据（须先加载kar插件）。
+>　专用型插件，支持批量修改setting.kar的键值数据（须先加载kar插件）。
 >
 >[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)（[[F]内部公开](http://t.fenchuan8.com/YViAW3Oz)）
 >
