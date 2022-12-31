@@ -3,6 +3,23 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20221231.html](ampedT_20221231.html)】
+>* 新增mymapProtector插件，支持批量转换mymap文件为omd文件（须先加载kar插件）;
+>* 新增omdUnprotector插件，支持批量转换omd文件为mymap文件（须先加载kar插件）;
+>* 新增mysoaProtector插件，支持批量转换mysoa文件为ssoa文件（须先加载kar插件）;
+>* 新增ssoaUnprotector插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）;
+>* 优化对转换文件失败的显示；
+>* 增强对插件选项的支持，已修改值标记为红色边框，批量操作时跳过识别无值选项的修改识别；
+>* 在批量转换的基础上新增批量修改功能，批量转换后应用批量修改；
+>* 新增“视为从包”选项，将读入的文件视为从包中读取；
+>* 新增myskinUsurper插件，支持批量修改myskin文件的userID值；
+>* skinUsurper插件支持批量修改（须先加载kar插件、myskinUsurper插件）；
+>* 新增myskinTranslator插件，支持批量修改myskin文件为其他服务器支持的数据；
+>* skinTranslator插件支持批量修改（须先加载kar插件、myskinTranslator插件）；
+>* settingPatcher插件支持批量修改；
+>* 默认读入同目录下的上述插件。
+>
+---
 >　【[ampedT_20221209.html](ampedT_20221209.html)】
 >* 修复读取32位bmp不显示透明度的问题；
 >* 支持bmp、png、tex间的批量相互转换；
