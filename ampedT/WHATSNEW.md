@@ -4,8 +4,8 @@
 >[功能介绍](README.md)
 ## 更新历史
 >　【[ampedT_20230105.html](ampedT_20230105.html)】
->* 新增omdUsurper插件，支持批量修改mymap文件的userID值（须先加载kar插件）;
->* 新增ssoaUsurper插件，支持批量修改mysoa文件的userID值（须先加载kar插件）;
+>* 新增omdUsurper插件，支持批量修改omd文件的userID值（须先加载kar插件）;
+>* 新增ssoaUsurper插件，支持批量修改ssoa文件的userID值（须先加载kar插件）;
 >* 插件选项支持通过打开文件输入base64值；
 >* 插件选项值文本框和打开文件按钮直接接受拖拽文件；
 >* 插件选项值为图片base64时，工具提示显示图片显示的宽度和高度；
