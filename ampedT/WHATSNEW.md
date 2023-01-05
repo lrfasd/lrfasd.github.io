@@ -9,7 +9,7 @@
 >* 插件选项支持通过打开文件输入base64值；
 >* 插件选项值文本框和打开文件按钮直接接受拖拽文件；
 >* 插件选项值为图片base64时，工具提示显示图片显示的宽度和高度；
->* >* 新增myskinRedrawer插件，支持批量修改myskin文件的头饰、脸部、身体纹理图片；
+>* 新增myskinRedrawer插件，支持批量修改myskin文件的头饰、脸部、身体纹理图片；
 >* 新增skinRedrawer插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）；
 >* 默认读入同目录下的上述插件。
 >
