@@ -103,6 +103,14 @@
 >
 >　专用型插件，支持批量修改skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件、myskinTranslator）。
 >
+>★[**myskinRedrawer插件**](https://www.bilibili.com/read/cv20998907)（[[F]内部公开](http://t.fenchuan8.com/9jBfALa)）
+>
+>　专用型插件，支持批量修改myskin文件的头饰、脸部、身体纹理图片。
+>
+>★[**skinRedrawer插件**](https://www.bilibili.com/read/cv20998994)（[[F]内部公开](http://t.fenchuan8.com/9jBfALa)）
+>
+>　专用型插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）。
+>
 >★[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)（[[F]内部公开](http://t.fenchuan8.com/duoPa3Mn)）
 >
 >　专用型插件，支持批量修改setting.kar的键值数据（须先加载kar插件）。
