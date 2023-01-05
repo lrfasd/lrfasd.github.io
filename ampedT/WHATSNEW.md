@@ -3,6 +3,17 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20230105.html](ampedT_20230105.html)】
+>* 新增omdUsurper插件，支持批量修改mymap文件的userID值（须先加载kar插件）;
+>* 新增ssoaUsurper插件，支持批量修改mysoa文件的userID值（须先加载kar插件）;
+>* 插件选项支持通过打开文件输入base64值；
+>* 插件选项值文本框和打开文件按钮直接接受拖拽文件；
+>* 插件选项值为图片base64时，工具提示显示图片显示的宽度和高度；
+>* >* 新增myskinRedrawer插件，支持批量修改myskin文件的头饰、脸部、身体纹理图片；
+>* 新增skinRedrawer插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）；
+>* 默认读入同目录下的上述插件。
+>
+---
 >　【[ampedT_20221231.html](ampedT_20221231.html)】
 >* 新增mymapProtector插件，支持批量转换mymap文件为omd文件（须先加载kar插件）;
 >* 新增omdUnprotector插件，支持批量转换omd文件为mymap文件（须先加载kar插件）;
