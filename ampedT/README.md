@@ -71,6 +71,10 @@
 >
 >　增强型插件，支持批量转换omd文件为mymap文件（须先加载kar插件）。
 >
+>★[**omdUsurper插件**](https://www.bilibili.com/read/cv20998480)（[[F]内部公开](http://t.fenchuan8.com/VdW8F2GS)）
+>
+>　增强型插件，支持批量修改omd文件的userID值（须先加载kar插件）。
+>
 >★[**mysoaProtector插件**](https://www.bilibili.com/read/cv20898839)（[[F]内部公开](http://t.fenchuan8.com/t3cPjrw)）
 >
 >　增强型插件，支持批量转换mysoa文件为ssoa文件（须先加载kar插件）。
@@ -78,6 +82,10 @@
 >★[**ssoaUnprotector插件**](https://www.bilibili.com/read/cv20891588)（[[F]内部公开](http://t.fenchuan8.com/meyTtul)）
 >
 >　增强型插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）。
+>
+>★[**ssoaUsurper插件**](https://www.bilibili.com/read/cv20998587)（[[F]内部公开](http://t.fenchuan8.com/N46Vj2sn)）
+>
+>　增强型插件，支持批量修改ssoa文件的userID值（须先加载kar插件）。
 >
 >★[**myskinUsurper插件**](https://www.bilibili.com/read/cv20889718)（[[F]内部公开](http://t.fenchuan8.com/GPUJY1xr)）
 >
