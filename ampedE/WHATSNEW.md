@@ -3,6 +3,11 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【1.2更新】20230219（[[F]内部公开](http://t.fenchuan8.com/HmDWZZb)）
+>* 包内不含文件时不再猜测密码；
+>* 解包为zip、jar支持文件数超过65535。
+>
+---
 >　【1.1更新】20221202（[[F]内部公开](http://t.fenchuan8.com/HmDWZZb)）
 >* 增加解包支持omd、ssoa；
 >* 可通过ini设置解包为zip、jar；
