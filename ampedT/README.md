@@ -57,70 +57,70 @@
 >
 >★[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[[F]内部公开](http://t.fenchuan8.com/qLqq12RF)）
 >
->　增强型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）。
+>　转换型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）。
 >
 >★[**skinUnprotector插件**](https://www.bilibili.com/read/cv20051529)（[[F]内部公开](http://t.fenchuan8.com/vdByG182)）
 >
->　增强型插件，支持批量转换skin、hskin、hhskin文件为myskin文件（须先加载kar插件）。
+>　转换型插件，支持批量转换skin、hskin、hhskin文件为myskin文件（须先加载kar插件）。
 >
 >★[**mymapProtector插件**](https://www.bilibili.com/read/cv20898754)（[[F]内部公开](http://t.fenchuan8.com/25l3w3l0)）
 >
->　增强型插件，支持批量转换mymap文件为omd文件（须先加载kar插件）。
+>　转换型插件，支持批量转换mymap文件为omd文件（须先加载kar插件）。
 >
 >★[**omdUnprotector插件**](https://www.bilibili.com/read/cv20891585)（[[F]内部公开](http://t.fenchuan8.com/i2reQpJ)）
 >
->　增强型插件，支持批量转换omd文件为mymap文件（须先加载kar插件）。
+>　转换型插件，支持批量转换omd文件为mymap文件（须先加载kar插件）。
 >
 >★[**omdUsurper插件**](https://www.bilibili.com/read/cv20998480)（[[F]内部公开](http://t.fenchuan8.com/VdW8F2GS)）
 >
->　专用型插件，支持批量修改omd文件的userID值（须先加载kar插件）。
+>　修改型插件，支持批量修改omd文件的userID值（须先加载kar插件）。
 >
 >★[**mysoaProtector插件**](https://www.bilibili.com/read/cv20898839)（[[F]内部公开](http://t.fenchuan8.com/t3cPjrw)）
 >
->　增强型插件，支持批量转换mysoa文件为ssoa文件（须先加载kar插件）。
+>　转换型插件，支持批量转换mysoa文件为ssoa文件（须先加载kar插件）。
 >
 >★[**ssoaUnprotector插件**](https://www.bilibili.com/read/cv20891588)（[[F]内部公开](http://t.fenchuan8.com/meyTtul)）
 >
->　增强型插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）。
+>　转换型插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）。
 >
 >★[**ssoaUsurper插件**](https://www.bilibili.com/read/cv20998587)（[[F]内部公开](http://t.fenchuan8.com/N46Vj2sn)）
 >
->　专用型插件，支持批量修改ssoa文件的userID值（须先加载kar插件）。
+>　修改型插件，支持批量修改ssoa文件的userID值（须先加载kar插件）。
 >
 >★[**myskinUsurper插件**](https://www.bilibili.com/read/cv20889718)（[[F]内部公开](http://t.fenchuan8.com/GPUJY1xr)）
 >
->　专用型插件，支持批量修改myskin文件的userID值。
+>　修改型插件，支持批量修改myskin文件的userID值。
 >
 >★[**skinUsurper插件**](https://www.bilibili.com/read/cv17865446)（[[F]内部公开](http://t.fenchuan8.com/GPUJY1xr)）
 >
->　专用型插件，支持批量修改skin、hskin、hhskin文件的userID值（须先加载kar插件、myskinUsurper插件）。
+>　修改型插件，支持批量修改skin、hskin、hhskin文件的userID值（须先加载kar插件、myskinUsurper插件）。
 >
 >★[**myskinTranslator插件**](https://www.bilibili.com/read/cv20890895)（[[F]内部公开](http://t.fenchuan8.com/Jfqwd2KT)）
 >
->　专用型插件，支持批量修改myskin文件为其他服务器支持的数据（须先加载kar插件）。
+>　修改型插件，支持批量修改myskin文件为其他服务器支持的数据（须先加载kar插件）。
 >
 >★[**skinTranslator插件**](https://www.bilibili.com/read/cv18082144)（[[F]内部公开](http://t.fenchuan8.com/Jfqwd2KT)）
 >
->　专用型插件，支持批量修改skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件、myskinTranslator）。
+>　修改型插件，支持批量修改skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件、myskinTranslator）。
 >
 >★[**myskinRedrawer插件**](https://www.bilibili.com/read/cv20998907)（[[F]内部公开](http://t.fenchuan8.com/9jBfALa)）
 >
->　专用型插件，支持批量修改myskin文件的头饰、脸部、身体纹理图片。
+>　修改型插件，支持批量修改myskin文件的头饰、脸部、身体纹理图片。
 >
 >★[**skinRedrawer插件**](https://www.bilibili.com/read/cv20998994)（[[F]内部公开](http://t.fenchuan8.com/9jBfALa)）
 >
->　专用型插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）。
+>　修改型插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）。
 >
 >★[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)（[[F]内部公开](http://t.fenchuan8.com/duoPa3Mn)）
 >
->　专用型插件，支持批量修改setting.kar的键值数据（须先加载kar插件）。
+>　修改型插件，支持批量修改setting.kar的键值数据（须先加载kar插件）。
 >
 >☆[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)（[[F]内部公开](http://t.fenchuan8.com/YViAW3Oz)）
 >
->　专用型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
+>　导出型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
 >
 >☆[**settingAnalyzer_mission插件**](https://www.bilibili.com/read/cv19552864)（[[F]内部公开](http://t.fenchuan8.com/M3ktH3Cq)）
 >
->　专用型插件，支持从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
+>　导出型插件，支持从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
 >
 
