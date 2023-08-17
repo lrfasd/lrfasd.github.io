@@ -113,14 +113,14 @@
 >
 >★[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)（[[F]内部公开](http://t.fenchuan8.com/duoPa3Mn)）
 >
->　修改型插件，支持批量修改setting.kar的键值数据（须先加载kar插件）。
+>　修改型插件，支持批量修改、添加setting.kar的键值数据（须先加载kar插件）。
 >
 >☆[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)（[[F]内部公开](http://t.fenchuan8.com/YViAW3Oz)）
 >
->　导出型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
+>　导出型插件，支持批量从setting.kar导出unicode文件（须先加载kar插件）。
 >
 >☆[**settingAnalyzer_mission插件**](https://www.bilibili.com/read/cv19552864)（[[F]内部公开](http://t.fenchuan8.com/M3ktH3Cq)）
 >
->　导出型插件，支持从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
+>　导出型插件，支持批量从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
 >
 
