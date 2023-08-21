@@ -34,7 +34,8 @@
 >* 　myaccs；
 >* 　replay；
 >* 　mymap；
->* 　mysoa。
+>* 　mysoa；
+>* 　agi。
 >
 ## 插件介绍
 >　支持以下插件的手动加载☆，部分支持自动加载★：
