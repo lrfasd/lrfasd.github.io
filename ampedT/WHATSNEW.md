@@ -3,6 +3,46 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20230818.html](ampedT_20230818.html)】
+>* 优化oa系列转html时数据识别出错的问题；
+>* 完善shp文件的读取；
+>* 完善replay文件的读取；
+>* 增加支持agi文件的读取；
+>* 变更文件列表选定文件和打包方式不再刷新文件列表；
+>* 改进完善文件流读写核心，优化读写效率；
+>* 从JRE的rt.jar、CyberStep的keel.dat、Getamped的amped.kar源码级移植Java的序列化和反序列化；
+>* 主体和插件中与Java的反序列化相关代码全部重构，优化逻辑；
+>* 预定义资源改为按需加载；
+>* 插件列表中未加载插件优先排列；
+>* 支持wav批量转sr；
+>* 重构deflate代码，大幅提升效率，且结果与Java原生deflate结果一致；
+>* 写出zip系列文件支持文件数超过65535；
+>* zip架构优化，提升性能；
+>* tab插件架构优化，提升性能，支持使用deflate方法的固实压缩，可指定压缩等级0至9或以-1指定默认压缩等级；
+>* kar插件架构优化，提升性能，支持指定压缩等级0至9或以-1指定默认压缩等级；
+>* kar_guess插件代码调整；
+>* myskin_check插件架构优化，提升性能，更改为默认从同目录下读入；
+>* myskinProtector插件代码调整；
+>* skinUnprotector插件代码调整；
+>* mymapProtector插件代码调整；
+>* omdUnprotector插件代码调整；
+>* omdUsurper插件代码调整，可联合关联插件高效修改指定值；
+>* mysoaProtector插件代码调整；
+>* ssoaUnprotector插件代码调整；
+>* ssoaUsurper插件代码调整，可联合关联插件高效修改指定值；
+>* myskinUsurper插件代码调整，变更为直接更改值后序列化生成，可联合关联插件高效修改指定值；
+>* skinUsurper插件代码调整，可联合关联插件高效修改指定值；
+>* myskinTranslator插件代码调整，变更为直接更改值后序列化生成，可联合关联插件高效修改指定值，lang值为null时可将文件保存为旧版本，或lang值不为null将文件保存为新版本；
+>* skinTranslator插件代码调整，可联合关联插件高效修改指定值，lang值为null时可将文件保存为旧版本，或lang值不为null将文件保存为新版本；
+>* myskinRedrawer插件代码调整，变更为直接更改值后序列化生成，可联合关联插件高效修改指定值；
+>* skinRedrawer插件代码调整，可联合关联插件高效修改指定值；
+>* settingPatcher插件代码调整，键不存在时也能添加值，支持批量修改多个文件；
+>* settingExporter插件架构优化，提升性能，部分设定增加排；
+>* settingAnalyzer_mission插件架构优化，提升性能；
+>* 新增resourceAnalyzer_oaResource插件，支持从resource.kar内含的oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源分析汇总字符串资源列表（须先加载kar插件）；
+>* 新增resourceAnalyzer_scFunction插件，支持从resource.kar内含的sc文件和oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源中的sc数据分析汇总脚本方法列表（须先加载kar插件）。
+>
+---
 >　【[ampedT_20230105.html](ampedT_20230105.html)】
 >* 新增omdUsurper插件，支持批量修改omd文件的userID值（须先加载kar插件）;
 >* 新增ssoaUsurper插件，支持批量修改ssoa文件的userID值（须先加载kar插件）;
