@@ -37,7 +37,7 @@
 >* myskinRedrawer插件代码调整，变更为直接更改值后序列化生成，可联合关联插件高效修改指定值；
 >* skinRedrawer插件代码调整，可联合关联插件高效修改指定值；
 >* settingPatcher插件代码调整，键不存在时也能添加值，支持批量修改多个文件；
->* settingExporter插件架构优化，提升性能，部分设定增加排；
+>* settingExporter插件架构优化，提升性能，部分设定增加排序；
 >* settingAnalyzer_mission插件架构优化，提升性能；
 >* 新增resourceAnalyzer_oaResource插件，支持从resource.kar内含的oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源分析汇总字符串资源列表（须先加载kar插件）；
 >* 新增resourceAnalyzer_scFunction插件，支持从resource.kar内含的sc文件和oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源中的sc数据分析汇总脚本方法列表（须先加载kar插件）。
