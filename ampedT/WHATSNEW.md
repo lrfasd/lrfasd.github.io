@@ -26,10 +26,10 @@
 >* skinUnprotector插件代码调整；
 >* mymapProtector插件代码调整；
 >* omdUnprotector插件代码调整；
->* omdUsurper插件代码调整，可联合关联插件高效修改指定值；
+>* omdUsurper插件代码调整；
 >* mysoaProtector插件代码调整；
 >* ssoaUnprotector插件代码调整；
->* ssoaUsurper插件代码调整，可联合关联插件高效修改指定值；
+>* ssoaUsurper插件代码调整；
 >* myskinUsurper插件代码调整，变更为直接更改值后序列化生成，可联合关联插件高效修改指定值；
 >* skinUsurper插件代码调整，可联合关联插件高效修改指定值；
 >* myskinTranslator插件代码调整，变更为直接更改值后序列化生成，可联合关联插件高效修改指定值，lang值为null时可将文件保存为旧版本，或lang值不为null将文件保存为新版本；
