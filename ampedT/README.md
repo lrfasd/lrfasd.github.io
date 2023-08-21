@@ -117,10 +117,18 @@
 >
 >☆[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)（[[F]内部公开](http://t.fenchuan8.com/YViAW3Oz)）
 >
->　导出型插件，支持批量从setting.kar导出unicode文件（须先加载kar插件）。
+>　导出型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
 >
 >☆[**settingAnalyzer_mission插件**](https://www.bilibili.com/read/cv19552864)（[[F]内部公开](http://t.fenchuan8.com/M3ktH3Cq)）
 >
->　导出型插件，支持批量从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
+>　导出型插件，支持从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
+>
+>☆[**resourceAnalyzer_oaResource插件**](https://www.bilibili.com/read/cv19552864)（[[F]内部公开](http://t.fenchuan8.com/2s1Nb4p0)）
+>
+>　导出型插件，支持从resource.kar内含的oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源分析汇总字符串资源列表（须先加载kar插件）。
+>
+>☆[**resourceAnalyzer_scFunction插件**](https://www.bilibili.com/read/cv21432832)（[[F]内部公开](http://t.fenchuan8.com/Dt6QT2PA)）
+>
+>　导出型插件，支持从resource.kar内含的sc文件和oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源中的sc数据分析汇总脚本方法列表（须先加载kar插件）。
 >
 
