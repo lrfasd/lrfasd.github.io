@@ -3,6 +3,22 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_2023826.html](ampedT_20230826.html)】
+>* 修复解析dmp出错的问题；
+>* 完善replay中result的读取；
+>* 新增replayProtector插件，支持批量转换replay文件为repkar文件（须先加载kar插件）;
+>* 新增repkarUnprotector插件，支持批量转换repkar文件为replay文件（须先加载kar插件）;
+>* 新增replayTranslator插件，支持转换replay文件为其他服务器支持的数据（须先加载myskinTranslator插件）；
+>* 新增repkarTranslator插件，支持转换repkar文件为其他服务器支持的数据（须先加载kar插件、replayTranslator插件、myskinTranslator插件）；
+>* 新增replayExtractor插件，支持从replay文件提取myassc、tex、myskin等资源；
+>* 新增repkarExtractor插件，支持从repkar文件提取myassc、tex、myskin等资源（须先加载kar插件、replayExtractor插件）；
+>* 新增settingAnalyzer_island插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、获得物品概率、兑换奖励概率并计算每小时平均获得物品列表及数量（须先加载kar插件）；
+>* skinUnprotector插件支持批量转换skin、hskin、hhskin文件为html文件（须先加载kar插件）;
+>* omdUnprotector插件支持批量转换omd文件为html文件（须先加载kar插件）;
+>* ssoaUnprotector插件支持批量转换ssoa文件为html文件（须先加载kar插件）;
+>* repkarUnprotector插件支持批量转换repkar文件为html文件（须先加载kar插件）。
+>
+---
 >　【[ampedT_20230818.html](ampedT_20230818.html)】
 >* 优化oa系列转html时数据识别出错的问题；
 >* 完善shp文件的读取；
