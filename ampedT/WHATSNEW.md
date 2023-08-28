@@ -12,7 +12,7 @@
 >* 新增repkarTranslator插件，支持转换repkar文件为其他服务器支持的数据（须先加载kar插件、replayTranslator插件、myskinTranslator插件）；
 >* 新增replayExtractor插件，支持从replay文件提取myassc、tex、myskin等资源；
 >* 新增repkarExtractor插件，支持从repkar文件提取myassc、tex、myskin等资源（须先加载kar插件、replayExtractor插件）；
->* 新增settingAnalyzer_island插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、获得物品概率、兑换奖励概率并计算每小时平均获得物品列表及数量（须先加载kar插件）；
+>* 新增settingAnalyzer_island插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、产出物品概率、兑换奖励概率并计算每小时平均兑换奖励列表及数量（须先加载kar插件）；
 >* skinUnprotector插件支持批量转换skin、hskin、hhskin文件为html文件（须先加载kar插件）;
 >* omdUnprotector插件支持批量转换omd文件为html文件（须先加载kar插件）;
 >* ssoaUnprotector插件支持批量转换ssoa文件为html文件（须先加载kar插件）;
