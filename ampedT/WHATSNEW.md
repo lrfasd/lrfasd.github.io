@@ -10,6 +10,7 @@
 >* 新增repkarUnprotector插件，支持批量转换repkar文件为replay文件（须先加载kar插件）;
 >* 新增replayTranslator插件，支持转换replay文件为其他服务器支持的数据（须先加载myskinTranslator插件）；
 >* 新增repkarTranslator插件，支持转换repkar文件为其他服务器支持的数据（须先加载kar插件、replayTranslator插件、myskinTranslator插件）；
+>* 默认读入同目录下的上述插件；
 >* 新增replayExtractor插件，支持从replay文件提取myassc、tex、myskin等资源；
 >* 新增repkarExtractor插件，支持从repkar文件提取myassc、tex、myskin等资源（须先加载kar插件、replayExtractor插件）；
 >* 新增settingAnalyzer_island插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、产出物品概率、兑换奖励概率并计算每小时平均兑换奖励列表及数量（须先加载kar插件）；
