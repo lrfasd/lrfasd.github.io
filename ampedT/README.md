@@ -62,7 +62,7 @@
 >
 >★[**skinUnprotector插件**](https://www.bilibili.com/read/cv20051529)（[[F]内部公开](http://t.fenchuan8.com/vdByG182)）
 >
->　转换型插件，支持批量转换skin、hskin、hhskin文件为myskin文件（须先加载kar插件）。
+>　转换型插件，支持批量转换skin、hskin、hhskin文件为myskin文件或html预览（须先加载kar插件）。
 >
 >★[**myskinUsurper插件**](https://www.bilibili.com/read/cv20889718)（[[F]内部公开](http://t.fenchuan8.com/GPUJY1xr)）
 >
@@ -94,7 +94,7 @@
 >
 >★[**repkarUnprotector插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/WsLup1rW)）
 >
->　转换型插件，支持批量转换repkar文件为replay文件（须先加载kar插件）。
+>　转换型插件，支持批量转换repkar文件为replay文件或html预览（须先加载kar插件）。
 >
 >★[**replayTranslator插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/zTcaY1Va)）
 >
@@ -118,7 +118,7 @@
 >
 >★[**omdUnprotector插件**](https://www.bilibili.com/read/cv20891585)（[[F]内部公开](http://t.fenchuan8.com/i2reQpJ)）
 >
->　转换型插件，支持批量转换omd文件为mymap文件（须先加载kar插件）。
+>　转换型插件，支持批量转换omd文件为mymap文件或html预览（须先加载kar插件）。
 >
 >★[**omdUsurper插件**](https://www.bilibili.com/read/cv20998480)（[[F]内部公开](http://t.fenchuan8.com/VdW8F2GS)）
 >
@@ -130,7 +130,7 @@
 >
 >★[**ssoaUnprotector插件**](https://www.bilibili.com/read/cv20891588)（[[F]内部公开](http://t.fenchuan8.com/meyTtul)）
 >
->　转换型插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）。
+>　转换型插件，支持批量转换ssoa文件为mysoa文件或html预览（须先加载kar插件）。
 >
 >★[**ssoaUsurper插件**](https://www.bilibili.com/read/cv20998587)（[[F]内部公开](http://t.fenchuan8.com/N46Vj2sn)）
 >
