@@ -64,30 +64,6 @@
 >
 >　转换型插件，支持批量转换skin、hskin、hhskin文件为myskin文件（须先加载kar插件）。
 >
->★[**mymapProtector插件**](https://www.bilibili.com/read/cv20898754)（[[F]内部公开](http://t.fenchuan8.com/25l3w3l0)）
->
->　转换型插件，支持批量转换mymap文件为omd文件（须先加载kar插件）。
->
->★[**omdUnprotector插件**](https://www.bilibili.com/read/cv20891585)（[[F]内部公开](http://t.fenchuan8.com/i2reQpJ)）
->
->　转换型插件，支持批量转换omd文件为mymap文件（须先加载kar插件）。
->
->★[**omdUsurper插件**](https://www.bilibili.com/read/cv20998480)（[[F]内部公开](http://t.fenchuan8.com/VdW8F2GS)）
->
->　修改型插件，支持批量修改omd文件的userID值（须先加载kar插件）。
->
->★[**mysoaProtector插件**](https://www.bilibili.com/read/cv20898839)（[[F]内部公开](http://t.fenchuan8.com/t3cPjrw)）
->
->　转换型插件，支持批量转换mysoa文件为ssoa文件（须先加载kar插件）。
->
->★[**ssoaUnprotector插件**](https://www.bilibili.com/read/cv20891588)（[[F]内部公开](http://t.fenchuan8.com/meyTtul)）
->
->　转换型插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）。
->
->★[**ssoaUsurper插件**](https://www.bilibili.com/read/cv20998587)（[[F]内部公开](http://t.fenchuan8.com/N46Vj2sn)）
->
->　修改型插件，支持批量修改ssoa文件的userID值（须先加载kar插件）。
->
 >★[**myskinUsurper插件**](https://www.bilibili.com/read/cv20889718)（[[F]内部公开](http://t.fenchuan8.com/GPUJY1xr)）
 >
 >　修改型插件，支持批量修改myskin文件的userID值。
@@ -112,6 +88,54 @@
 >
 >　修改型插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）。
 >
+>★[**replayProtector插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/xy4fg4wc)）
+>
+>　转换型插件，支持批量转换replay文件为repkar文件（须先加载kar插件）。
+>
+>★[**repkarUnprotector插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/WsLup1rW)）
+>
+>　转换型插件，支持批量转换repkar文件为replay文件（须先加载kar插件）。
+>
+>★[**replayTranslator插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/zTcaY1Va)）
+>
+>　转换型插件，支持转换replay文件为其他服务器支持的数据（须先加载myskinTranslator插件）。
+>
+>★[**repkarTranslator插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/zTcaY1Va)）
+>
+>　转换型插件，支持转换repkar文件为其他服务器支持的数据（须先加载kar插件、replayTranslator插件、myskinTranslator插件）。
+>
+>☆[**replayExtractor插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/lexcp1XG)）
+>
+>　导出型插件，支持从replay文件提取myassc、tex、myskin等资源。
+>
+>☆[**repkarExtractor插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/lexcp1XG)）
+>
+>　导出型插件，支持从repkar文件提取myassc、tex、myskin等资源（须先加载kar插件、replayExtractor插件）。
+>
+>★[**mymapProtector插件**](https://www.bilibili.com/read/cv20898754)（[[F]内部公开](http://t.fenchuan8.com/25l3w3l0)）
+>
+>　转换型插件，支持批量转换mymap文件为omd文件（须先加载kar插件）。
+>
+>★[**omdUnprotector插件**](https://www.bilibili.com/read/cv20891585)（[[F]内部公开](http://t.fenchuan8.com/i2reQpJ)）
+>
+>　转换型插件，支持批量转换omd文件为mymap文件（须先加载kar插件）。
+>
+>★[**omdUsurper插件**](https://www.bilibili.com/read/cv20998480)（[[F]内部公开](http://t.fenchuan8.com/VdW8F2GS)）
+>
+>　修改型插件，支持批量修改omd文件的userID值（须先加载kar插件）。
+>
+>★[**mysoaProtector插件**](https://www.bilibili.com/read/cv20898839)（[[F]内部公开](http://t.fenchuan8.com/t3cPjrw)）
+>
+>　转换型插件，支持批量转换mysoa文件为ssoa文件（须先加载kar插件）。
+>
+>★[**ssoaUnprotector插件**](https://www.bilibili.com/read/cv20891588)（[[F]内部公开](http://t.fenchuan8.com/meyTtul)）
+>
+>　转换型插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）。
+>
+>★[**ssoaUsurper插件**](https://www.bilibili.com/read/cv20998587)（[[F]内部公开](http://t.fenchuan8.com/N46Vj2sn)）
+>
+>　修改型插件，支持批量修改ssoa文件的userID值（须先加载kar插件）。
+>
 >★[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)（[[F]内部公开](http://t.fenchuan8.com/duoPa3Mn)）
 >
 >　修改型插件，支持批量修改、添加setting.kar的键值数据（须先加载kar插件）。
@@ -119,6 +143,10 @@
 >☆[**settingExporter插件**](https://www.bilibili.com/read/cv17863811)（[[F]内部公开](http://t.fenchuan8.com/YViAW3Oz)）
 >
 >　导出型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
+>
+>☆[**settingAnalyzer_island插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/g8vBS11r)）
+>
+>　导出型插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、产出物品概率、兑换奖励概率并计算每小时平均兑换奖励列表及数量（须先加载kar插件）。
 >
 >☆[**settingAnalyzer_mission插件**](https://www.bilibili.com/read/cv19552864)（[[F]内部公开](http://t.fenchuan8.com/M3ktH3Cq)）
 >
