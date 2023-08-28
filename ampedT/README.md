@@ -88,19 +88,19 @@
 >
 >　修改型插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）。
 >
->★[**replayProtector插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/xy4fg4wc)）
+>★[**replayProtector插件**](https://www.bilibili.com/read/cv26056175)（[[F]内部公开](http://t.fenchuan8.com/xy4fg4wc)）
 >
 >　转换型插件，支持批量转换replay文件为repkar文件（须先加载kar插件）。
 >
->★[**repkarUnprotector插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/WsLup1rW)）
+>★[**repkarUnprotector插件**](https://www.bilibili.com/read/cv26056595)（[[F]内部公开](http://t.fenchuan8.com/WsLup1rW)）
 >
 >　转换型插件，支持批量转换repkar文件为replay文件或html预览（须先加载kar插件）。
 >
->★[**replayTranslator插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/zTcaY1Va)）
+>★[**replayTranslator插件**](https://www.bilibili.com/read/cv26049339)（[[F]内部公开](http://t.fenchuan8.com/zTcaY1Va)）
 >
 >　转换型插件，支持转换replay文件为其他服务器支持的数据（须先加载myskinTranslator插件）。
 >
->★[**repkarTranslator插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/zTcaY1Va)）
+>★[**repkarTranslator插件**](https://www.bilibili.com/read/cv26049509)（[[F]内部公开](http://t.fenchuan8.com/zTcaY1Va)）
 >
 >　转换型插件，支持转换repkar文件为其他服务器支持的数据（须先加载kar插件、replayTranslator插件、myskinTranslator插件）。
 >
@@ -144,7 +144,7 @@
 >
 >　导出型插件，支持从setting.kar导出unicode文件（须先加载kar插件）。
 >
->☆[**settingAnalyzer_island插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/g8vBS11r)）
+>☆[**settingAnalyzer_island插件**](https://www.bilibili.com/read/cv26048912)（[[F]内部公开](http://t.fenchuan8.com/g8vBS11r)）
 >
 >　导出型插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、产出物品概率、兑换奖励概率并计算每小时平均兑换奖励列表及数量（须先加载kar插件）。
 >
