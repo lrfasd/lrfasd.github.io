@@ -104,11 +104,11 @@
 >
 >　转换型插件，支持转换repkar文件为其他服务器支持的数据（须先加载kar插件、replayTranslator插件、myskinTranslator插件）。
 >
->☆[**replayExtractor插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/lexcp1XG)）
+>☆[**replayExtractor插件**](https://www.bilibili.com/read/cv26072027)（[[F]内部公开](http://t.fenchuan8.com/lexcp1XG)）
 >
 >　导出型插件，支持从replay文件提取myassc、tex、myskin等资源。
 >
->☆[**repkarExtractor插件**](https://www.bilibili.com/read/cv)（[[F]内部公开](http://t.fenchuan8.com/lexcp1XG)）
+>☆[**repkarExtractor插件**](https://www.bilibili.com/read/cv26072017)（[[F]内部公开](http://t.fenchuan8.com/lexcp1XG)）
 >
 >　导出型插件，支持从repkar文件提取myassc、tex、myskin等资源（须先加载kar插件、replayExtractor插件）。
 >
