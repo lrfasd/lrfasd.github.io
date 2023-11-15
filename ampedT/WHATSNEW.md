@@ -3,7 +3,15 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
->　【[ampedT_2023826.html](ampedT_20230826.html)】
+>　【[ampedT_202311155.html](ampedT_20231115.html)】
+>* 鼠标移动到插件列表的项目中时，在左侧显示说明链接，在右侧显示下载链接；
+>* 新增插件版本控制功能；
+>* 所有插件增加版本控制功能；
+>* myskin_check插件支持可选深度计算，默认为否；
+>* 新增settingAnalyzer_quiz插件，支持从setting.kar解析并列出死亡问答题目及答案（须先加载kar插件）。
+>
+---
+>　【[ampedT_20230826.html](ampedT_20230826.html)】
 >* 修复解析dmp出错的问题；
 >* 完善replay中result的读取；
 >* 新增replayProtector插件，支持批量转换replay文件为repkar文件（须先加载kar插件）;
