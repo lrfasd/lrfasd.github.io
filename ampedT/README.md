@@ -156,7 +156,7 @@
 >
 >　导出型插件，支持从setting.kar解析并列出死亡问答题目及答案（须先加载kar插件）。
 >
->☆[**resourceAnalyzer_oaResource插件**](https://www.bilibili.com/read/cv19552864)（[[F]内部公开](http://t.fenchuan8.com/2s1Nb4p0)）
+>☆[**resourceAnalyzer_oaResource插件**](https://www.bilibili.com/read/cv21298913)（[[F]内部公开](http://t.fenchuan8.com/2s1Nb4p0)）
 >
 >　导出型插件，支持从resource.kar内含的oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源分析汇总字符串资源列表（须先加载kar插件）。
 >
