@@ -88,6 +88,14 @@
 >
 >　修改型插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）。
 >
+>★[**myskinRewearer插件**](https://www.bilibili.com/read/cv39458607)（[[F]内部公开](http://t.fenchuan8.com/ryX1VmG)）
+>
+>　修改型插件，支持批量修改myskin文件头饰的纹理版本。
+>
+>★[**skinRewearer插件**](https://www.bilibili.com/read/cv39458730)（[[F]内部公开](http://t.fenchuan8.com/ryX1VmG)）
+>
+>　修改型插件，支持批量修改skin、hskin、hhskin文件头饰的纹理版本（须先加载kar插件、myskinRewearer插件）。
+>
 >★[**replayProtector插件**](https://www.bilibili.com/read/cv26056175)（[[F]内部公开](http://t.fenchuan8.com/xy4fg4wc)）
 >
 >　转换型插件，支持批量转换replay文件为repkar文件（须先加载kar插件）。
