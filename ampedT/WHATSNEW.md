@@ -3,6 +3,15 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20241015.html](ampedT_20241015.html)】
+>* 修复Java随机数计算部分情形下出错的问题；
+>* 优化inflate时数据错误的判断；
+>* 增加读取tex的容错机制；
+>* myskinProtector插件最大程度减少反序列化次数，完善是否高清的识别逻辑；
+>* 新增myskinRewearer插件，支持批量修改myskin文件头饰的纹理版本；
+>* 新增skinRewearer插件，支持批量修改skin、hskin、hhskin文件头饰的纹理版本（须先加载kar插件、myskinRewearer插件）。
+>
+---
 >　【[ampedT_20231115.html](ampedT_20231115.html)】
 >* 鼠标移动到插件列表的项目中时，在左侧显示说明链接，在右侧显示下载链接；
 >* 新增插件版本控制功能；
