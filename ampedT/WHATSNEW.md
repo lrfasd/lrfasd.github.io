@@ -3,6 +3,14 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20241025.html](ampedT_20241025.html)】
+>* 增加inflate时数据无限循环错误的判断；
+>* 增加myskin修改类插件的选项排序接口；
+>* myskinUsurper插件、myskinTranslator插件、myskinRedrawer插件、myskinRewearer插件固定选项排序；
+>* skinUsurper插件、skinTranslator插件、skinRedrawer插件、skinRewearer插件固定选项排序；
+>* myskinRewearer插件增加对导入tex是否加密的判断逻辑。
+>
+---
 >　【[ampedT_20241015.html](ampedT_20241015.html)】
 >* 修复Java随机数计算部分情形下出错的问题；
 >* 优化inflate时数据错误的判断；
