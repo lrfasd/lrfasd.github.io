@@ -96,11 +96,11 @@
 >
 >　修改型插件，支持批量修改skin、hskin、hhskin文件头饰的纹理版本（须先加载kar插件、myskinRewearer插件）。
 >
->★[**myskinRewearer插件**](https://www.bilibili.com/read/cv39590653)（[[F]内部公开](http://t.fenchuan8.com/18R0CuL)）
+>★[**myskinRehider插件**](https://www.bilibili.com/read/cv39590653)（[[F]内部公开](http://t.fenchuan8.com/18R0CuL)）
 >
 >　修改型插件，支持批量修改myskin文件脸部是否隐藏。
 >
->★[**skinRewearer插件**](https://www.bilibili.com/read/cv39590696)（[[F]内部公开](http://t.fenchuan8.com/18R0CuL)）
+>★[**skinRehider插件**](https://www.bilibili.com/read/cv39590696)（[[F]内部公开](http://t.fenchuan8.com/18R0CuL)）
 >
 >　修改型插件，支持批量修改skin、hskin、hhskin文件脸部是否隐藏（须先加载kar插件、myskinRehider插件）。
 >
