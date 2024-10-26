@@ -3,6 +3,13 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20241026.html](ampedT_20241026.html)】
+>* 支持读取大容量dmp文件，并增加读取进度提示；
+>* 调整生成包文件中的文件扩展名策略；
+>* 新增myskinRehider插件，支持批量修改myskin文件脸部是否隐藏；
+>* 新增skinRehider插件，支持批量修改skin、hskin、hhskin文件脸部是否隐藏（须先加载kar插件、myskinRehider插件）。
+>
+---
 >　【[ampedT_20241025.html](ampedT_20241025.html)】
 >* 增加inflate时数据无限循环错误的判断；
 >* 增加myskin修改类插件的选项排序接口；
