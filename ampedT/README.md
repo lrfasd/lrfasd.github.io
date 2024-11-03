@@ -88,6 +88,14 @@
 >
 >　修改型插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）。
 >
+>★[**myskinRestructurer插件**](https://www.bilibili.com/read/cv39677857)（[[F]内部公开](http://t.fenchuan8.com/WsOr4cx)）
+>
+>　修改型插件，支持批量修改myskin文件的头饰、身体节点。
+>
+>★[**skinRestructurer插件**](https://www.bilibili.com/read/cv39677918)（[[F]内部公开](http://t.fenchuan8.com/WsOr4cx)）
+>
+>　修改型插件，支持批量修改skin、hskin、hhskin文件的头饰、身体节点（须先加载kar插件、myskinRestructurer插件）。
+>
 >★[**myskinRewearer插件**](https://www.bilibili.com/read/cv39458607)（[[F]内部公开](http://t.fenchuan8.com/ryX1VmG)）
 >
 >　修改型插件，支持批量修改myskin文件头饰的纹理版本。
