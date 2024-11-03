@@ -3,6 +3,21 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20241102.html](ampedT_20241102.html)】
+>* 主要显示区域调整为等宽字体；
+>* 插件列表的插件工具提示增加显示插件说明；
+>* 修复序列化Java的float时将NaN错误默认为0的问题；
+>* html预览中显示头饰、身体的节点时，浮点数固定为小数点后9位；
+>* 优化插件选项值为bmp、png、tex数据base64时的工具提示；
+>* 增加插件选项值为pts数据base64时显示工具提示；
+>* 插件选项值的pts数据支持序列化文件的base64和纯文本；
+>* myskinRedrawer插件、skinRedrawer插件更改选项名称；
+>* myskinUsurper插件、myskinTranslator插件、myskinRedrawer插件、myskinRewearer插件、myskinFixer插件、myskinRehider插件增加是否修改的识别，优化修改效率；
+>* myskinFixer插件已无须先加载myskinTranslator插件；
+>* 新增myskinRestructurer插件，支持批量修改myskin文件的头饰、身体节点；
+>* 新增skinRestructurer插件，支持批量修改skin、hskin、hhskin文件的头饰、身体节点（须先加载kar插件、myskinRestructurer插件）。
+>
+---
 >　【[ampedT_20241030.html](ampedT_20241030.html)】
 >* 修复插件选项排序不正确的问题；
 >* myskinTranslator插件优化结构；
