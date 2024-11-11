@@ -23,8 +23,8 @@
 >* myskinTranslator插件优化结构；
 >* myskinRewearer插件修改头饰支持prm类型；
 >* myskinRewearer插件、myskinRehider插件完善对空head的判断；
->* 新增myskinFixer插件，支持批量修改myskin文件头饰是否prm（须先加载tab插件、myskinTranslator插件）；
->* 新增skinFixer插件，支持批量修改skin、hskin、hhskin文件头饰是否prm（须先加载kar插件、tab插件、myskinTranslator插件、skinTranslator插件）。
+>* 新增myskinFixer插件，支持批量修改myskin文件头饰为prm（须先加载tab插件、myskinTranslator插件）；
+>* 新增skinFixer插件，支持批量修改skin、hskin、hhskin文件头饰为prm（须先加载kar插件、tab插件、myskinTranslator插件、skinTranslator插件）。
 >
 ---
 >　【[ampedT_20241027.html](ampedT_20241027.html)】
