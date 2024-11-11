@@ -3,6 +3,14 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20241111.html](ampedT_20241111.html)】
+>* 修复inflate可能造成无限循环的问题；
+>* myskinTranslator插件修复将userID错误置为空的问题；
+>* myskinRestructurer插件修复节点未加密时识别错误的问题；
+>* myskinFixer插件修复头饰节点除错的问题；
+>* myskinFixer插件支持从遍历猜测从true转为false，如果prm库不存在对应prm则猜测失败。
+>
+---
 >　【[ampedT_20241102.html](ampedT_20241102.html)】
 >* 主要显示区域调整为等宽字体；
 >* 插件列表的插件工具提示增加显示插件说明；
