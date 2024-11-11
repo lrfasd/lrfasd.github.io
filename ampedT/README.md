@@ -106,11 +106,11 @@
 >
 >★[**myskinFixer插件**](https://www.bilibili.com/read/cv39628869)（[[F]内部公开](http://t.fenchuan8.com/VpPL5RH)）
 >
->　修改型插件，支持批量修改myskin文件头饰是否prm（须先加载tab插件、myskinTranslator插件）。
+>　修改型插件，支持批量修改myskin文件头饰为prm（须先加载tab插件）。
 >
 >★[**skinFixer插件**](https://www.bilibili.com/read/cv39628945)（[[F]内部公开](http://t.fenchuan8.com/VpPL5RH)）
 >
->　修改型插件，支持批量修改skin、hskin、hhskin文件头饰是否prm（须先加载kar插件、tab插件、myskinTranslator插件、skinTranslator插件）。
+>　修改型插件，支持批量修改skin、hskin、hhskin文件头饰为prm（须先加载kar插件、tab插件）。
 >
 >★[**myskinRehider插件**](https://www.bilibili.com/read/cv39590653)（[[F]内部公开](http://t.fenchuan8.com/18R0CuL)）
 >
