@@ -3,6 +3,25 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20241230.html](ampedT_20241230.html)】
+>* 从dmp提取的ser系列资源会逐一验证文件有效性，无效文件予以排除；
+>* 新增ser_check插件，支持在识别ser文件无效时自动排除；
+>* 文件格式转换支持插件选项；
+>* prm文件转预览html时，纹理图像上显示纹理线，可以点击图像切换显示；
+>* 新增resource_structure插件，支持为转换模型预览html有关功能提供所需的srt资源（须先加载tab插件）；
+>* 新增resource_head插件，支持为head有关功能提供所需的prm资源（须先加载tab插件）；
+>* 新增resource_face插件，支持为face有关功能提供所需fp、prm、tex资源（须先加载tab插件）；
+>* 新增resource_body插件，支持为body有关功能提供所需的body、shp、prm资源（须先加载tab插件）；
+>* myskinFixer插件不再自带prm资源，通过resource_head插件引用所需资源；
+>* 新增headPreviewer插件，支持批量转换prm文件为模型预览html，或批量转换myskin文件的head为模型预览html（须先加载tab插件、resource_structure插件、resource_head插件）；
+>* 新增facePreviewer插件，支持批量转换face文件为模型预览html，或批量转换myskin文件的face为模型预览html（须先加载tab插件、resource_structure插件、resource_face插件）；
+>* 新增bodyPreviewer插件，支持批量转换body文件为模型预览html，或批量转换myskin文件的body为模型预览html（须先加载tab插件、resource_structure插件、resource_body插件）；
+>* 新增myskinPreviewer插件，支持批量转换myskin文件为模型预览html（须先加载tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
+>* 新增skinPreviewer插件，支持批量转换skin、hskin、hhskin文件为模型预览html（须先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
+>* 新增myskinSnapshoter插件，支持批量转换myskin文件为自定义模型快照bmp、png、tex（须先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
+>* 新增skinSnapshoter插件，支持批量转换skin、hskin、hhskin文件为自定义模型快照bmp、png、tex（须先加载myskinPreviewer插件、myskinSnapshoter插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
+>
+---
 >　【[ampedT_20241111.html](ampedT_20241111.html)】
 >* 修复inflate可能造成无限循环的问题；
 >* myskinTranslator插件修复将userID错误置为空的问题；
