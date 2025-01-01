@@ -48,6 +48,10 @@
 >
 >　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin、omd、ssoa文件的解包、打包。
 >
+>☆[**ser_check插件**](https://www.bilibili.com/read/cv40249041)（[[F]内部公开](http://t.fenchuan8.com/A_NIuyf24i)）
+>
+>　辅助型插件，支持在识别ser文件无效时自动排除。
+>
 >☆[**kar_guess插件**](https://www.bilibili.com/read/cv20602933)（[[F]内部公开](http://t.fenchuan8.com/xWyzV3XN)）
 >
 >　辅助型插件，支持在解析kar系列文件密码失败后猜测密码（须先加载kar插件）。
@@ -195,5 +199,49 @@
 >☆[**resourceAnalyzer_scFunction插件**](https://www.bilibili.com/read/cv21432832)（[[F]内部公开](http://t.fenchuan8.com/Dt6QT2PA)）
 >
 >　导出型插件，支持从resource.kar内含的sc文件和oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源中的sc数据分析汇总脚本方法列表（须先加载kar插件）。
+>
+>★[**resource_head插件**](https://www.bilibili.com/read/cv40249096)（[[F]内部公开](http://t.fenchuan8.com/A_zyqWZ26l)）
+>
+>　资源型插件，支持为head有关功能提供所需的prm资源（须先加载tab插件）。
+>
+>★[**resource_face插件**](https://www.bilibili.com/read/cv40249126)（[[F]内部公开](http://t.fenchuan8.com/A_2ZDjZ2So)）
+>
+>　资源型插件，支持为face有关功能提供所需的fp、prm、tex资源（须先加载tab插件）。
+>
+>★[**resource_body插件**](https://www.bilibili.com/read/cv40249155)（[[F]内部公开](http://t.fenchuan8.com/A_pkh634iV)）
+>
+>　资源型插件，支持为body有关功能提供所需的body、shp、prm资源（须先加载tab插件）。
+>
+>★[**resource_structure插件**](https://www.bilibili.com/read/cv40249188)（[[F]内部公开](http://t.fenchuan8.com/A_RyrgK3rh)）
+>
+>　资源型插件，支持为转换模型预览html有关功能提供所需的srt资源（须先加载tab插件）。
+>
+>★[**headPreviewer插件**](https://www.bilibili.com/read/cv40260120)（[[F]内部公开](http://t.fenchuan8.com/A_AGsOQ20P)）
+>
+>　转换型插件，支持批量转换prm文件为模型预览html，或批量转换myskin文件的head为模型预览html（须先加载tab插件、resource_structure插件、resource_head插件）。
+>
+>★[**facePreviewer插件**](https://www.bilibili.com/read/cv40260247)（[[F]内部公开](http://t.fenchuan8.com/A_npWGCcR)）
+>
+>　转换型插件，支持批量转换face文件为模型预览html，或批量转换myskin文件的face为模型预览html（须先加载tab插件、resource_structure插件、resource_face插件）。
+>
+>★[**bodyPreviewer插件**](https://www.bilibili.com/read/cv40260282)（[[F]内部公开](http://t.fenchuan8.com/A_qPdZidX)）
+>
+>　转换型插件，支持批量转换body文件为模型预览html，或批量转换myskin文件的body为模型预览html（须先加载tab插件、resource_structure插件、resource_body插件）。
+>
+>★[**myskinPreviewer插件**](https://www.bilibili.com/read/cv40260478)（[[F]内部公开](http://t.fenchuan8.com/A_RbGsC1Oe)）
+>
+>　转换型插件，支持批量转换myskin文件为模型预览html（须先加载tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
+>
+>★[**skinPreviewer插件**](https://www.bilibili.com/read/cv40260553)（[[F]内部公开](http://t.fenchuan8.com/A_RbGsC1Oe)）
+>
+>　转换型插件，支持批量转换skin、hskin、hhskin文件为模型预览html（须先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
+>
+>★[**myskinSnapshoter插件**](https://www.bilibili.com/read/cv40267331)（[[F]内部公开](http://t.fenchuan8.com/A_1hZu9L)）
+>
+>　转换型插件，支持批量转换myskin文件为自定义模型快照bmp、png、tex（须先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
+>
+>★[**skinSnapshoter插件**](https://www.bilibili.com/read/cv40267336)（[[F]内部公开](http://t.fenchuan8.com/A_1hZu9L)）
+>
+>　转换型插件，支持批量转换skin、hskin、hhskin文件为自定义模型快照bmp、png、tex（须先加载myskinPreviewer插件、myskinSnapshoter插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
 >
 
