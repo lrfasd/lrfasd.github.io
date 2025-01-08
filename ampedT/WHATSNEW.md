@@ -3,6 +3,15 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20250108.html](ampedT_20250108.html)】
+>* 修复inflate存在的问题；
+>* face文件转预览html时，当存在face所需的fp、prm、tex资源，纹理图像上显示纹理线，可以点击图像切换显示；
+>* body文件转预览html时，当存在body所需的body、shp、prm资源，纹理图像上显示纹理线，可以点击图像切换显示；
+>* myskin文件转预览html时，当存在head所需的prm资源，skinHead的纹理图像上显示纹理线，可以点击图像切换显示；
+>* myskin文件转预览html时，当存在face所需的fp、prm、tex资源，skinFace的纹理图像上显示纹理线，可以点击图像切换显示；
+>* myskin文件转预览html时，当存在body所需的body、shp、prm资源，skinBody的纹理图像上显示纹理线，可以点击图像切换显示。
+>
+---
 >　【[ampedT_20241230.html](ampedT_20241230.html)】
 >* 从dmp提取的ser系列资源会逐一验证文件有效性，无效文件予以排除；
 >* 新增ser_check插件，支持在识别ser文件无效时自动排除；
