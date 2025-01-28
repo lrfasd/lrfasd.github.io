@@ -3,6 +3,16 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20250128.html](ampedT_20250128.html)】
+>* 从dmp提取的ser系列资源不默认进行有效性验证，通过加载ser_check插件实现有效性验证功能；
+>* facePreviewer插件、bodyPreviewer插件增加对资源缺失的容错处理；
+>* headPreviewer插件、facePreviewer插件、bodyPreviewer插件、myskinPreviewer插件完善对透明度的支持；
+>* myskinRewearer插件调整内部构成；
+>* myskin文件转预览html时，当已加载myskinRewearer插件，对加密的texture能解密予以显示；
+>* myskinFixer插件代码优化；
+>* 新增configEditor插件，支持批量编辑setting/config文件的键值数据。
+>
+---
 >　【[ampedT_20250108.html](ampedT_20250108.html)】
 >* 修复inflate存在的问题；
 >* face文件转预览html时，当存在face所需的fp、prm、tex资源，纹理图像上显示纹理线，可以点击图像切换显示；
