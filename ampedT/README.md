@@ -174,6 +174,10 @@
 >
 >　修改型插件，支持批量修改ssoa文件的userID值（须先加载kar插件）。
 >
+>★[**configEditor插件**](https://www.bilibili.com/read/cv40541536)（[[F]内部公开](http://t.fenchuan8.com/B_cPZeZ1I4)）
+>
+>　修改型插件，支持批量编辑setting/config文件的键值数据。
+>
 >★[**settingPatcher插件**](https://www.bilibili.com/read/cv17799215)（[[F]内部公开](http://t.fenchuan8.com/duoPa3Mn)）
 >
 >　修改型插件，支持批量修改、添加setting.kar的键值数据（须先加载kar插件）。
