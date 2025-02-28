@@ -6,7 +6,7 @@
 >　【[ampedT_20250228.html](ampedT_20250228.html)】
 >* 完善对是否加密texture的判断逻辑；
 >* 修复myskinTranslator插件、myskinRestructurer插件、myskinFixer插件、headPreviewer插件对无加密SkinHead也进行解密的错误；
->* headPreviewer插件、facePreviewer插件、bodyPreviewer插件、myskinPreviewer插件修改模型数据架构，支持部件的独立纹理。
+>* headPreviewer插件、facePreviewer插件、bodyPreviewer插件、myskinPreviewer插件修改模型数据架构，支持部件的分层数据。
 >
 ---
 >　【[ampedT_20250128.html](ampedT_20250128.html)】
