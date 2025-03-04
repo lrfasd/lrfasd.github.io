@@ -3,6 +3,10 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20250304.html](ampedT_20250304.html)】
+>* 从dmp提取ser系列资源时默认进行有效性验证，且不与ser_check插件重复验证。
+>
+---
 >　【[ampedT_20250228.html](ampedT_20250228.html)】
 >* 完善对是否加密texture的判断逻辑；
 >* 修复myskinTranslator插件、myskinRestructurer插件、myskinFixer插件、headPreviewer插件对无加密SkinHead也进行解密的错误；
