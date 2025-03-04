@@ -3,9 +3,9 @@
 >
 >[更新历史](WHATSNEW.md)
 ## 功能介绍
->[**人物造型数据详情html**](myskin_details.html)
+>[**myskin数据详情html**](myskin_details.html)
 >
->[**人物3D模型预览html**](myskin_model.html)
+>[**myskin模型3D预览html**](myskin_model.html)
 >
 >支持从Windows转储文件dmp中提取或从压缩文档zip、jar中读取class文件或以下文件并进行保存、转换格式、以html预览数据，支持批量操作：
 >
