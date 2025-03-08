@@ -7,7 +7,7 @@
 >
 >[**myskin模型3D预览html**](myskin_model.html)
 >
->支持从Windows转储文件dmp中提取或从压缩文档zip、jar中读取class文件或以下文件并进行保存、转换格式、以html预览数据，支持批量操作：
+>支持从Windows转储文件dmp中提取或从压缩文档zip、jar中读取以下文件并进行保存、转换格式、以html预览数据，支持批量操作：
 >
 >* 　tex；
 >* 　sr；
@@ -42,7 +42,7 @@
 >* 　agi。
 >
 ## 插件介绍
->　支持以下插件的手动加载☆，部分支持自动加载★：
+>　支持以下插件的手动加载☆，部分支持自动加载★（需将本体html和插件js放于同一文件夹）：
 >
 >★[**tab插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开](http://t.fenchuan8.com/wurus1hr)）
 >
