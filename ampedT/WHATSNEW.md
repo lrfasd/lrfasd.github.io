@@ -38,25 +38,25 @@
 >* 文件格式转换支持插件选项；
 >* 默认显示插件列表；
 >* prm文件转预览html时，纹理图像上显示纹理线，可以点击图像切换显示；
->* 新增resource_structure插件，支持为转换模型预览html有关功能提供所需的srt资源（须先加载tab插件）；
->* 新增resource_head插件，支持为head有关功能提供所需的prm资源（须先加载tab插件）；
->* 新增resource_face插件，支持为face有关功能提供所需fp、prm、tex资源（须先加载tab插件）；
->* 新增resource_body插件，支持为body有关功能提供所需的body、shp、prm资源（须先加载tab插件）；
+>* 新增resource_structure插件，支持为转换模型预览html有关功能提供所需的srt资源（需先加载tab插件）；
+>* 新增resource_head插件，支持为head有关功能提供所需的prm资源（需先加载tab插件）；
+>* 新增resource_face插件，支持为face有关功能提供所需fp、prm、tex资源（需先加载tab插件）；
+>* 新增resource_body插件，支持为body有关功能提供所需的body、shp、prm资源（需先加载tab插件）；
 >* myskinFixer插件不再自带prm资源，通过resource_head插件引用所需资源；
->* 新增headPreviewer插件，支持批量转换prm文件为模型预览html，或批量转换myskin文件的head为模型预览html（须先加载tab插件、resource_structure插件、resource_head插件）；
->* 新增facePreviewer插件，支持批量转换face文件为模型预览html，或批量转换myskin文件的face为模型预览html（须先加载tab插件、resource_structure插件、resource_face插件）；
->* 新增bodyPreviewer插件，支持批量转换body文件为模型预览html，或批量转换myskin文件的body为模型预览html（须先加载tab插件、resource_structure插件、resource_body插件）；
->* 新增myskinPreviewer插件，支持批量转换myskin文件为模型预览html（须先加载tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
->* 新增skinPreviewer插件，支持批量转换skin、hskin、hhskin文件为模型预览html（须先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
->* 新增myskinSnapshoter插件，支持批量转换myskin文件为自定义模型快照bmp、png、tex（须先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
->* 新增skinSnapshoter插件，支持批量转换skin、hskin、hhskin文件为自定义模型快照bmp、png、tex（须先加载myskinPreviewer插件、myskinSnapshoter插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
+>* 新增headPreviewer插件，支持批量转换prm文件为模型预览html，或批量转换myskin文件的head为模型预览html（需先加载tab插件、resource_structure插件、resource_head插件）；
+>* 新增facePreviewer插件，支持批量转换face文件为模型预览html，或批量转换myskin文件的face为模型预览html（需先加载tab插件、resource_structure插件、resource_face插件）；
+>* 新增bodyPreviewer插件，支持批量转换body文件为模型预览html，或批量转换myskin文件的body为模型预览html（需先加载tab插件、resource_structure插件、resource_body插件）；
+>* 新增myskinPreviewer插件，支持批量转换myskin文件为模型预览html（需先加载tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
+>* 新增skinPreviewer插件，支持批量转换skin、hskin、hhskin文件为模型预览html（需先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
+>* 新增myskinSnapshoter插件，支持批量转换myskin文件为自定义模型快照bmp、png、tex（需先加载myskinPreviewer插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）；
+>* 新增skinSnapshoter插件，支持批量转换skin、hskin、hhskin文件为自定义模型快照bmp、png、tex（需先加载myskinPreviewer插件、myskinSnapshoter插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
 >
 ---
 >　【[ampedT_20241111.html](ampedT_20241111.html)】
 >* 修复inflate可能造成无限循环的问题；
 >* myskinTranslator插件修复将userID错误置为空的问题；
 >* myskinRestructurer插件修复节点未加密时识别错误的问题；
->* myskinFixer插件修复头饰节点除错的问题；
+>* myskinFixer插件修复头部节点除错的问题；
 >* myskinFixer插件支持以遍历猜测从true转为false，如果prm库不存在对应prm则猜测失败。
 >
 ---
@@ -64,24 +64,24 @@
 >* 主要显示区域调整为等宽字体；
 >* 插件列表的插件工具提示增加显示插件说明；
 >* 修复序列化Java的float时将NaN错误默认为0的问题；
->* html预览中显示头饰、身体的节点时，浮点数固定为小数点后9位；
+>* html预览中显示头部、身体的节点时，浮点数固定为小数点后9位；
 >* 优化插件选项值为bmp、png、tex数据base64时的工具提示；
 >* 增加插件选项值为pts数据base64时显示工具提示；
 >* 插件选项值的pts数据支持序列化文件的base64和纯文本；
 >* myskinRedrawer插件、skinRedrawer插件更改选项名称；
 >* myskinUsurper插件、myskinTranslator插件、myskinRedrawer插件、myskinRewearer插件、myskinFixer插件、myskinRehider插件增加是否修改的识别，优化修改效率；
->* myskinFixer插件已无须先加载myskinTranslator插件；
->* 新增myskinRestructurer插件，支持批量修改myskin文件的头饰、身体节点；
->* 新增skinRestructurer插件，支持批量修改skin、hskin、hhskin文件的头饰、身体节点（须先加载kar插件、myskinRestructurer插件）。
+>* myskinFixer插件已无需先加载myskinTranslator插件；
+>* 新增myskinRestructurer插件，支持批量修改myskin文件的头部、身体节点；
+>* 新增skinRestructurer插件，支持批量修改skin、hskin、hhskin文件的头部、身体节点（需先加载kar插件、myskinRestructurer插件）。
 >
 ---
 >　【[ampedT_20241030.html](ampedT_20241030.html)】
 >* 修复插件选项排序不正确的问题；
 >* myskinTranslator插件优化结构；
->* myskinRewearer插件修改头饰支持prm类型；
+>* myskinRewearer插件修改头部支持prm类型；
 >* myskinRewearer插件、myskinRehider插件完善对空head的判断；
->* 新增myskinFixer插件，支持批量修改myskin文件头饰为prm（须先加载tab插件、myskinTranslator插件）；
->* 新增skinFixer插件，支持批量修改skin、hskin、hhskin文件头饰为prm（须先加载kar插件、tab插件、myskinTranslator插件、skinTranslator插件）。
+>* 新增myskinFixer插件，支持批量修改myskin文件头部为prm（需先加载tab插件、myskinTranslator插件）；
+>* 新增skinFixer插件，支持批量修改skin、hskin、hhskin文件头部为prm（需先加载kar插件、tab插件、myskinTranslator插件、skinTranslator插件）。
 >
 ---
 >　【[ampedT_20241027.html](ampedT_20241027.html)】
@@ -93,7 +93,7 @@
 >* 支持读取大容量dmp文件，并增加读取进度提示；
 >* 调整生成包文件中的文件扩展名策略；
 >* 新增myskinRehider插件，支持批量修改myskin文件脸部是否隐藏；
->* 新增skinRehider插件，支持批量修改skin、hskin、hhskin文件脸部是否隐藏（须先加载kar插件、myskinRehider插件）。
+>* 新增skinRehider插件，支持批量修改skin、hskin、hhskin文件脸部是否隐藏（需先加载kar插件、myskinRehider插件）。
 >
 ---
 >　【[ampedT_20241025.html](ampedT_20241025.html)】
@@ -109,8 +109,8 @@
 >* 优化inflate时数据错误的判断；
 >* 增加读取tex的容错机制；
 >* myskinProtector插件最大程度减少反序列化次数，完善是否高清的识别逻辑；
->* 新增myskinRewearer插件，支持批量修改myskin文件头饰的纹理版本；
->* 新增skinRewearer插件，支持批量修改skin、hskin、hhskin文件头饰的纹理版本（须先加载kar插件、myskinRewearer插件）。
+>* 新增myskinRewearer插件，支持批量修改myskin文件头部的纹理版本；
+>* 新增skinRewearer插件，支持批量修改skin、hskin、hhskin文件头部的纹理版本（需先加载kar插件、myskinRewearer插件）。
 >
 ---
 >　【[ampedT_20231115.html](ampedT_20231115.html)】
@@ -118,24 +118,24 @@
 >* 新增插件版本控制功能；
 >* 所有插件增加版本控制功能；
 >* myskin_check插件支持可选深度计算，默认为否；
->* 新增settingAnalyzer_quiz插件，支持从setting.kar解析并列出死亡问答题目及答案（须先加载kar插件）。
+>* 新增settingAnalyzer_quiz插件，支持从setting.kar解析并列出死亡问答题目及答案（需先加载kar插件）。
 >
 ---
 >　【[ampedT_20230826.html](ampedT_20230826.html)】
 >* 修复解析dmp出错的问题；
 >* 完善replay中result的读取；
->* 新增replayProtector插件，支持批量转换replay文件为repkar文件（须先加载kar插件）;
->* 新增repkarUnprotector插件，支持批量转换repkar文件为replay文件（须先加载kar插件）;
->* 新增replayTranslator插件，支持转换replay文件为其他服务器支持的数据（须先加载myskinTranslator插件）；
->* 新增repkarTranslator插件，支持转换repkar文件为其他服务器支持的数据（须先加载kar插件、replayTranslator插件、myskinTranslator插件）；
+>* 新增replayProtector插件，支持批量转换replay文件为repkar文件（需先加载kar插件）;
+>* 新增repkarUnprotector插件，支持批量转换repkar文件为replay文件（需先加载kar插件）;
+>* 新增replayTranslator插件，支持转换replay文件为其他服务器支持的数据（需先加载myskinTranslator插件）；
+>* 新增repkarTranslator插件，支持转换repkar文件为其他服务器支持的数据（需先加载kar插件、replayTranslator插件、myskinTranslator插件）；
 >* 默认读入同目录下的上述插件；
 >* 新增replayExtractor插件，支持从replay文件提取myassc、tex、myskin等资源；
->* 新增repkarExtractor插件，支持从repkar文件提取myassc、tex、myskin等资源（须先加载kar插件、replayExtractor插件）；
->* 新增settingAnalyzer_island插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、产出物品概率、兑换奖励概率并计算每小时平均兑换奖励列表及数量（须先加载kar插件）；
->* skinUnprotector插件支持批量转换skin、hskin、hhskin文件为html文件（须先加载kar插件）;
->* omdUnprotector插件支持批量转换omd文件为html文件（须先加载kar插件）;
->* ssoaUnprotector插件支持批量转换ssoa文件为html文件（须先加载kar插件）;
->* repkarUnprotector插件支持批量转换repkar文件为html文件（须先加载kar插件）。
+>* 新增repkarExtractor插件，支持从repkar文件提取myassc、tex、myskin等资源（需先加载kar插件、replayExtractor插件）；
+>* 新增settingAnalyzer_island插件，支持从setting.kar解析无人岛不同钓竿工具单次用时、产出物品概率、兑换奖励概率并计算每小时平均兑换奖励列表及数量（需先加载kar插件）；
+>* skinUnprotector插件支持批量转换skin、hskin、hhskin文件为html文件（需先加载kar插件）;
+>* omdUnprotector插件支持批量转换omd文件为html文件（需先加载kar插件）;
+>* ssoaUnprotector插件支持批量转换ssoa文件为html文件（需先加载kar插件）;
+>* repkarUnprotector插件支持批量转换repkar文件为html文件（需先加载kar插件）。
 >
 ---
 >　【[ampedT_20230818.html](ampedT_20230818.html)】
@@ -174,34 +174,34 @@
 >* settingPatcher插件代码调整，键不存在时也能添加值，支持批量修改多个文件；
 >* settingExporter插件架构优化，提升性能，部分设定增加排序；
 >* settingAnalyzer_mission插件架构优化，提升性能；
->* 新增resourceAnalyzer_oaResource插件，支持从resource.kar内含的oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源分析汇总字符串资源列表（须先加载kar插件）；
->* 新增resourceAnalyzer_scFunction插件，支持从resource.kar内含的sc文件和oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源中的sc数据分析汇总脚本方法列表（须先加载kar插件）。
+>* 新增resourceAnalyzer_oaResource插件，支持从resource.kar内含的oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源分析汇总字符串资源列表（需先加载kar插件）；
+>* 新增resourceAnalyzer_scFunction插件，支持从resource.kar内含的sc文件和oa、aoa、ioa、poa文件及文件内嵌套包含的oa、aoa、ioa、poa资源中的sc数据分析汇总脚本方法列表（需先加载kar插件）。
 >
 ---
 >　【[ampedT_20230105.html](ampedT_20230105.html)】
->* 新增omdUsurper插件，支持批量修改omd文件的userID值（须先加载kar插件）;
->* 新增ssoaUsurper插件，支持批量修改ssoa文件的userID值（须先加载kar插件）;
+>* 新增omdUsurper插件，支持批量修改omd文件的userID值（需先加载kar插件）;
+>* 新增ssoaUsurper插件，支持批量修改ssoa文件的userID值（需先加载kar插件）;
 >* 插件选项支持通过打开文件输入base64值；
 >* 插件选项值文本框和打开文件按钮直接接受拖拽文件；
 >* 插件选项值为图片base64时，工具提示显示图片显示的宽度和高度；
->* 新增myskinRedrawer插件，支持批量修改myskin文件的头饰、脸部、身体纹理图片；
->* 新增skinRedrawer插件，支持批量修改skin、hskin、hhskin文件的头饰、脸部、身体纹理图片（须先加载kar插件、myskinRedrawer插件）；
+>* 新增myskinRedrawer插件，支持批量修改myskin文件的头部、脸部、身体纹理图片；
+>* 新增skinRedrawer插件，支持批量修改skin、hskin、hhskin文件的头部、脸部、身体纹理图片（需先加载kar插件、myskinRedrawer插件）；
 >* 默认读入同目录下的上述插件。
 >
 ---
 >　【[ampedT_20221231.html](ampedT_20221231.html)】
->* 新增mymapProtector插件，支持批量转换mymap文件为omd文件（须先加载kar插件）;
->* 新增omdUnprotector插件，支持批量转换omd文件为mymap文件（须先加载kar插件）;
->* 新增mysoaProtector插件，支持批量转换mysoa文件为ssoa文件（须先加载kar插件）;
->* 新增ssoaUnprotector插件，支持批量转换ssoa文件为mysoa文件（须先加载kar插件）;
+>* 新增mymapProtector插件，支持批量转换mymap文件为omd文件（需先加载kar插件）;
+>* 新增omdUnprotector插件，支持批量转换omd文件为mymap文件（需先加载kar插件）;
+>* 新增mysoaProtector插件，支持批量转换mysoa文件为ssoa文件（需先加载kar插件）;
+>* 新增ssoaUnprotector插件，支持批量转换ssoa文件为mysoa文件（需先加载kar插件）;
 >* 优化对转换文件失败的显示；
 >* 增强对插件选项的支持，已修改值标记为红色边框，批量操作时跳过识别无值选项的修改识别；
 >* 在批量转换的基础上新增批量修改功能，批量转换后应用批量修改；
 >* 新增“视为从包”选项，将读入的文件视为从包中读取；
 >* 新增myskinUsurper插件，支持批量修改myskin文件的userID值；
->* skinUsurper插件支持批量修改（须先加载kar插件、myskinUsurper插件）；
+>* skinUsurper插件支持批量修改（需先加载kar插件、myskinUsurper插件）；
 >* 新增myskinTranslator插件，支持批量修改myskin文件为其他服务器支持的数据；
->* skinTranslator插件支持批量修改（须先加载kar插件、myskinTranslator插件）；
+>* skinTranslator插件支持批量修改（需先加载kar插件、myskinTranslator插件）；
 >* settingPatcher插件支持批量修改；
 >* 默认读入同目录下的上述插件。
 >
@@ -222,7 +222,7 @@
 >* 修复settingPatcher插件、skinUsurper插件、skinTranslator插件不适配新版本的问题；
 >* skinUsurper插件、skinTranslator插件、settingPatcher插件支持计算生成文件用时；
 >* settingAnalyzer_mission插件支持计算携带不同装备道具增加成功率全部探索任务的平均值；
->* 新增skinUnprotector插件，支持批量转换skin、hskin、hhskin文件为myskin文件（须先加载kar插件）；
+>* 新增skinUnprotector插件，支持批量转换skin、hskin、hhskin文件为myskin文件（需先加载kar插件）；
 >* 默认读入同目录下的skinUnprotector插件。
 >
 ---
@@ -238,8 +238,8 @@
 >* 无扩展名文件自动分析其类型；
 >* 优化对DatabaseResourceSource$DataPack的解包处理；
 >* kar插件、tab插件、zip支持空文件；
->* 新增kar_guess插件，支持动态密码的cache系列kar文件的解包（须先加载kar插件）；
->* 新增settingAnalyzer_mission插件，支持从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（须先加载kar插件）。
+>* 新增kar_guess插件，支持动态密码的cache系列kar文件的解包（需先加载kar插件）；
+>* 新增settingAnalyzer_mission插件，支持从setting.kar解析不同探索任务携带不同装备道具增加的成功率并进行排序（需先加载kar插件）。
 >
 ---
 >　【[ampedT_20221104.html](ampedT_20221104.html)】
@@ -265,10 +265,10 @@
 >　【[ampedT_20220813.html](ampedT_20220813.html)】
 >* 重构pt2和mop数据读入；
 >* myskin和replay的cc数据增加对应lang的工具提示；
->* myskin对头饰、身体的节点数据进行解密；
+>* myskin对头部、身体的节点数据进行解密；
 >* 通过插件修改文件后立即同步文件信息；
 >* 插件不支持当前文件相关功能时选项变为无效；
->* 新增skinTranslator插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（须先加载kar插件）。
+>* 新增skinTranslator插件，支持转换skin、hskin、hhskin文件为其他服务器支持的数据（需先加载kar插件）。
 >
 ---
 >　【[ampedT_20220806.html](ampedT_20220806.html)】
@@ -283,10 +283,10 @@
 >* 文本域预览为只读；
 >* 读入无扩展名文件尝试分析文件扩展名；
 >* 支持插件自定义选项；
->* 新增myskinProtector插件，支持批量转换myskin文件为skin、hskin、hhskin文件（须先加载kar插件）；
->* 新增skinUsurper插件，支持修改skin、hskin、hhskin文件的编辑者ID（须先加载kar插件）；
->* 新增settingPatcher插件，支持修改setting.kar的键值数据（须先加载kar插件）；
->* 新增settingExporter插件，支持从setting.kar导出unicode文件（须先加载kar插件）；
+>* 新增myskinProtector插件，支持批量转换myskin文件为skin、hskin、hhskin文件（需先加载kar插件）；
+>* 新增skinUsurper插件，支持修改skin、hskin、hhskin文件的编辑者ID（需先加载kar插件）；
+>* 新增settingPatcher插件，支持修改setting.kar的键值数据（需先加载kar插件）；
+>* 新增settingExporter插件，支持从setting.kar导出unicode文件（需先加载kar插件）；
 >* 默认读入同目录下的skinProtector插件。
 >
 ---
