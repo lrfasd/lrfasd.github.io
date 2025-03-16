@@ -3,6 +3,16 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20250315.html](ampedT_20250315.html)】
+>* 新增myskin_local插件，支持将myskin文件从服务器化修正为本地化；
+>* headPreviewer插件、facePreviewer插件、bodyPreviewer插件、myskinPreviewer插件、myskinSnapshoter变更为shp框架，支持相同纹理的数据索引化；
+>* 新增shpPreviewer插件，支持批量转换shp文件为模型预览html；
+>* 新增oaPreviewer插件，支持批量转换oa、aoa、ioa、poa文件为模型预览html（需先加载shpPreviewer插件）；
+>* 新增prmMerger插件，支持批量修改prm文件为从多个prm文件或shp、oa、aoa、ioa、poa文件提取的prm数据合并文件；
+>* 新增myskinReplacer插件，支持批量修改myskin文件的头部、脸部、身体；
+>* 新增skinReplacer插件，支持批量修改skin、hskin、hhskin文件的头部、脸部、身体（需先加载kar插件、myskinReplacer插件）。
+>
+---
 >　【[ampedT_20250304.html](ampedT_20250304.html)】
 >* 从dmp提取ser系列资源时默认进行有效性验证，且不与ser_check插件重复验证。
 >
