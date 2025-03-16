@@ -68,6 +68,10 @@
 >
 >　辅助型插件，支持在识别myskin文件数字验证错误后重新验证。
 >
+>★[**myskin_local插件**](https://www.bilibili.com/read/cv41023037)（[[F]内部公开](http://t.fenchuan8.com/B_dmg0Q2DJ)）
+>
+>　辅助型插件，支持将myskin文件从服务器化修正为本地化。
+>
 >★[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[[F]内部公开](http://t.fenchuan8.com/qLqq12RF)）
 >
 >　转换型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（需先加载kar插件）。
@@ -131,6 +135,18 @@
 >★[**skinRehider插件**](https://www.bilibili.com/read/cv39590696)（[[F]内部公开](http://t.fenchuan8.com/18R0CuL)）
 >
 >　修改型插件，支持批量修改skin、hskin、hhskin文件脸部是否隐藏（需先加载kar插件、myskinRehider插件）。
+>
+>★[**myskinReplacer插件**](https://www.bilibili.com/read/cv41024424)（[[F]内部公开](http://t.fenchuan8.com/B_NXYxn1KR)）
+>
+>　修改型插件，支持批量修改myskin文件的头部、脸部、身体。
+>
+>★[**skinRehider插件**](https://www.bilibili.com/read/cv41026687)（[[F]内部公开](http://t.fenchuan8.com/B_NXYxn1KR)）
+>
+>　修改型插件，支持批量修改skin、hskin、hhskin文件的头部、脸部、身体（需先加载kar插件、myskinReplacer插件）。
+>
+>★[**prmMerger插件**](https://www.bilibili.com/read/cv41023564)（[[F]内部公开](http://t.fenchuan8.com/B_6n5IY41s)）
+>
+>　修改型插件，支持批量修改prm文件为从多个prm文件或shp、oa、aoa、ioa、poa文件提取的prm数据合并文件。
 >
 >★[**replayProtector插件**](https://www.bilibili.com/read/cv26056175)（[[F]内部公开](http://t.fenchuan8.com/xy4fg4wc)）
 >
@@ -255,5 +271,13 @@
 >★[**skinSnapshoter插件**](https://www.bilibili.com/read/cv40267336)（[[F]内部公开](http://t.fenchuan8.com/A_1hZu9L)）
 >
 >　转换型插件，支持批量转换skin、hskin、hhskin文件为自定义模型快照bmp、png、tex（需先加载myskinPreviewer插件、myskinSnapshoter插件、tab插件、resource_structure插件、resource_head插件、headPreviewer插件、resource_face插件、facePreviewer插件、resource_body插件、bodyPreviewer插件）。
+>
+>★[**shpPreviewer插件**](https://www.bilibili.com/read/cv41023263)（[[F]内部公开](http://t.fenchuan8.com/B_9qbrq2cb)）
+>
+>　转换型插件，支持批量转换shp文件为模型预览html。
+>
+>★[**oaPreviewer插件**](https://www.bilibili.com/read/cv41023267)（[[F]内部公开](http://t.fenchuan8.com/B_jDcyl1ZI)）
+>
+>　转换型插件，支持批量转换oa、aoa、ioa、poa文件为模型预览html（需先加载shpPreviewer插件）。
 >
 
