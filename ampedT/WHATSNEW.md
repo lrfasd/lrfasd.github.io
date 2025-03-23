@@ -3,6 +3,13 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20250322.html](ampedT_20250322.html)】
+>* skinUsurper插件修复skin文件为旧版本时userID无法正常读取的问题，同时更新skinTranslator、skinRedrawer、skinRestructurer、skinRewearer、skinFixer、skinRehider、skinReplacer插件相关代码；
+>* prmMerger插件增加支持actionIndex、hideParts参数；
+>* 新增shpSnapshoter插件，支持批量转换shp文件为自定义模型快照bmp、png、tex（需先加载shpPreviewer插件）；
+>* 新增oaSnapshoter插件，支持批量转换oa、aoa、ioa、poa文件为自定义模型快照bmp、png、tex（需先加载shpPreviewer插件、oaPreviewer插件、shpSnapshoter插件）。
+>
+---
 >　【[ampedT_20250315.html](ampedT_20250315.html)】
 >* 新增myskin_local插件，支持将myskin文件从服务器化修正为本地化；
 >* headPreviewer插件、facePreviewer插件、bodyPreviewer插件、myskinPreviewer插件、myskinSnapshoter变更为shp框架，支持相同纹理的数据索引化；
