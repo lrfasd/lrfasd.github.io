@@ -7,9 +7,13 @@
 >
 >[**myskin模型3D预览html**](myskin_model.html)
 >
->[**oa数据详情html**](oa_details.html)
+>[**shp数据详情html**](stalker.shp_details.html)
 >
->[**oa模型3D预览html**](oa_model.html)
+>[**shp模型3D预览html**](stalker.shp_model.html)
+>
+>[**oa数据详情html**](mechasuit.oa_details.html)
+>
+>[**oa模型3D预览html**](mechasuit.oa_model.html)
 >
 >支持从Windows转储文件dmp中提取或从压缩文档zip、jar中读取以下文件并进行保存、转换格式、以html预览数据，支持批量操作：
 >
