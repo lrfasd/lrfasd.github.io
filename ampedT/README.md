@@ -279,5 +279,11 @@
 >★[**oaPreviewer插件**](https://www.bilibili.com/read/cv41023267)（[[F]内部公开](http://t.fenchuan8.com/B_jDcyl1ZI)）
 >
 >　转换型插件，支持批量转换oa、aoa、ioa、poa文件为模型预览html（需先加载shpPreviewer插件）。
+>★[**shpSnapshoter插件**](https://www.bilibili.com/read/cv41102945)（[[F]内部公开](http://t.fenchuan8.com/B_Oevwr3aZ)）
+>
+>　转换型插件，支持批量转换shp文件为自定义模型快照bmp、png、tex（需先加载shpPreviewer插件）。
+>★[**oaSnapshoter插件**](https://www.bilibili.com/read/cv41102984)（[[F]内部公开](http://t.fenchuan8.com/B_2XXPLMx)）
+>
+>　转换型插件，支持批量转换oa、aoa、ioa、poa文件为自定义模型快照bmp、png、tex（需先加载shpPreviewer插件、oaPreviewer插件、shpSnapshoter插件）。
 >
 
