@@ -76,6 +76,10 @@
 >
 >　辅助型插件，支持将myskin文件从服务器化修正为本地化。
 >
+>★[**skinReporter插件**](https://www.bilibili.com/read/cv41373804)（[[F]内部公开](http://t.fenchuan8.com/B_NICVAdC)）
+>
+>　辅助型插件，支持将skin、hskin、hhskin文件以服务器验证标准生成未通过验证数据的分析报告（需先加载kar插件）。
+>
 >★[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[[F]内部公开](http://t.fenchuan8.com/qLqq12RF)）
 >
 >　转换型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（需先加载kar插件）。
