@@ -3,6 +3,18 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20250416.html](ampedT_20250416.html)】
+>* 以预览html查看tex时，显示tex相关操作和信息的工具提示，可切换白色、黑色、无参考线，并可改变尺寸大小；
+>* 优化数据转换后的文件名；
+>* 固定转换选项的顺序；
+>* 固定插件列表的顺序；
+>* 将调用ser_check验证文件的范围扩展到包内所有文件；
+>* myskinFixer插件更新内置数据，优化识别方式；
+>* headPreviewer插件、facePreviewer插件、bodyPreviewer插件、shpPreviewer插件调整绘制代码；
+>* resource_head插件、resource_face插件、resource_body插件更新资源；
+>* 新增skinReporter插件，支持将skin、hskin、hhskin文件以服务器验证标准生成未通过验证数据的分析报告（需先加载kar插件）。
+>
+---
 >　【[ampedT_20250322.html](ampedT_20250322.html)】
 >* skinUsurper插件修复skin文件为旧版本时userID无法正常读取的问题，同时更新skinTranslator、skinRedrawer、skinRestructurer、skinRewearer、skinFixer、skinRehider、skinReplacer插件相关代码；
 >* prmMerger插件增加支持actionIndex、hideParts参数；
