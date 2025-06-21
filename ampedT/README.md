@@ -52,39 +52,39 @@
 ## 插件介绍
 >　支持以下插件的手动加载☆，部分支持自动加载★（需将本体html和插件js放于同一文件夹）：
 >
->★[**tab插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开](http://t.fenchuan8.com/wurus1hr)）
+>★[**tab插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开0](http://t.fenchuan8.com/wurus1hr)）
 >
 >　基础型插件，支持tab文件的解包、打包。
 >
->★[**kar插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开](http://t.fenchuan8.com/T1U2K3Sf)）
+>★[**kar插件**](https://www.bilibili.com/read/cv17416453)（[[F]内部公开198](http://t.fenchuan8.com/T1U2K3Sf)）
 >
 >　基础型插件，支持kar、dat、repkar、skin、hskin、hhskin、omd、ssoa文件的解包、打包。
 >
->☆[**ser_check插件**](https://www.bilibili.com/read/cv40249041)（[[F]内部公开](http://t.fenchuan8.com/A_NIuyf24i)）
+>☆[**ser_check插件**](https://www.bilibili.com/read/cv40249041)（[[F]内部公开2](http://t.fenchuan8.com/A_NIuyf24i)）
 >
 >　辅助型插件，支持在识别ser文件无效时自动排除。
 >
->☆[**kar_guess插件**](https://www.bilibili.com/read/cv20602933)（[[F]内部公开](http://t.fenchuan8.com/xWyzV3XN)）
+>☆[**kar_guess插件**](https://www.bilibili.com/read/cv20602933)（[[F]内部公开30](http://t.fenchuan8.com/xWyzV3XN)）
 >
 >　辅助型插件，支持在解析kar系列文件密码失败后猜测密码（需先加载kar插件）。
 >
->★[**myskin_check插件**](https://www.bilibili.com/read/cv20636645)（[[F]内部公开](http://t.fenchuan8.com/3sd1B2pf)）
+>★[**myskin_check插件**](https://www.bilibili.com/read/cv20636645)（[[F]内部公开30](http://t.fenchuan8.com/3sd1B2pf)）
 >
 >　辅助型插件，支持在识别myskin文件数字验证错误后重新验证。
 >
->★[**myskin_local插件**](https://www.bilibili.com/read/cv41023037)（[[F]内部公开](http://t.fenchuan8.com/B_dmg0Q2DJ)）
+>★[**myskin_local插件**](https://www.bilibili.com/read/cv41023037)（[[F]内部公开68](http://t.fenchuan8.com/B_dmg0Q2DJ)）
 >
 >　辅助型插件，支持将myskin文件从服务器化修正为本地化。
 >
->★[**skinReporter插件**](https://www.bilibili.com/read/cv41373804)（[[F]内部公开](http://t.fenchuan8.com/B_NICVAdC)）
+>★[**skinReporter插件**](https://www.bilibili.com/read/cv41373804)（[[F]内部公开30](http://t.fenchuan8.com/B_NICVAdC)）
 >
 >　辅助型插件，支持将skin、hskin、hhskin文件以服务器验证标准生成未通过验证数据的分析报告（需先加载kar插件）。
 >
->★[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[[F]内部公开](http://t.fenchuan8.com/qLqq12RF)）
+>★[**myskinProtector插件**](https://www.bilibili.com/read/cv17865646)（[[F]内部公开2](http://t.fenchuan8.com/qLqq12RF)）
 >
 >　转换型插件，支持批量转换myskin文件为skin、hskin、hhskin文件（需先加载kar插件）。
 >
->★[**skinUnprotector插件**](https://www.bilibili.com/read/cv20051529)（[[F]内部公开](http://t.fenchuan8.com/vdByG182)）
+>★[**skinUnprotector插件**](https://www.bilibili.com/read/cv20051529)（[[F]内部公开2](http://t.fenchuan8.com/vdByG182)）
 >
 >　转换型插件，支持批量转换skin、hskin、hhskin文件为myskin文件或html预览（需先加载kar插件）。
 >
@@ -287,9 +287,11 @@
 >★[**oaPreviewer插件**](https://www.bilibili.com/read/cv41023267)（[[F]内部公开](http://t.fenchuan8.com/B_jDcyl1ZI)）
 >
 >　转换型插件，支持批量转换oa、aoa、ioa、poa文件为模型预览html（需先加载shpPreviewer插件）。
+>
 >★[**shpSnapshoter插件**](https://www.bilibili.com/read/cv41102945)（[[F]内部公开](http://t.fenchuan8.com/B_Oevwr3aZ)）
 >
 >　转换型插件，支持批量转换shp文件为自定义模型快照bmp、png、tex（需先加载shpPreviewer插件）。
+>
 >★[**oaSnapshoter插件**](https://www.bilibili.com/read/cv41102984)（[[F]内部公开](http://t.fenchuan8.com/B_2XXPLMx)）
 >
 >　转换型插件，支持批量转换oa、aoa、ioa、poa文件为自定义模型快照bmp、png、tex（需先加载shpPreviewer插件、oaPreviewer插件、shpSnapshoter插件）。
