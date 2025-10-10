@@ -3,6 +3,11 @@
 >
 >[功能介绍](README.md)
 ## 更新历史
+>　【[ampedT_20251010.html](ampedT_20251010.html)】
+>* myskin_local插件支持修正新的fp验证；
+>* skinReporter插件支持识别新的fp验证。
+>
+---
 >　【[ampedT_20250416.html](ampedT_20250416.html)】
 >* 以预览html查看tex时，显示tex相关操作和信息的工具提示，可切换白色、黑色、无参考线，并可改变尺寸大小；
 >* 优化数据转换后的文件名；
